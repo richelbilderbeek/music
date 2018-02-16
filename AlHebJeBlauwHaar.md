@@ -1,21 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([Music](Music.htm)) [Al Heb Je Blauw Haar](SongAlHebJeBlauwHaar.htm)
-=====================================================================
-
- 
+# ([Music](Music.htm)) [Al Heb Je Blauw Haar](SongAlHebJeBlauwHaar.htm)
 
 [Al Heb Je Blauw Haar](SongAlHebJeBlauwHaar.htm) is a lovesong written
 by me on the 5th of April in 2003.
@@ -80,21 +63,3 @@ Lyrics
   ` X:1 T:Al heb je blauw haar C:Richel Bilderbeek L:1/4 Q:1/4=144 M:4/4 K:C V:V1 clef=treble V:V2 clef=bass % % 1-4 % [V:V1] A2     c  e     | d2 z  c   | e2       e/2 d/2 e    | e2   d   c      | w:     Alheb  je blauw | haar, dan | wil      dat nog niet | zeg- gen dat,   | [V:V2] F,,C,F,z        | G,,D,G,z  | A,,E,A,z              | G,,D,G,z        | %      F               | G         | A                     | G               | % % 5-8 % [V:V1] z2 A    c  | e2   d  e   | z2 z e   | e d c B    |  w:        dat  ik | met je paar |          |            | [V:V2] F,,C,F,z   | G,,D,G,z    | A,,E,A,z | G,,D,G,z   | %      F          | G           | A        | G          | % % 9-12 % [V:V1] z2 z      f   | f e d e   | z2 z e      | e d c B    |  [V:V2] F,,C,F,z      | G,,D,G,z  | A,,E,A,z    | G,,D,G,z   | %      F             | G         | A           | G          | % % 13-16 % [V:V1] z2 z     f | f2 e2      |[c4e4]       | z4         | [V:V2] F,,C,F,z   | G,,D,G,z   | A,,E,A,z    | G,,D,G,z   | %      F          | G          | A           | G          |`
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)

@@ -1,6 +1,6 @@
-# MonsierPannetier
+# Monsier Pannetier
 
-Monsier Pannetier is a parody on the song 'Monsier Cannibale' by Sacha Distel
+'Monsier Pannetier' is a parody on the song 'Monsier Cannibale' by Sacha Distel.
 
 ## Lyrics
 

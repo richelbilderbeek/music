@@ -1,17 +1,3 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ([Music](Music.htm)) [Das Leben Ist Mist](SongDasLebenIstMist.htm)
 ==================================================================
 
@@ -28,22 +14,3 @@
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ` Das Leben Ist Mist Written by Richel Bilderbeek On the someday'th From http://www.richelbilderbeek.nl   Fuer eine sehr lange Weile wenn ich noch klein war sas ich einmal in die dritte Gruppe  Und denn war ich schon superklug und mein bester Freundchen auch aber ab eine Tag wir bis Zehn zahlen lernten bekam mein Freunchen ein Lernverspaetung  Weil wann er war geboren hiesst er Koen und hatte er nur drei Fingers  Refrain Mist, Mist, Mimimimimimist Mist, Mist, das Leben ist Mist  Fuer eine sehr lange Weile wann ich noch klein war sas ich einmal in Gymnasium zechs  und dann war ich schon superstaemmig,  weil ich sehr viel Bier saufen koennte  und auf ein sicheren Tag wueste ich es sich dass ich wohl ein Mutanst sein muss  und denn wollte ich kaempfen gegeg das Boese aber alle Superschurken wohenn in Amerika  Refrain`
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
