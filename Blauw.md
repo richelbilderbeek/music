@@ -9,9 +9,28 @@ Written by Richel Bilderbeek on the 7th March of 2004
 -   [Download the MP3 of 'Blauw' (recorded on the 2nd of September
     of 2006)](CD06_02Blauw20060902.mp3)
 
- 
+```
+Blauw
+Written by Richel Bilderbeek
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Blauw Written by Richel Bilderbeek On the 7th March 2004 From http://www.richelbilderbeek.nl   Ik geef een feest op blauw omdat ik dat anders nooit onthoud Ik geef een feest op 06-10684032  Ik zuip me klem op jou omdat ik zoveel  van je houd ik zuip me klem omdat ik jou ken en niet ben bij jou`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ik geef een feest
+op blauw
+omdat ik dat anders
+nooit onthoud
+Ik geef een feest
+op 06-10684032
+
+Ik zuip me klem
+op jou
+omdat ik zoveel
+van je houd
+ik zuip me klem
+omdat ik jou ken
+en niet
+ben bij jou
+```
+
+## Background
+
+I missed a girlfriend of mine, while playing the piano.
 
