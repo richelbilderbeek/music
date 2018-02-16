@@ -1,0 +1,53 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's music page](Music.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([Music](Music.htm)) [Ah! Les crocodiles](SongAhLesCrocodiles.htm)
+==================================================================
+
+ 
+
+[Ah! Les crocodiles](SongAhLesCrocodiles.htm) is a French nursery rhyme.
+
+ 
+
+-   [View the ABC music notation sheet of 'Ah! Les crocodiles
+    (abc)](SongAhLesCrocodiles.abc)
+-   [View the sheet music of 'Ah! Les crocodiles
+    (png)](SongAhLesCrocodiles.png)
+-   [Listen to 'Ah! Les crocodiles (mid)](SongAhLesCrocodiles.mid)
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` X:1 T:Ah! Les crododiles! C:Unknown L:1/4 Q:1/4=120 M:2/4 K:F V:V1 clef=treble V:V2 clef=bass % % [V:V1] F F3/4 A/4 | c3/2 c/2 | B/2 A/2 B/2 c/2 | A G | G G3/4 G/4 | G3/2 G/2 | % % [V:V1] A/2 G/2 A/2 =B/2 :||: c2 | C/2 A/2 A/2 A/2 | C/2 A/2 A/2 A/2 | C/2 A/2 A/2 A/2 | % % [V:V1] B G | C/2 G/2 G/2 G/2 | C/2 G/2 G/2 G/2 | c/2 B/2 A/2 G/2 | A2 :|`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's music page](Music.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

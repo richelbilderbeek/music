@@ -1,0 +1,52 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's music page](Music.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([Music](Music.htm)) [O Mooie Geluidsvrouw](SongOMooieGeluidsvrouw.htm)
+=======================================================================
+
+ 
+
+-   [View the ABC notation file of 'O Mooie Geluidsvrouw'
+    (abc)](SongOMooieGeluidsvrouw.abc)
+-   [View the sheet music of 'O Mooie Geluidsvrouw'
+    (png)](SongOMooieGeluidsvrouw.png)
+-   [Download the sheet music of 'O Mooie Geluidsvrouw'
+    (ps)](SongOMooieGeluidsvrouw.ps)
+-   [Listen to the music of 'O Mooie Geluidsvrouw'
+    (mid)](SongOMooieGeluidsvrouw.mid)
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` O Mooie Geluidsvrouw Melody written by Richel Bilderbeek on the 18th of April Lyrics written by 'Het Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet' on the 21st April 2002 From http://www.richelbilderbeek.nl   Jij bent mooi, jij bent mooi  maar je borsten zijn te groot    Jij ben lief, jij bent lief maar je bent net mijn zusje  Jij kleedt je mooi, jij kleedt je mooi maar die rokken staan je niet  Jij lacht mooi, jij lacht mooi maar je lippen zijn te rood  Je haar is mooi, je haar is mooi maar het is veel te lang  Jij vrijt goed, jij vrijt goed maar je vagina is te wijd  Je stem is mooi, je stem is mooi maar het is veel te hoog  Jij bent mooi, jij bent mooi  maar ik val toch meer op je broer`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's music page](Music.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
