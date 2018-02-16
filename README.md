@@ -11,6 +11,8 @@ That I am a bad singer and piano player does not hold me back.
 
  * [Discography](Discography.md)
  * [Unrecorded lyrics](UnrecordedLyrics.md)
+ * [The Fanstars](TheFanstars.md): band I was a member of
+ * [Het Bilderbeek, Bilderbeek en Bogaart Bogaart Quartet](Quartet.md): band I was a member of
 
 ## Downloads
 
