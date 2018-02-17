@@ -1,9 +1,16 @@
-([Music](Music.htm)) [Das Kaffeelied](SongDasKaffeelied.htm)
-============================================================
+# ([Music](Music.htm)) [Das Kaffeelied](SongDasKaffeelied.htm)
 
- 
+```
+Das Kaffeelied
+Written by Richel Bilderbeek
+On the someday'th
+From http://www.richelbilderbeek.nl
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Das Kaffeelied Written by Richel Bilderbeek On the someday'th From http://www.richelbilderbeek.nl   CAMP das ist worauf wir steh' und AMP durch PDE das finden wir nicht tollie gehen`
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+CAMP
+das ist worauf wir steh'
+und AMP
+durch PDE
+das finden wir
+nicht tollie gehen
+```
