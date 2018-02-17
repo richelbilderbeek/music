@@ -7,5 +7,5 @@ do
   echo $filename
   to=`echo $filename | sed 's/^Song//'`
   echo $to
-  # mv $filename $to
+  mv $filename $to
 done
