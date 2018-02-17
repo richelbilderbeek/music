@@ -23,27 +23,48 @@
 -   [Download the MP3 of 'Morgenvroeg' (recorded on the 12th of August
     of 2006)](CD06_06Morgenvroeg20060812.mp3)
 
- 
+```
+Morgenvroeg
+Written by Richel Bilderbeek
+On the 3rd June of 2004
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Morgenvroeg Written by Richel Bilderbeek On the 3rd June of 2004    Ik zit weer in de kroeg en er is geen weg meer terug de man van vanochtend ben ik pas weer morgenvroeg   Op een been kun je niet staan wordt altijd tegen mij gezegd maar voor ik het weet kom ik in een exponenti le curv' terecht   Van biertjes ga je praten en van praten krijg je dorst dan kom ik in een oneidige-zichzelf-versterkende-autokatalytische-feedforwardloop terecht tot ik door TL-licht wordt verlost   Ooit gaf iemand mij een biertje die nam ik uit beleefdheid aan toen heeft iedereen dat afgekeken en dat altijd nagedaan   Ik ben jaloers op zwangere vrouwen want die krijgen altijd fris terwijl juist m jn image die van een echte zuiper is   Ik zit weer in de kroeg en er is geen weg meer terug de man van vanochtend ben ik pas weer morgenvroeg   En dan heb ik een kater zoals altijd 's morgens vroeg en daar heb ik geen zin dus ik zuipen tot de middag!`
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+Ik zit
+weer in de kroeg
+en er is geen weg meer terug
+de man van vanochtend
+ben ik pas weer morgenvroeg
+ 
+Op een been kun je niet staan
+wordt altijd tegen mij gezegd
+maar voor ik het weet kom ik
+in een exponenti le curv' terecht
+ 
+Van biertjes ga je praten
+en van praten krijg je dorst
+dan kom ik in een
+oneidige-zichzelf-versterkende-autokatalytische-feedforwardloop terecht
+tot ik door TL-licht wordt verlost
+ 
+Ooit gaf iemand mij een biertje
+die nam ik uit beleefdheid aan
+toen heeft iedereen dat afgekeken
+en dat altijd nagedaan
+ 
+Ik ben jaloers op zwangere vrouwen
+want die krijgen altijd fris
+terwijl juist m jn image
+die van een echte zuiper is
+ 
+Ik zit
+weer in de kroeg
+en er is geen weg meer terug
+de man van vanochtend
+ben ik pas weer morgenvroeg
+ 
+En dan
+heb ik een kater
+zoals altijd 's morgens vroeg
+en daar heb ik geen zin
+dus ik zuipen tot de
+middag!
+```

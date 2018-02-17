@@ -1,52 +1,40 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([Music](Music.htm)) [Rare Stoel](SongRareStoel.htm)
-====================================================
-
- 
+# ([Music](Music.htm)) [Rare Stoel](SongRareStoel.htm)
 
 [Rare Stoel](SongRareStoel.htm) is a song written by Geert van den
 Bogaart on the 21st of April 2002 for the Bilderbeek Bilderbeek &
 Bogaart Bogaart Quartet.
 
- 
+```
+Rare Stoel
+Lyrics and notes composed by Geert van den Bogaart
+on the 21st of April 2002
+for the Bilderbeek Bilderbeek & Bogaart Bogaart Quartet
 
--   [View the lyrics of 'Rare Stoel' as plain text
-    (txt)](SongRareStoel.txt)
+Wat voor stoel ben jij?
+Jij hebt geen vier poten
+maar jij hebt er maar eentje
 
- 
+Wat voor stoel ben jij?
+Jij bent gemaakt van glas
+maar niet van staal of hout
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Rare Stoel Lyrics and notes composed by Geert van den Bogaart on the 21st of April 2002 for the Bilderbeek Bilderbeek & Bogaart Bogaart Quartet  Wat voor stoel ben jij? Jij hebt geen vier poten maar jij hebt er maar eentje  Wat voor stoel ben jij? Jij bent gemaakt van glas maar niet van staal of hout  Wat voor stoel ben jij? Als ik op je zit wordt ik helemaal nat  Wat voor stoel ben jij Met je kleine zitvlak krijg ik pijn aan mijn kont  Wat voor stoel ben jij? Jij bent niet groot genoeg niet volgens ARBO wetten  Wat voor stoel ben jij? Jij bent ook nog eens lelijk van boven wit en van onder geel  Wat voor stoel ben jij? O nu zie ik het pas jij bent geen stoel maar een biertje`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wat voor stoel ben jij?
+Als ik op je zit
+wordt ik helemaal nat
 
- 
+Wat voor stoel ben jij
+Met je kleine zitvlak
+krijg ik pijn aan mijn kont
 
- 
+Wat voor stoel ben jij?
+Jij bent niet groot genoeg
+niet volgens ARBO wetten
 
- 
+Wat voor stoel ben jij?
+Jij bent ook nog eens lelijk
+van boven wit en van onder geel
 
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+Wat voor stoel ben jij?
+O nu zie ik het pas
+jij bent geen stoel maar een biertje
+```

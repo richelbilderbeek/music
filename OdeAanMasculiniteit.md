@@ -1,17 +1,3 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ([Music](Music.htm)) [Ode Aan Masculiniteit](SongOdeAanMasculiniteit.htm)
 =========================================================================
 
@@ -42,27 +28,15 @@
 -   [Download the MP3 of 'Ode Aan Masculiniteit' (recorded somewhere
     around 2002, with the BB&BBQ)](CD01_05OdeAanMasculiniteit.mp3)
 
- 
+```
+Ode Aan Masculiniteit
+Written by the Bilderbeek Bilderbeek en Bogaart Bogaart Quartet 
+Somewhere before 2-12-2001 
+From http://www.richelbilderbeek.nl
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Ode Aan Masculiniteit Written by the Bilderbeek Bilderbeek en Bogaart Bogaart Quartet  Somewhere before 2-12-2001  From http://www.richelbilderbeek.nl/SongOdeAanMasculiniteit.htm   Neemt mij in der hand  om u kort te scheren  met wat aftershave  voelt u zich herboren `
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+Neemt mij in der hand 
+om u kort te scheren 
+met wat aftershave 
+voelt u zich herboren 
+```
