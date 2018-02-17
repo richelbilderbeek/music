@@ -3,28 +3,15 @@
 [Het Leven Is Naar](SongHetLevenIsNaar.htm) is written on the 19th
 December 2002 by Richel Bilderbeek.
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Het Leven Is Naar' (recorded on the 20th of
-    Januari of 2007)](CD06_01HetLevenIsNaar20070120.ogg)
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Het Leven Is Naar' (recorded somewhere
-    around 2003)](CD03_08HetLevenIsNaar.ogg)
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OG-G of 'Het Leven Is Naar' (recorded somewhere
-    around 2002)](CD02_05HetLevenIsNaar.ogg)
--   [Listen to 'Het Leven Is Naar' (mid)](SongHetLevenIsNaar.mid)
--   [View the lyrics of 'Het Leven Is Naar'
-    (txt)](SongHetLevenIsNaar.txt)
--   [View the sheet music of 'Het Leven Is Naar'
-    (ps)](SongHetLevenIsNaar.ps)
--   [View the ABC notation file of 'Het Leven Is Naar'
-    (abc)](SongHetLevenIsNaar.abc)
--   [Download the MP3 of 'Het Leven Is Naar' (recorded on the 20th of
-    Januari of 2007)](CD06_01HetLevenIsNaar20070120.mp3)
--   [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere
-    around 2003)](CD03_08HetLevenIsNaar.mp3)
--   [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere
-    around 2002)](CD02_05HetLevenIsNaar.mp3)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](CD06_01HetLevenIsNaar20070120.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded somewhere around 2003)](CD03_08HetLevenIsNaar.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OG-G of 'Het Leven Is Naar' (recorded somewhere around 2002)](CD02_05HetLevenIsNaar.ogg)
+ * [Listen to 'Het Leven Is Naar' (mid)](SongHetLevenIsNaar.mid)
+ * [View the sheet music of 'Het Leven Is Naar' (ps)](SongHetLevenIsNaar.ps)
+ * [View the ABC notation file of 'Het Leven Is Naar' (abc)](HetLevenIsNaar.abc)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](CD06_01HetLevenIsNaar20070120.mp3)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2003)](CD03_08HetLevenIsNaar.mp3)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2002)](CD02_05HetLevenIsNaar.mp3)
 
 ## Lyrics
 
@@ -94,34 +81,4 @@ bleek hij een vagina te hebben
 
 Naar, naar, nananana nananana
 Naar, naar, het leven is naar
-```
-
-## [ABC notation](MusicAbc.htm) file
-
-```
-X:1
-T:Het Leven Is Naar
-C:Richel Bilderbeek
-L:1/4
-Q:1/4=360
-M:4/4
-K:Ebmaj
-V:V1 clef=treble
-V:V2 clef=bass
-%
-[V:V1] |: e2    B2 | G B e   e       | z B2 z   | A    B  e   e     |
-w:        Heel erg | la- ang ge- le- | den,     | toen ik nog klein |
-[V:V2] |: E,,4     | E,4             | D,,4     | D,4               |
-%
-[V:V1] z B2  z  | G   B  e    e    | z e B2     | E4   :|
-w:       was    | zat ik wel- eens |   in groep | drie  |
-[V:V2] C,,4     | C,4              | B,,,4      | B,,4 :|
-%
-[V:V1] B E B E  | B E B E | B E F E  | B E F E     |
-w:     Naar,    | naar,   |          |             |
-[V:V2] C,,4     | C,4     | D,,4     | D,4         |
-%
-[V:V1] B E B E  | B E B E | B2 E2      | D2 C2   |
-w:     naar,    | naar,   | 'tle- ven  | is naar |
-[V:V2] C,,4     | C,4     | B,,,4      | B,,4    |
 ```

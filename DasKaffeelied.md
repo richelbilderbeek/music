@@ -1,4 +1,6 @@
-# ([Music](Music.htm)) [Das Kaffeelied](SongDasKaffeelied.htm)
+# Das Kaffeelied
+
+'Das Kaffeelied' is the German translation of [Het Koffielied](HetKoffielied.md).
 
 ```
 Das Kaffeelied

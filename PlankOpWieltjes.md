@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Plank Op Wieltjes](SongPlankOpWieltjes.htm)
+# Plank Op Wieltjes
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Plank Op Wieltjes' (recorded on the 12th of

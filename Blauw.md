@@ -1,6 +1,7 @@
-# ([Music](Music.htm)) [Blauw](SongBlauw.htm)
+# Blauw
 
-Written by Richel Bilderbeek on the 7th March of 2004
+'Blauw' is composed and lyrics written by Richel Bilderbeek 
+on March 7th 2004.
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Blauw' (recorded on the 2nd of September

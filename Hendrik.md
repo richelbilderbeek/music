@@ -2,13 +2,12 @@
 
 Parody on 'Friar Jacob'.
 
--   [View the ABC music notation of 'Hendrik' (abc)](SongHendrik.abc)
--   [View the sheet music of 'Hendrik' (from abc)(png)](SongHendrik.png)
--   [View the sheet music of 'Hendrik' (from abc)(ps)](SongHendrik.ps)
--   [Download the sheet music of 'Hendrik' (mus)](SongHendrik.mus)
--   [View the sheet music of 'Hendrik' (from
-    mus)(png)](SongHendrikMus.png)
--   [Listen to 'Hendrik' (mid)](SongHendrik.mid)
+ * [View the ABC music notation of 'Hendrik' (abc)](Hendrik.abc)
+ * [View the sheet music of 'Hendrik' (from abc)(png)](SongHendrik.png)
+ * [View the sheet music of 'Hendrik' (from abc)(ps)](SongHendrik.ps)
+ * [Download the sheet music of 'Hendrik' (mus)](SongHendrik.mus)
+ * [View the sheet music of 'Hendrik' (from mus)(png)](SongHendrikMus.png)
+ * [Listen to 'Hendrik' (mid)](SongHendrik.mid)
 
 
 ```

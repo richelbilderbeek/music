@@ -1,29 +1,17 @@
-# ([Music](Music.htm)) ["Friday"](SongFriday.htm)
+# "Friday"
 
-'["Friday"](SongFriday.htm)' (note the quotation marks) is an
+'"Friday"' (note the quotation marks) is an
 improvement of Rebecca Black's 'Friday' (note no quotation marks).
 Although I do like the original, I have read all critiques on it and
 implemented those.
 
- 
-
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of '"Friday"' (recorded on the 12th of August
-    of 2011)](CD07_Friday20110812.ogg)
--   [View the lyrics of 'Friday' in plain text (txt)](SongFriday.txt)
--   [View the layman lyrics of 'Friday' in plain text
-    (txt)](SongFridayEasy.txt)
--   [View the sheet music of 'Friday' (ps)](SongFriday.ps)
--   [View the ABC notation of the sheet music of 'Friday'
-    (abc)](SongFriday.abc)
--   [Listen to the MIDI music created from the ABC notation page of
-    'Friday' (mid)](SongFriday.mid)
--   [Go to the YouTube clip of Rebecca Black's 'Friday'
-    (htm)](http://www.youtube.com/watch?v=CD2LRROpph0)
--   [Go to the Rebecca Black homepage
-    (htm)](http://rebeccablackonline.com)
--   [Download the MP3 of '"Friday"' (recorded on the 12th of August
-    of 2011)](CD07_Friday20110812.mp3)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](CD07_Friday20110812.ogg)
+ * [View the sheet music of 'Friday' (ps)](SongFriday.ps)
+ * [View the ABC notation of the sheet music of 'Friday' (abc)](Friday.abc)
+ * [Listen to the MIDI music created from the ABC notation page of 'Friday' (mid)](SongFriday.mid)
+ * [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](http://www.youtube.com/watch?v=CD2LRROpph0)
+ * [Go to the Rebecca Black homepage (htm)](http://rebeccablackonline.com)
+ * [Download the MP3 of '"Friday"' (recorded on the 12th of August of 2011)](CD07_Friday20110812.mp3)
 
 ```
 "Friday"

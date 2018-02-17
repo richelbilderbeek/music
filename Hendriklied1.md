@@ -2,12 +2,10 @@
 
 Parody on 'Oh My Darling Clementine'.
 
--   [View the ABC notation of 'Hendriklied 1'
-    (abc)](SongHendriklied1.abc)
--   [View the sheet music of 'Hendriklied 1'
-    (png)](SongHendriklied1.png)
--   [View the sheet music of 'Hendriklied 1' (ps)](SongHendriklied1.ps)
--   [Listen to 'Hendriklied 1' (mid)](SongHendriklied1.mid)
+ * [View the ABC notation of 'Hendriklied 1' (abc)](SongHendriklied1.abc)
+ * [View the sheet music of 'Hendriklied 1' (png)](SongHendriklied1.png)
+ * [View the sheet music of 'Hendriklied 1' (ps)](SongHendriklied1.ps)
+ * [Listen to 'Hendriklied 1' (mid)](SongHendriklied1.mid)
 
 ```
 Hendriklied 1

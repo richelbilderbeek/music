@@ -1,4 +1,7 @@
-# ([Music](Music.htm)) [Het Leven Is Een Vuile Kolerelijer](SongHetLevenIsEenVuileKolerelijer.htm)
+# Het Leven Is Een Vuile Kolerelijer
+
+'Het Leven Is Een Vuile Kolerelijer' is a song with lyrics written by
+Richel Bilderbeek in 2003. It is a parody on 'De Vlieger' of Andre Hazes.
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Het Leven Is Een Vuile Kolerelijer' (recorded
@@ -9,10 +12,8 @@
 
 ```
 Het Leven Is Een Vuile Kolerelijer
-Written by Richel Bilderbeek
-On the ???
-From http://www.richelbilderbeek.nl
-
+Lyrics by Richel Bilderbeek
+Melody from 'De Vlieger' by Andre Hazes
 
 Het leven is een vuile kolerelijer
 als ik kon dan verkocht ik hem voor een mijer
@@ -49,3 +50,12 @@ als ik kon dan verkocht ik hem voor een mijer
 dan ging ik daarvan zuipen en naar de hoeren
 maar dat leven is geeneens een stuiver waard
 ```
+
+## Background
+
+I was walking, in the function as light- and soundtechnician, 
+to the first floor in the Prinsentheater
+and suddenly chanted 'Het leven is een vuile kolerelijer'
+on the melody of 'De Vlieger' by Andre Hazes. When
+I did so, I crossed paths with a JTS male actor that responded
+mildy suprised by the sentence. The song was born.

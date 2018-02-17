@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Hoggamus Higgamus](SongHoggamusHiggamus.htm)
+# Hoggamus Higgamus
 
 ```
 Hoggamus Higgamus

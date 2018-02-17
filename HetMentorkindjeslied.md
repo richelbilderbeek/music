@@ -3,19 +3,11 @@
 [Het Mentorkindjeslied](SongHetMentorkindjeslied.htm) is a ballad
 written by me on the 14th September 2002.
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Het Mentorkindjeslied' (recorded somewhere
-    around 2004)](CD03_09HetMentorkindjeslied.ogg)
--   [View the ABC notation file of 'Het Mentorkindjeslied'
-    (abc)](SongHetMentorkindjeslied.abc)
--   [View the sheet music of 'Het Mentorkindjeslied'
-    (ps)](SongHetMentorkindjeslied.ps)
--   [View the lyrics of 'Het Mentorkindjeslied'
-    (txt)](SongHetMentorkindjeslied.txt)
--   [Listen to 'Het Mentorkindjeslied'
-    (mid)](SongHetMentorkindjeslied.mid)
--   [Download the MP3 of 'Het Mentorkindjeslied' (recorded somewhere
-    around 2004)](CD03_09HetMentorkindjeslied.mp3)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Mentorkindjeslied' (recorded somewhere around 2004)](CD03_09HetMentorkindjeslied.ogg)
+ * [View the ABC notation file of 'Het Mentorkindjeslied' (abc)](HetMentorkindjeslied.abc)
+ * [View the sheet music of 'Het Mentorkindjeslied' (ps)](SongHetMentorkindjeslied.ps)
+ * [Listen to 'Het Mentorkindjeslied' (mid)](SongHetMentorkindjeslied.mid)
+ * [Download the MP3 of 'Het Mentorkindjeslied' (recorded somewhere around 2004)](CD03_09HetMentorkindjeslied.mp3)
 
 ```
 Het Mentorkindjeslied
@@ -72,54 +64,4 @@ u doet mij beseffen
 het leven is een klucht 
 Kaas maan 
 neer gaan
-```
-
-## [ABC notation](MusicAbc.htm) file
-
-```
-X:1
-T:Het Mentorkindjeslied
-C:Richel Bilderbeek
-L:1/4
-Q:1/4=240
-M:4/4
-K:C
-V:V1 clef=treble
-V:V2 clef=bass
-%
-%
-%
-[V:V1] c2   c2   | c2  d2    | e4         | d4        |
-w:     Gro- te   | ge- le    | kaas-      | maan,     |
-[V:V2] C,,G,,C,z | F,,C,F,z  | D,,A,,D,z  | G,,D,G,z  |
-%
-%
-%
-[V:V1] c2    e2     | d2  d2    | c4         | z4        |
-w:     stra- lend   | in de     | lucht,     |           |
-[V:V2] E,,B,,E,z    | A,,E,A,z  | D,,A,,D,z  | G,,D,G,z  |
-%
-%
-%
-[V:V1] c   c   c2  | c2   d2   | e4         | d4        |
-w:     Ik  zie u   | te- der   | neer-      | gaan,     |
-[V:V2] C,,G,,C,z   | F,,C,F,z  | D,,A,,D,z  | G,,D,G,z  |
-%
-%
-%
-[V:V1] c   c    d2  | d2  d2    | c4         | z4        |
-w:     in  tra- ge  | vo- gel-  | vlucht.    |           |
-[V:V2] E,,B,,E,z    | A,,E,A,z  | D,,A,,D,z  | G,,D,G,z  |
-%
-%
-%
-[V:V1] d4          | z4        | c4         | z4        |
-w:     Kaas-       |           | maan,      |           |
-[V:V2] C,,G,,C,z   | F,,C,F,z  | D,,A,,D,z  | G,,D,G,z  |
-%
-%
-%
-[V:V1] d4           | z4        | c4         | z4        |
-w:     neer-        |           | gaan.      |           |
-[V:V2] E,,B,,E,z    | A,,E,A,z  | D,,A,,D,z  | G,,D,G,z  |
 ```

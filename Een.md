@@ -1,13 +1,11 @@
-# ([Music](Music.htm)) [Een](SongEen.htm)
+# Een
 
-[Een](SongEen.htm) is a song written by Richel Bilderbeek on the 26th of
-June 2013
+'Een' is a song written by Richel Bilderbeek on June 26th 2013. 
+Melody from 'Schnappi' by Iris Gruttmann.
 
 ```
+Een
 Lyrics written by Richèl Bilderbeek
-Melody from 'Schnappi' by Iris Gruttmann
-Lyrics composed on the 26th of June 2013
-From http://www.richelbilderbeek.nl/SongEen.htm
 
 Chords:
 - Verse: 

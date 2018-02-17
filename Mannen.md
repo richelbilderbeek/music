@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Mannen](SongMannen.htm)
+# Mannen
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Mannen' (recorded somewhere

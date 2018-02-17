@@ -1,14 +1,9 @@
-# ([Music](Music.htm)) [O Mooie Geluidsvrouw](SongOMooieGeluidsvrouw.htm)
+# O Mooie Geluidsvrouw
 
--   [View the ABC notation file of 'O Mooie Geluidsvrouw'
-    (abc)](SongOMooieGeluidsvrouw.abc)
--   [View the sheet music of 'O Mooie Geluidsvrouw'
-    (png)](SongOMooieGeluidsvrouw.png)
--   [Download the sheet music of 'O Mooie Geluidsvrouw'
-    (ps)](SongOMooieGeluidsvrouw.ps)
--   [Listen to the music of 'O Mooie Geluidsvrouw'
-    (mid)](SongOMooieGeluidsvrouw.mid)
-
+ * [View the ABC notation file of 'O Mooie Geluidsvrouw' (abc)](SongOMooieGeluidsvrouw.abc)
+ * [View the sheet music of 'O Mooie Geluidsvrouw' (png)](SongOMooieGeluidsvrouw.png)
+ * [Download the sheet music of 'O Mooie Geluidsvrouw' (ps)](SongOMooieGeluidsvrouw.ps)
+ * [Listen to the music of 'O Mooie Geluidsvrouw' (mid)](SongOMooieGeluidsvrouw.mid)
 
 ```
 O Mooie Geluidsvrouw

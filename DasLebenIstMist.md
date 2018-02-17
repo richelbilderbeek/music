@@ -1,4 +1,6 @@
-# ([Music](Music.htm)) [Das Leben Ist Mist](SongDasLebenIstMist.htm)
+# Das Leben Ist Mist
+
+'Das Leben Ist Mist' is the German translation of [Het Leven Is Naar](HetLevenIsNaar.md).
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Das Leben Ist Mist' (recorded somewhere

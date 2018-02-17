@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Blau](SongBlau.htm)
+# Blau
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download OGG of 'Blau' (recorded somewhere

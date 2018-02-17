@@ -1,21 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([Music](Music.htm)) [Moordenaars](SongMoordenaars.htm)
-=======================================================
-
- 
+# ([Music](Music.htm)) [Moordenaars](SongMoordenaars.htm)
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Moordenaars' (recorded somewhere around 2006,

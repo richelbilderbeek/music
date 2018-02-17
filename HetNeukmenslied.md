@@ -7,9 +7,8 @@ by Marco Borsato.
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het N..kmenslied' (recorded somewhere around 2004)](CD03_10HetNeukmenslied.ogg)
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het N..kmenslied' (recorded somewhere around 2003)](CD02_06HetNeukmenslied.ogg)
 -   [Listen to 'Het N..kmenslied' (mid)](SongHetNeukmenslied.mid)
--   [View the lyrics of 'Het N..kmenslied' (txt)](SongHetNeukmenslied.txt)
 -   [View the sheet music of 'Het N..kmenslied' (ps)](SongHetNeukmenslied.ps)
--   [View the ABC notation file of 'Het N..kmenslied' (abc)](SongHetNeukmenslied.abc)
+-   [View the ABC notation file of 'Het N..kmenslied' (abc)](HetNeukmenslied.abc)
 -   [Download the MP3 of 'Het N..kmenslied' (recorded somewhere around 2004)](CD03_10HetNeukmenslied.mp3)
 -   [Download the MP3 of 'Het N..kmenslied' (recorded somewhere around 2003)](CD02_06HetNeukmenslied.mp3)
 

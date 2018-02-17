@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Slaapliedje](SongSlaapliedje.htm)
+# Slaapliedje
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Slaapliedje' (recorded on the 17th of July

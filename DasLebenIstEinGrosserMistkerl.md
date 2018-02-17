@@ -1,4 +1,7 @@
-# ([Music](Music.htm)) [Das Leben Ist Ein Grosser Mistkerl](SongDasLebenIstEinGrosserMistkerl.htm)
+# Das Leben Ist Ein Grosser Mistkerl
+
+'Das Leben Ist Ein Grosser Mistkerl' is the German translation
+of [Het Leven Is Een Vuile Kolerelijer](HetLevenIsEenVuileKolerelijer.md).
 
 ```
 Das Leben Ist Ein Grosser Mistkerl

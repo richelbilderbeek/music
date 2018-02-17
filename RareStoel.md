@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Rare Stoel](SongRareStoel.htm)
+# Rare Stoel
 
-[Rare Stoel](SongRareStoel.htm) is a song written by Geert van den
+'Rare Stoel' is a song written by Geert van den
 Bogaart on the 21st of April 2002 for the Bilderbeek Bilderbeek &
 Bogaart Bogaart Quartet.
 

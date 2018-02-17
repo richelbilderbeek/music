@@ -1,7 +1,7 @@
-# ([Music](Music.htm)) [Groningen Danst](SongGroningenDanst.htm)
+# Groningen Danst
 
-The melody of [Groningen Danst](SongGroningenDanst.htm) was composed at
-the 4th of August of 2012. The title refers to the ballroom school
+'Groningen Danst' is a song composed and lyrics written by Richel Bilderbeek
+at August 4th 2012. The title refers to the ballroom dancing school
 [Groningen Danst](http://www.groningendanst.nl).
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)

@@ -1,4 +1,6 @@
-# ([Music](Music.htm)) [Der Schwanz](SongDerSchwanz.htm)
+# Der Schwanz
+
+'Der Schwanz' is the German translation of [De L.l](DeLul.md).
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Der Schwanz' (recorded somewhere

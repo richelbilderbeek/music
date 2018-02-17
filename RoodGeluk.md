@@ -1,16 +1,13 @@
-# ([Music](Music.htm)) [Rood Geluk](SongRoodGeluk.htm)
+# Rood Geluk
 
-[Rood Geluk](SongRoodGeluk.htm) is a song. It's lyrics are written by
+'Rood Geluk' is a song. It's lyrics are written by
 Geert van den Bogaart, its music is composed by Richel Bilderbeek, both
 on the 20th of April 2002.
 
- 
-
--   [View the ABC notation file of 'Rood Geluk'
-    (abc)](SongRoodGeluk.abc)
--   [View the sheet music of 'Rood Geluk' (png)](SongRoodGeluk.png)
--   [Download the sheet music of 'Rood Geluk' (ps)](SongRoodGeluk.ps)
--   [Listen to the music of 'Rood Geluk' (mid)](SongRoodGeluk.mid)
+ * [View the ABC notation file of 'Rood Geluk' (abc)](RoodGeluk.abc)
+ * [View the sheet music of 'Rood Geluk' (png)](SongRoodGeluk.png)
+ * [Download the sheet music of 'Rood Geluk' (ps)](SongRoodGeluk.ps)
+ * [Listen to the music of 'Rood Geluk' (mid)](SongRoodGeluk.mid)
 
 
 ```

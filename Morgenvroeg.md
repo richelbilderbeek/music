@@ -1,21 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([Music](Music.htm)) [Morgenvroeg](SongMorgenvroeg.htm)
-=======================================================
-
- 
+# Morgenvroeg
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Morgenvroeg' (recorded on the 12th of August

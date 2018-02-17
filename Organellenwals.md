@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Organellenwals](SongOrganellenwals.htm)
+# Organellenwals
 
-Written by Richel Bilderbeek on the 29th of September 2007.
+'Organellenwals' is a song written by Richel Bilderbeek on the 29th of September 2007.
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Organellenwals' (recorded somewhere in
@@ -11,9 +11,7 @@ Written by Richel Bilderbeek on the 29th of September 2007.
     September of 2007)](CD07_Organellenwals.mp3)
 
 ```
-Written by Richel Bilderbeek
-On the 29th of September 2007.
-From http://www.richelbilderbeek.nl
+Organellenwals, by Richel Bilderbeek
 
 Een mitochondrium
 had een delirium

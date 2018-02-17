@@ -1,49 +1,9 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+# Morgensfrueh
 
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([Music](Music.htm)) [Morgensfrueh](SongMorgensfrueh.htm)
-=========================================================
-
- 
+'Morgensfrueh' is the German on-the-fly translation of [Morgenvroeg](Morgenvroeg.md)
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Morgensfrueh' (recorded somewhere
     around 2005)](CD04_09Morgensfrueh.ogg)
 -   [Download the MP3 of 'Morgensfrueh' (recorded somewhere
     around 2005)](CD04_09Morgensfrueh.mp3)
-
- 
-
-  -----
-  ` `
-  -----
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's music page](Music.htm).
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)

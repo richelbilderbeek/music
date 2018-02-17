@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Ben Ik Een Spin](SongBenIkEenSpin.htm)
+# Ben Ik Een Spin
 
-Written by Richel Bilderbeek, on the 28th, 29th, 31th January 2007.
+'Ben Ik Een Spin' is written by Richel Bilderbeek, on the 28th, 29th, 31th January 2007.
 Added minor changes on the 27th of May 2007. It is a parody of
 'Ben Ik Te Min' by Armand.
 

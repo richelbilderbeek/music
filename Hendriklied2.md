@@ -1,21 +1,19 @@
-# ([Music](Music.htm)) [Hendriklied 2](SongHendriklied2.htm)
+# Hendriklied 2
 
-Parody on 'Dikkertje Dap'
+'Hendriklied 2' is a song with lyrics written by Richel
+Bilderbeek on April 3th 2002. It is a parody of 'Dikkertje Dap' by
+Annie M.G. Schmidt. 
 
--   [View the ABC notation file of 'Hendriklied 2'
-    (abc)](SongHendriklied2.abc)
--   [View the sheet music of 'Hendriklied 2'
-    (png)](SongHendriklied2.png)
--   [Download the sheet music of 'Hendriklied 2'
-    (ps)](SongHendriklied2.ps)
--   [Listen to the music of 'Hendriklied 2' (mid)](SongHendriklied2.mid)
--   [Download the tabs of 'Hendriklied 2' (doc)](SongHendriklied2.doc)
+ * [View the ABC notation file of 'Hendriklied 2' (abc)](Hendriklied2.abc)
+ * [View the sheet music of 'Hendriklied 2' (png)](SongHendriklied2.png)
+ * [Download the sheet music of 'Hendriklied 2' (ps)](SongHendriklied2.ps)
+ * [Listen to the music of 'Hendriklied 2' (mid)](SongHendriklied2.mid)
+ * [Download the tabs of 'Hendriklied 2' (doc)](SongHendriklied2.doc)
 
 ```
 Hendriklied 2
-Written by Richel Bilderbeek
-On the 3th of April 2002
-From http://www.richelbilderbeek.nl
+Lyrics by Richel Bilderbeek
+Melody of 'Dikkertje Dap' by Annie M.G. Schmidt. 
 
 Hendrik de Cock,
 dat was een man,

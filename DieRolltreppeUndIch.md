@@ -1,4 +1,7 @@
-# ([Music](Music.htm)) [Die Rolltreppe Und Ich](SongDieRolltreppeUndIch.htm)
+# Die Rolltreppe Und Ich
+
+'Die Rolltreppe Und Ich' is a song composed and lyrics written
+by Richel Bilderbeek on January 29th 2005.
 
 -   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'Die Rolltreppe Und Ich' (recorded somewhere
@@ -9,9 +12,6 @@
 ```
 Die Rolltreppe Und Ich
 Written by Richel Bilderbeek
-On the 29th January 2005
-From http://www.richelbilderbeek.nl
-
 
 Die Rolltreppe fahrt
 mit eisenen Schritt
