@@ -1,13 +1,12 @@
 # Das Leben Ist Ein Grosser Mistkerl
 
 'Das Leben Ist Ein Grosser Mistkerl' is the German translation
-of [Het Leven Is Een Vuile Kolerelijer](HetLevenIsEenVuileKolerelijer.md).
+of [Het Leven Is Een Vuile Kolerelijer](HetLevenIsEenVuileKolerelijer.md),
+translated around April 2005.
 
 ```
 Das Leben Ist Ein Grosser Mistkerl
 Written by Richel Bilderbeek
-On the someday'th
-From http://www.richelbilderbeek.nl
 
 
 Refrain:

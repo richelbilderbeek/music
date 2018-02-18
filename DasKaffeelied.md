@@ -1,13 +1,11 @@
 # Das Kaffeelied
 
-'Das Kaffeelied' is the German translation of [Het Koffielied](HetKoffielied.md).
+'Das Kaffeelied' is the German translation of [Het Koffielied](HetKoffielied.md)
+written around April 2005.
 
 ```
 Das Kaffeelied
 Written by Richel Bilderbeek
-On the someday'th
-From http://www.richelbilderbeek.nl
-
 
 CAMP
 das ist worauf wir steh'
