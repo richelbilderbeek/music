@@ -6,23 +6,15 @@ seperated before its first performance.
 
  
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'You And Me' (recorded somewhere
-    around 2007)](CD06_18YouAndMe.ogg)
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'You And Me' (recorded somewhere
-    around 2006)](CD05_18YouAndMe.ogg)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2007)](CD06_18YouAndMe.ogg)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2006)](CD05_18YouAndMe.ogg)
 -   [View the 'You And Me' lyrics (txt)](SongYouAndMe.txt)
--   [View the 'You And Me' sheet music (melody
-    only)(png)](SongYouAndMe.png)
--   [View the 'You And Me' sheet music (melody
-    only)(ps)](SongYouAndMe.ps)
+-   [View the 'You And Me' sheet music (melody only)(png)](SongYouAndMe.png)
+-   [View the 'You And Me' sheet music (melody only)(ps)](SongYouAndMe.ps)
 -   [View the 'You And Me' sheet music (doc)](SongYouAndMe.doc)
 -   [View the 'You And Me' sheet music (odt)](SongYouAndMe.odt)
--   [Download the MP3 of 'You And Me' (recorded somewhere
-    around 2007)](CD06_18YouAndMe.mp3)
--   [Download the MP3 of 'You And Me' (recorded somewhere
-    around 2006)](CD05_18YouAndMe.mp3)
+-   [Download the MP3 of 'You And Me' (recorded somewhere around 2007)](CD06_18YouAndMe.mp3)
+-   [Download the MP3 of 'You And Me' (recorded somewhere around 2006)](CD05_18YouAndMe.mp3)
 
 ## Lyrics
 

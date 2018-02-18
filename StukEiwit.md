@@ -6,12 +6,9 @@ Melody used from 'Plank op wieltjes'.
 
  
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Stuk eiwit' (recorded on the 30th of September
-    of 2007)](CD07_StukEiwit20070930.ogg)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Stuk eiwit' (recorded on the 30th of September of 2007)](CD07_StukEiwit20070930.ogg)
 -   [View the lyrics of 'Stuk Eiwit' in plain text](SongStukEiwit.txt)
--   [Download the MP3 of 'Stuk eiwit' (recorded on the 30th of September
-    of 2007)](CD07_StukEiwit20070930.mp3)
+-   [Download the MP3 of 'Stuk eiwit' (recorded on the 30th of September of 2007)](CD07_StukEiwit20070930.mp3)
 
 ```
 Stuk eiwit

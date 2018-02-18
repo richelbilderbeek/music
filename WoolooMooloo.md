@@ -2,23 +2,13 @@
 
 Written by Richel Bilderbeek, on the 12th of August 2003.
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September
-    of 2006)](CD06_16WoolooMooloo20060902.ogg)
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Wooloo Mooloo' (recorded somewhere
-    around 2004)](CD03_17WoolooMooloo.ogg)
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Wooloo Mooloo' (recorded somewhere
-    around 2003)](CD02_08WoolooMooloo.ogg)
--   [View a YouTube clip of 'Wooloo Mooloo' (made by Jordy
-    Kuiper)](http://www.youtube.com/watch?v=CDcEgycIWNg)
--   [Download the MP3 of 'Wooloo Mooloo' (recorded on the 2nd September
-    of 2006)](CD06_16WoolooMooloo20060902.mp3)
--   [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere
-    around 2004)](CD03_17WoolooMooloo.mp3)
--   [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere
-    around 2003)](CD02_08WoolooMooloo.mp3)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](CD06_16WoolooMooloo20060902.ogg)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2004)](CD03_17WoolooMooloo.ogg)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2003)](CD02_08WoolooMooloo.ogg)
+-   [View a YouTube clip of 'Wooloo Mooloo' (made by Jordy Kuiper)](http://www.youtube.com/watch?v=CDcEgycIWNg)
+-   [Download the MP3 of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](CD06_16WoolooMooloo20060902.mp3)
+-   [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2004)](CD03_17WoolooMooloo.mp3)
+-   [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2003)](CD02_08WoolooMooloo.mp3)
 
 ```
 Wooloo Mooloo

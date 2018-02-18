@@ -2,11 +2,8 @@
 
 'Der Schwanz' is the German translation of [De L.l](DeLul.md).
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Der Schwanz' (recorded somewhere
-    around 2005)](CD04_04DerSchwanz.ogg)
--   [Download the MP3 of 'Der Schwanz' (recorded somewhere
-    around 2005)](CD04_04DerSchwanz.mp3)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Der Schwanz' (recorded somewhere around 2005)](CD04_04DerSchwanz.ogg)
+-   [Download the MP3 of 'Der Schwanz' (recorded somewhere around 2005)](CD04_04DerSchwanz.mp3)
 
 ```
 Der Schwanz

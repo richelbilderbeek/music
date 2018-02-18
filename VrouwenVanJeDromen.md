@@ -5,13 +5,9 @@ composed at the 1st of September of 2010 and the song was at time called
 'The Shappie Song'. The lyrics were written on the 24th of April 2011
 and its current title was given to the song.
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Vrouwen Van Je Dromen' (recorded on the 24th
-    of April of 2011)](CD07_VrouwenVanJeDromen20110424.ogg)
--   [View the lyrics of 'Vrouwen Van Je Dromen' in plain text
-    (txt)](SongVrouwenVanJeDromen.txt)
--   [Download the MP3 of 'Vrouwen Van Je Dromen' (recorded on the 24th
-    of April of 2011)](CD07_VrouwenVanJeDromen20110424.mp3)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Vrouwen Van Je Dromen' (recorded on the 24th of April of 2011)](CD07_VrouwenVanJeDromen20110424.ogg)
+-   [View the lyrics of 'Vrouwen Van Je Dromen' in plain text (txt)](SongVrouwenVanJeDromen.txt)
+-   [Download the MP3 of 'Vrouwen Van Je Dromen' (recorded on the 24th of April of 2011)](CD07_VrouwenVanJeDromen20110424.mp3)
 
 ```
 Vrouwen Van Je Dromen

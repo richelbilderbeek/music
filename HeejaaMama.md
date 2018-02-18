@@ -4,13 +4,9 @@
 2009. The person that did the tabbing for me chooses to remain
 anonymous.
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-    [Download the OGG of 'Heejaa Mama' (recorded on
-    2010-12-11)](CD07_HeejaaMama20101211.ogg)
--   [Download the tabs and lyrics of 'Heejaa Mama'
-    (doc)](SongHeejaaMama.doc)
--   [Download the MP3 of 'Heejaa Mama' (recorded on
-    2010-12-11)](CD07_HeejaaMama20101211.mp3)
+-   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Heejaa Mama' (recorded on 2010-12-11)](CD07_HeejaaMama20101211.ogg)
+-   [Download the tabs and lyrics of 'Heejaa Mama' (doc)](SongHeejaaMama.doc)
+-   [Download the MP3 of 'Heejaa Mama' (recorded on 2010-12-11)](CD07_HeejaaMama20101211.mp3)
 
 ```
 Heejaa Mama
