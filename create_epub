@@ -1,0 +1,3 @@
+#!/bin/bash
+pandoc README.md -o music.tex
+tex4ebook music.tex
