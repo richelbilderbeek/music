@@ -1,3 +1,7 @@
 #!/bin/bash
+
+if [ -e music.tex ]; then rm music.tex; fi
+if [ -e music.epub ]; then rm music.epub; fi
+
 pandoc README.md -o music.tex
 tex4ebook music.tex
