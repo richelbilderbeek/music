@@ -23,9 +23,9 @@ Veldhuis & Kemper.
 
  
 
--   [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Voor De Klas' (recorded on 2010-12-11)](CD07_VoorDeKlas20101211.ogg)
--   [Download the tabs and lyrics of 'Voor De Klas' (doc)](SongVoorDeKlas.doc)
--   [Download the MP3 of 'Voor De Klas' (recorded on 2010-12-11)](CD07_VoorDeKlas20101211.mp3)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Voor De Klas' (recorded on 2010-12-11)](CD07_VoorDeKlas20101211.ogg)
+ * [Download the tabs and lyrics of 'Voor De Klas' (doc)](SongVoorDeKlas.doc)
+ * [Download the MP3 of 'Voor De Klas' (recorded on 2010-12-11)](CD07_VoorDeKlas20101211.mp3)
 
  
 
