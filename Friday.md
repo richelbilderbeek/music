@@ -9,7 +9,7 @@ implemented those.
  * [View the sheet music of 'Friday' (ps)](SongFriday.ps)
  * [View the ABC notation of the sheet music of 'Friday' (abc)](Friday.abc)
  * [Listen to the MIDI music created from the ABC notation page of 'Friday' (mid)](SongFriday.mid)
- * [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](http://www.youtube.com/watch?v=CD2LRROpph0)
+ * [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](https://youtu.be/kfVsfOSbJY0)
  * [Go to the Rebecca Black homepage (htm)](http://rebeccablackonline.com)
  * [Download the MP3 of '"Friday"' (recorded on the 12th of August of 2011)](CD07_Friday20110812.mp3)
 

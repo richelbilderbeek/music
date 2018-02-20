@@ -1,4 +1,7 @@
 install:
+  # Check dead links
+  - sudo apt-get install npm
+  - sudo npm install -g markdown-link-check
   # LaTex, pandoc
   - sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended epubcheck
   # tex4ebook prerequisite packages
@@ -19,6 +22,9 @@ install:
   
 
 script:
+  # Check dead links
+  - ./check_dead_links
+  # Create eBook
   - ./create_epub
   - epubcheck music.epub
 

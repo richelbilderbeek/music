@@ -1,5 +1,9 @@
 # music
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/music.svg?branch=master)](https://travis-ci.org/richelbilderbeek/music)
+
 > All music on this website is encouraged to be downloaded and copied in their original form.
 > It is not allowed to modify any of these files.
 > Copyright remains at the author(s) of the songs.
