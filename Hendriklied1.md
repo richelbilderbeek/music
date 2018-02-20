@@ -5,14 +5,12 @@ Parody on 'Oh My Darling Clementine'.
  * [View the ABC notation of 'Hendriklied 1' (abc)](SongHendriklied1.abc)
  * [View the sheet music of 'Hendriklied 1' (png)](SongHendriklied1.png)
  * [View the sheet music of 'Hendriklied 1' (ps)](SongHendriklied1.ps)
- * [Listen to 'Hendriklied 1' (mid)](SongHendriklied1.mid)
+ * [Download 'Hendriklied 1' (mid)](http://www.richelbilderbeek.nl/SongHendriklied1.mid)
 
 ```
 Hendriklied 1
 Written by Richel Bilderbeek
 On the 3th of April 2002
-From http://www.richelbilderbeek.nl
-
 
 Iets ten noorden
 Van het centrum

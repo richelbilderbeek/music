@@ -4,15 +4,15 @@
 Bilderbeek & Bogaart Bogaart Quartet', somewhere before the 21th
 September of 2000
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](CD01_02Maanliedje.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](CD01_06MaanliedjeDisco.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.ogg)
  * [Listen to 'Maanliedje' (mid)](SongMaanliedje.mid)
  * [View the sheet music of 'Maanliedje' (png)](SongMaanliedje.png)
  * [View the sheet music of 'Maanliedje' (ps)](SongMaanliedje.ps)
  * [View the sheet music of 'Maanliedje' (mus)](SongMaanliedje.mus)
  * [View the ABC notation file of 'Maanliedje' (abc)](Maanliedje.abc)
- * [Download the MP3 of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](CD01_02Maanliedje.mp3)
- * [Download the MP3 of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](CD01_06MaanliedjeDisco.mp3)
+ * [Download the MP3 of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.mp3)
+ * [Download the MP3 of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.mp3)
 
 ## Lyrics
 

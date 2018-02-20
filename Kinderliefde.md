@@ -1,13 +1,13 @@
 # ([Music](Music.htm)) [Kinderliefde](SongKinderliefde.htm)
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Kinderliefde' (recorded somewhere around 2004)](CD03_11Kinderliefde.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Kinderliefde' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_11Kinderliefde.ogg)
  * [View the ABC notation of 'Kinderliefde' (abc)](Kinderliefde.abc)
  * [View the sheet music of 'Kinderliefde' (from abc)(png)](SongKinderliefde.png)
  * [View the sheet music of 'Kinderliefde' (from abc)(ps)](SongKinderliefde.ps)
  * [Download the sheet music of 'Kinderliefde' (mus)](SongKinderliefde.mus)
  * [View the sheet music of 'Kinderliefde' (from mus)(png)](SongKinderliefdeMus.png)
- * [Listen to 'Kinderliefde' (mid)](SongKinderliefde.mid)
- * [Download the MP3 of 'Kinderliefde' (recorded somewhere around 2004)](CD03_11Kinderliefde.mp3)
+ * [Download 'Kinderliefde' (mid)](http://www.richelbilderbeek.nl/SongKinderliefde.mid)
+ * [Download the MP3 of 'Kinderliefde' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_11Kinderliefde.mp3)
 
 ```
 Kinderliefde

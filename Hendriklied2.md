@@ -7,7 +7,7 @@ Annie M.G. Schmidt.
  * [View the ABC notation file of 'Hendriklied 2' (abc)](Hendriklied2.abc)
  * [View the sheet music of 'Hendriklied 2' (png)](SongHendriklied2.png)
  * [Download the sheet music of 'Hendriklied 2' (ps)](SongHendriklied2.ps)
- * [Listen to the music of 'Hendriklied 2' (mid)](SongHendriklied2.mid)
+ * [Download 'Hendriklied 2' (mid)](http://www.richelbilderbeek.nl/SongHendriklied2.mid)
  * [Download the tabs of 'Hendriklied 2' (doc)](SongHendriklied2.doc)
 
 ```

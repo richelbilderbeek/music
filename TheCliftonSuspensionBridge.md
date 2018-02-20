@@ -2,9 +2,9 @@
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'The Clifton Suspension Bridge' (recorded
-    somewhere around 2006)](CD05_19TheCliftonSuspensionBridge.ogg)
+    somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_19TheCliftonSuspensionBridge.ogg)
  * [Download the MP3 of 'The Clifton Suspension Bridge' (recorded
-    somewhere around 2006)](CD05_19TheCliftonSuspensionBridge.mp3)
+    somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_19TheCliftonSuspensionBridge.mp3)
 
 ```
 The Clifton Suspension Bridge

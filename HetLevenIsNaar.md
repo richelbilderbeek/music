@@ -3,15 +3,15 @@
 [Het Leven Is Naar](SongHetLevenIsNaar.htm) is written on the 19th
 December 2002 by Richel Bilderbeek.
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](CD06_01HetLevenIsNaar20070120.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded somewhere around 2003)](CD03_08HetLevenIsNaar.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OG-G of 'Het Leven Is Naar' (recorded somewhere around 2002)](CD02_05HetLevenIsNaar.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](http://www.richelbilderbeek.nl/CD06_01HetLevenIsNaar20070120.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_08HetLevenIsNaar.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OG-G of 'Het Leven Is Naar' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_05HetLevenIsNaar.ogg)
  * [Listen to 'Het Leven Is Naar' (mid)](SongHetLevenIsNaar.mid)
  * [View the sheet music of 'Het Leven Is Naar' (ps)](SongHetLevenIsNaar.ps)
  * [View the ABC notation file of 'Het Leven Is Naar' (abc)](HetLevenIsNaar.abc)
- * [Download the MP3 of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](CD06_01HetLevenIsNaar20070120.mp3)
- * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2003)](CD03_08HetLevenIsNaar.mp3)
- * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2002)](CD02_05HetLevenIsNaar.mp3)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](http://www.richelbilderbeek.nl/CD06_01HetLevenIsNaar20070120.mp3)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_08HetLevenIsNaar.mp3)
+ * [Download the MP3 of 'Het Leven Is Naar' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_05HetLevenIsNaar.mp3)
 
 ## Lyrics
 

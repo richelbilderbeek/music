@@ -1,13 +1,13 @@
 # ([Music](Music.htm)) [Vroeger](SongVroeger.htm)
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Vroeger' (recorded somewhere around 2004)](CD03_15Vroeger.ogg)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.ogg)
  * [View the ABC notation of 'Vroeger' (abc)](SongVroeger.abc)
  * [View the sheet music of 'Vroeger' (from abc)(png)](SongVroeger.png)
  * [View the sheet music of 'Vroeger' (from abc)(ps)](SongVroeger.ps)
  * [Download the sheet music of 'Vroeger' (mus)](SongVroeger.mus)
  * [View the sheet music of 'Vroeger' (from mus)(png)](SongVroegerMus.png)
- * [Listen to 'Vroeger' (mid)](SongVroeger.mid)
- * [Download the MP3 of 'Vroeger' (recorded somewhere around 2004)](CD03_15Vroeger.mp3)
+ * [Listen to 'Vroeger' (mid)](http://www.richelbilderbeek.nl/SongVroeger.mid)
+ * [Download the MP3 of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.mp3)
 
 ```
 Vroeger

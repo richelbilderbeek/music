@@ -7,7 +7,7 @@ Parody on 'Friar Jacob'.
  * [View the sheet music of 'Hendrik' (from abc)(ps)](SongHendrik.ps)
  * [Download the sheet music of 'Hendrik' (mus)](SongHendrik.mus)
  * [View the sheet music of 'Hendrik' (from mus)(png)](SongHendrikMus.png)
- * [Listen to 'Hendrik' (mid)](SongHendrik.mid)
+ * [Download 'Hendrik' (mid)](http://www.richelbilderbeek.nl/SongHendrik.mid)
 
 
 ```
