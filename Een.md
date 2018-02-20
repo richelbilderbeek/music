@@ -61,3 +61,13 @@ dus ik hou mezelf op de been
 dat elk getal zijn schoonheid heeft
 en ook mijn leven een functie heeft
 ```
+
+## Background
+
+I wanted to have a cheerfull song. 
+I already knew how to play Schnappi, 
+as I use that melody in the song [Koud Bloed In Mijn Hart](KoudBloedInMijnHart.md).
+But in that song, I uses a dramatic version of the Schnappi melody. 
+But Schnappi should be fun! 
+
+Somehow, this song was born when practicing the fun version of Schnappi.
