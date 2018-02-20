@@ -1,6 +1,6 @@
 # Achter Mijn Raam
 
-[Achter Mijn Raam](SongAchterMijnRaam.htm) is a song written by Richel
+[Achter Mijn Raam](AchterMijnRaam.htm) is a song written by Richel
 Bilderbeek on the 20th and 21st May 2006
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Achter Mijn Raam' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD06_17AchterMijnRaam20060717_2.ogg)

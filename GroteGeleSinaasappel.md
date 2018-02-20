@@ -6,9 +6,9 @@ March 2001.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Grote Gele Sinaasappel' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD01_04GroteGeleSinaasappel.ogg)
  * [Download 'Grote Gele Sinaasappel' (mid)](http://www.richelbilderbeek.nl/SongGroteGeleSinaasappel.mid)
- * [View the sheet music of 'Grote Gele Sinaasappel' (png)](SongGroteGeleSinaasappel.png)
- * [View the sheet music of 'Grote Gele Sinaasappel' (ps)](SongGroteGeleSinaasappel.ps)
- * [View the sheet music of 'Grote Gele Sinaasappel' (mus)](SongGroteGeleSinaasappel.mus)
+ * [View the sheet music of 'Grote Gele Sinaasappel' (png)](GroteGeleSinaasappel.png)
+ * [View the sheet music of 'Grote Gele Sinaasappel' (ps)](GroteGeleSinaasappel.ps)
+ * [View the sheet music of 'Grote Gele Sinaasappel' (mus)](GroteGeleSinaasappel.mus)
  * [View the ABC notation file of 'Grote Gele Sinaasappel' (abc)](GroteGeleSinaasappel.abc)
  * [Download the MP3 of 'Grote Gele Sinaasappel' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD01_04GroteGeleSinaasappel.mp3)
 

@@ -4,11 +4,11 @@
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Leontien' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_12Leontien.ogg)
  * [View the ABC notation of 'Leontien' (abc)](Leontien.abc)
- * [View the sheet music of 'Leontien' (from abc)(png)](SongLeontien.png)
- * [View the sheet music of 'Leontien' (from abc)(ps)](SongLeontien.ps)
- * [Download the sheet music of 'Leontien' (mus)](SongLeontien.mus)
- * [View the sheet music of 'Leontien' (from mus)(png)](SongLeontienMus.png)
- * [Listen to 'Leontien' (mid)](SongLeontien.mid)
+ * [View the sheet music of 'Leontien' (from abc)(png)](Leontien.png)
+ * [View the sheet music of 'Leontien' (from abc)(ps)](Leontien.ps)
+ * [Download the sheet music of 'Leontien' (mus)](Leontien.mus)
+ * [View the sheet music of 'Leontien' (from mus)(png)](LeontienMus.png)
+ * [Download 'Leontien' (mid)](http://www.richelbilderbeek.nl/SongLeontien.mid)
  * [Download the MP3 of 'Leontien' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_12Leontien.mp3)
 
 ```

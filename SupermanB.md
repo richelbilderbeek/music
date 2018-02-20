@@ -1,6 +1,6 @@
 # Superman B
 
-[Superman B](SongSupermanB.htm) is a song written by Richel Bilderbeek
+'Superman B' is a song written by Richel Bilderbeek
 on the 30th of April 2013
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.ogg)

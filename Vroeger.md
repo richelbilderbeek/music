@@ -6,7 +6,7 @@
  * [View the sheet music of 'Vroeger' (from abc)(ps)](Vroeger.ps)
  * [Download the sheet music of 'Vroeger' (mus)](Vroeger.mus)
  * [View the sheet music of 'Vroeger' (from mus)(png)](VroegerMus.png)
- * [Listen to 'Vroeger' (mid)](http://www.richelbilderbeek.nl/SongVroeger.mid)
+ * [Download 'Vroeger' (mid)](http://www.richelbilderbeek.nl/SongVroeger.mid)
  * [Download the MP3 of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.mp3)
 
 ```

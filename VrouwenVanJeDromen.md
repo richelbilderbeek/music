@@ -1,6 +1,6 @@
 # Vrouwen Van Je Dromen
 
-The melody of [Vrouwen Van Je Dromen](SongVrouwenVanJeDromen.htm) was
+The melody of 'Vrouwen Van Je Dromen' was
 composed at the 1st of September of 2010 and the song was at time called
 'The Shappie Song'. The lyrics were written on the 24th of April 2011
 and its current title was given to the song.

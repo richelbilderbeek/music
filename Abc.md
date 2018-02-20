@@ -28,19 +28,19 @@ V:V2 clef=bass
 
 ## My ABC notation files
 
--   [Ah! Les crocodiles (French nursery rhyme)](SongAhLesCrocodiles.abc)
--   [Al Heb Je Blauw Haar](SongAlHebJeBlauwHaar.abc)
--   [Come Home Darling](SongComeHomeDarling.abc)
--   [De \*\*\*](SongDeLul.abc)
--   ["Friday"](SongFriday.abc)
--   [Grote Gele Sinaasappel](SongGroteGeleSinaasappel.abc)
--   [Het Koffielied](SongHetKoffielied.abc)
--   [Het Leven Is Naar](SongHetLevenIsNaar.abc)
--   [Het Mentorkindjeslied](SongHetMentorkindjeslied.abc)
--   [Het \*\*\*\*menslied](SongHetNeukmenslied.abc)
--   [Maanliedje](SongMaanliedje.abc)
--   [O Mooie Geluidsvrouw](SongOMooieGeluidsvrouw.abc)
--   [Wooloo Mooloo](SongWoolooMooloo.abc)
+-   [Ah! Les crocodiles (French nursery rhyme)](AhLesCrocodiles.abc)
+-   [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.abc)
+-   [Come Home Darling](ComeHomeDarling.abc)
+-   [De \*\*\*](DeLul.abc)
+-   ["Friday"](Friday.abc)
+-   [Grote Gele Sinaasappel](GroteGeleSinaasappel.abc)
+-   [Het Koffielied](HetKoffielied.abc)
+-   [Het Leven Is Naar](HetLevenIsNaar.abc)
+-   [Het Mentorkindjeslied](HetMentorkindjeslied.abc)
+-   [Het \*\*\*\*menslied](HetNeukmenslied.abc)
+-   [Maanliedje](Maanliedje.abc)
+-   [O Mooie Geluidsvrouw](OMooieGeluidsvrouw.abc)
+-   [Wooloo Mooloo](WoolooMooloo.abc)
 
 ## External links
 

@@ -6,7 +6,7 @@ Although I do like the original, I have read all critiques on it and
 implemented those.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
- * [View the sheet music of 'Friday' (ps)](SongFriday.ps)
+ * [View the sheet music of 'Friday' (ps)](Friday.ps)
  * [View the ABC notation of the sheet music of 'Friday' (abc)](Friday.abc)
  * [Download the MIDI music created from the ABC notation page of 'Friday' (mid)](http://www.richelbilderbeek.nl/SongFriday.mid)
  * [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](https://youtu.be/kfVsfOSbJY0)
