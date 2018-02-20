@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Het Mentorkindjeslied](SongHetMentorkindjeslied.htm)
+# Het Mentorkindjeslied
 
-[Het Mentorkindjeslied](SongHetMentorkindjeslied.htm) is a ballad
+'Het Mentorkindjeslied' is a ballad
 written by me on the 14th September 2002.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Mentorkindjeslied' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_09HetMentorkindjeslied.ogg)

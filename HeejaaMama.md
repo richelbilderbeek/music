@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Heejaa Mama](SongHeejaaMama.htm)
+# Heejaa Mama
 
-[Heejaa Mama](SongHeejaaMama.htm) was written by me on the 30th October
+'Heejaa Mama' was written by me on the 30th October
 2009. The person that did the tabbing for me chooses to remain
 anonymous.
 

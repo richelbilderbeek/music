@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [To The Pub](SongToThePub.htm)
+# To The Pub
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'To The Pub' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_20ToThePub.ogg)
  * [Download the MP3 of 'To The Pub' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_20ToThePub.mp3)

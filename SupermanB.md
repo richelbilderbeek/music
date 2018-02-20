@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Superman B](SongSupermanB.htm)
+# Superman B
 
 [Superman B](SongSupermanB.htm) is a song written by Richel Bilderbeek
 on the 30th of April 2013

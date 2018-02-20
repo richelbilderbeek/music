@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Vroeger](SongVroeger.htm)
+# Vroeger
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.ogg)
  * [View the ABC notation of 'Vroeger' (abc)](SongVroeger.abc)

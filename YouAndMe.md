@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) You And Me
+# You And Me
 
 'You And Me' is a song written by me on the 4th of June 2005 to and
 including 1st July 2005 for the boyband 'The Loveboys'. Too bad the band

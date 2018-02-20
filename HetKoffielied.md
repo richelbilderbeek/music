@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Het Koffielied](SongHetKoffielied.htm)
+# Het Koffielied
 
-[Het Koffielied](SongHetKoffielied.htm) is written by me on the 11th May
+'Het Koffielied' is written by me on the 11th May
 2001.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Koffielied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_06HetKoffielied.ogg)

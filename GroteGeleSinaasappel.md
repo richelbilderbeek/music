@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Grote Gele Sinaasappel](SongGroteGeleSinaasappel.htm)
+# Grote Gele Sinaasappel
 
-[Grote Gele Sinaasappel](SongGroteGeleSinaasappel.htm) is a duet written
+'Grote Gele Sinaasappel' is a duet written
 by 'Het Bilderbeek Bilderbeek & Bogaart Bogaart Quartet', on the 23rd of
 March 2001.
 

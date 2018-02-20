@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Voor De Klas](SongVoorDeKlas.htm)
+# Voor De Klas
 
 [Voor De Klas](SongVoorDeKlas.htm) was written by me on the 10th
 November 2010. Tabs were used from the song 'Ik Wou Dat Ik Jou Was' from

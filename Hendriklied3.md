@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Hendriklied 3](SongHendriklied3.htm)
+# Hendriklied 3
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Hendriklied 3' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_08Hendriklied3_20060812.ogg)
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Hendriklied 3' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD05_08Hendriklied3.ogg)

@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Hendrik](SongHendrik.htm)
+# Hendrik
 
 Parody on 'Friar Jacob'.
 

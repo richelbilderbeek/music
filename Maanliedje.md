@@ -1,6 +1,6 @@
-# ([Music](Music.htm)) [Maanliedje](SongMaanliedje.htm)
+# Maanliedje
 
-[Maanliedje](SongMaanliedje.htm) is written by 'Het Bilderbeek
+Maanliedje is written by 'Het Bilderbeek
 Bilderbeek & Bogaart Bogaart Quartet', somewhere before the 21th
 September of 2000
 

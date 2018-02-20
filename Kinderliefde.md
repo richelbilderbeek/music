@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Kinderliefde](SongKinderliefde.htm)
+# Kinderliefde
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Kinderliefde' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_11Kinderliefde.ogg)
  * [View the ABC notation of 'Kinderliefde' (abc)](Kinderliefde.abc)

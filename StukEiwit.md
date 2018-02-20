@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Stuk Eiwit](SongStukEiwit.htm)
+# Stuk Eiwit
 
 Lyrics written by Richel Bilderbeek on the 29th of September 2007
 

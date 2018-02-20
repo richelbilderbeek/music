@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Hendriklied 1](SongHendriklied1.htm)
+# Hendriklied 1
 
 Parody on 'Oh My Darling Clementine'.
 

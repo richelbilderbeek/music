@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [Wooloo Mooloo](SongWoolooMooloo.htm)
+# Wooloo Mooloo
 
 Written by Richel Bilderbeek, on the 12th of August 2003.
 

@@ -1,4 +1,4 @@
-# ([Music](Music.htm)) [The Clifton Suspension Bridge](SongTheCliftonSuspensionBridge.htm)
+# The Clifton Suspension Bridge
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
     [Download the OGG of 'The Clifton Suspension Bridge' (recorded
