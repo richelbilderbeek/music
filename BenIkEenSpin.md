@@ -4,8 +4,8 @@
 Added minor changes on the 27th of May 2007. It is a parody of
 'Ben Ik Te Min' by Armand.
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Ben Ik Een Spin' (recorded on the 10th of June of 2007)](CD07_BenIkEenSpin20070610.ogg)
- * [Download the MP3 of 'Ben Ik Een Spin' (recorded on the 10th of June of 2007)](CD07_BenIkEenSpin20070610.mp3)
+ * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Ben Ik Een Spin' (recorded on the 10th of June of 2007)](http://www.richelbilderbeek.nl/CD07_BenIkEenSpin20070610.ogg)
+ * [Download the MP3 of 'Ben Ik Een Spin' (recorded on the 10th of June of 2007)](http://www.richelbilderbeek.nl/CD07_BenIkEenSpin20070610.mp3)
  
 ```
 Ben ik een spin

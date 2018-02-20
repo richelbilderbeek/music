@@ -4,4 +4,4 @@
 
  * [View the ABC music notation sheet of 'Ah! Les crocodiles (abc)](AhLesCrocodiles.abc)
  * [View the sheet music of 'Ah! Les crocodiles (png)](SongAhLesCrocodiles.png)
- * [Listen to 'Ah! Les crocodiles (mid)](SongAhLesCrocodiles.mid)
+ * [Download 'Ah! Les crocodiles (mid)](http://www.richelbilderbeek.nl/SongAhLesCrocodiles.mid)
