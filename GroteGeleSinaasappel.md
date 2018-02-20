@@ -17,9 +17,6 @@ March 2001.
 ```
 Grote gele sinaasappel
 Written by 'Het Bilderbeek Bilderbeek & Bogaart Bogaart Quartet'
-On the 23rd of March 2001 
-From http://www.richelbilderbeek.nl/SongGroteGeleSinaasappel.htm
-
 
 Grote gele sinaasappel 
 wat ligt u hier nu te doen? 

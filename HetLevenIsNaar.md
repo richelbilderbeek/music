@@ -1,6 +1,6 @@
 # Het Leven Is Naar
 
-[Het Leven Is Naar](HetLevenIsNaar.htm) is written on the 19th
+'Het Leven Is Naar' is written on the 19th
 December 2002 by Richel Bilderbeek.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Leven Is Naar' (recorded on the 20th of Januari of 2007)](http://www.richelbilderbeek.nl/CD06_01HetLevenIsNaar20070120.ogg)
@@ -17,9 +17,7 @@ December 2002 by Richel Bilderbeek.
 
 ```
 Het Leven Is Naar
-Written on the 19th December 2002
 By Richel Bilderbeek
-From http://www.richelbilderbeek.nl
 
 Heel erg lang geleden
 toen ik nog klein was

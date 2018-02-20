@@ -6,9 +6,6 @@
 ```
 Wenn Du Haettest Blaue Haare
 Written by Richel Bilderbeek
-On the someday'th
-From http://www.richelbilderbeek.nl/SongWennDuHaettestBlaueHaare.htm
-
 
 Auch wenn du haettest blaue Haare
 wird das nicht bedeuten dass,

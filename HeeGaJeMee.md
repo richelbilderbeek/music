@@ -12,8 +12,6 @@ Gerard van Maasakkers. The lyrics written by me on the 21st of June
 ```
 Hee Ga Je Mee
 Uses the chords of 'Hee Goade Mee' by Gerard van Maasakkers
-Lyrics written by Richel Bilderbeek on the 21st of June 2013
-From http://www.richelbilderbeek.nl/SongHeeGaJeMee.htm
 Tempo: 132 4/4
 
 [CHORUS]

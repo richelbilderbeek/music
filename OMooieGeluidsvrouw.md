@@ -9,8 +9,6 @@
 O Mooie Geluidsvrouw
 Melody written by Richel Bilderbeek on the 18th of April
 Lyrics written by 'Het Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet' on the 21st April 2002
-From http://www.richelbilderbeek.nl/SongOMooiseGeluidsvrouw.htm
-
 
 Jij bent mooi, jij bent mooi 
 maar je borsten zijn te groot 

@@ -22,11 +22,11 @@ That I am a bad singer and piano player does not hold me back.
 
  * [CD #7: Ik Zing Alleen Voor De Koningin](https://github.com/richelbilderbeek/IkZingAlleenVoorDeKoningin)
  * [CD #6: 5 Jaar Richel](https://github.com/richelbilderbeek/VijfJaarRichel)
- * [CD #5: De Wereld Rond](MusicCd5.htm)
- * [CD #4: Fuer Dir, O, Liebe Fan](MusicCd4.htm)
- * [CD #3: Richeldingen](MusicCd3.htm)
- * [CD #2: Dingen Voor 2004](MusicCd2.htm)
- * [CD #1: Debut album of the BB&BBQ](MusicCd1.htm)
+ * [CD #5: De Wereld Rond](http://www.richelbilderbeek.nl/MusicCd5.htm)
+ * [CD #4: Fuer Dir, O, Liebe Fan](http://www.richelbilderbeek.nl/MusicCd4.htm)
+ * [CD #3: Richeldingen](http://www.richelbilderbeek.nl/MusicCd3.htm)
+ * [CD #2: Dingen Voor 2004](http://www.richelbilderbeek.nl/MusicCd2.htm)
+ * [CD #1: Debut album of the BB&BBQ](http://www.richelbilderbeek.nl/MusicCd1.htm)
 
 ## My favorite online radio's
 
