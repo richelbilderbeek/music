@@ -2,9 +2,9 @@
 
 Parody on 'Oh My Darling Clementine'.
 
- * [View the ABC notation of 'Hendriklied 1' (abc)](SongHendriklied1.abc)
- * [View the sheet music of 'Hendriklied 1' (png)](SongHendriklied1.png)
- * [View the sheet music of 'Hendriklied 1' (ps)](SongHendriklied1.ps)
+ * [View the ABC notation of 'Hendriklied 1' (abc)](Hendriklied1.abc)
+ * [View the sheet music of 'Hendriklied 1' (png)](Hendriklied1.png)
+ * [View the sheet music of 'Hendriklied 1' (ps)](Hendriklied1.ps)
  * [Download 'Hendriklied 1' (mid)](http://www.richelbilderbeek.nl/SongHendriklied1.mid)
 
 ```

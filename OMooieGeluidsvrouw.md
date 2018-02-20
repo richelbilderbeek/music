@@ -1,8 +1,8 @@
 # O Mooie Geluidsvrouw
 
- * [View the ABC notation file of 'O Mooie Geluidsvrouw' (abc)](SongOMooieGeluidsvrouw.abc)
- * [View the sheet music of 'O Mooie Geluidsvrouw' (png)](SongOMooieGeluidsvrouw.png)
- * [Download the sheet music of 'O Mooie Geluidsvrouw' (ps)](SongOMooieGeluidsvrouw.ps)
+ * [View the ABC notation file of 'O Mooie Geluidsvrouw' (abc)](OMooieGeluidsvrouw.abc)
+ * [View the sheet music of 'O Mooie Geluidsvrouw' (png)](OMooieGeluidsvrouw.png)
+ * [Download the sheet music of 'O Mooie Geluidsvrouw' (ps)](OMooieGeluidsvrouw.ps)
  * [Download the music of 'O Mooie Geluidsvrouw' (mid)](http://www.richelbilderbeek.nl/SongOMooieGeluidsvrouw.mid)
 
 ```
