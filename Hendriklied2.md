@@ -5,10 +5,6 @@ Bilderbeek on April 3th 2002. It is a parody of 'Dikkertje Dap' by
 Annie M.G. Schmidt. 
 
  * [View the ABC notation file of 'Hendriklied 2' (abc)](Hendriklied2.abc)
- * [View the sheet music of 'Hendriklied 2' (png)](Hendriklied2.png)
- * [Download the sheet music of 'Hendriklied 2' (ps)](Hendriklied2.ps)
- * [Download 'Hendriklied 2' (mid)](http://www.richelbilderbeek.nl/SongHendriklied2.mid)
- * [Download the tabs of 'Hendriklied 2' (doc)](Hendriklied2.doc)
 
 ```
 Hendriklied 2

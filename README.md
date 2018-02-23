@@ -30,7 +30,7 @@ That I am a bad singer and piano player does not hold me back.
 
 ## My favorite online radio's
 
- * [playingtheclassics.com](playingtheclassics.com): 8 and 16 bit console games
+ * [playingtheclassics.com](http://playingtheclassics.com): 8 and 16 bit console games
  * [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
  * [kohina.com](http://www.kohina.com/): retro game music
 
@@ -39,13 +39,10 @@ That I am a bad singer and piano player does not hold me back.
  * [Tricky-M](http://www.trickym.de.tl): German rap
  * [Cyborgjeff](http://www.studio-quena.be/cyborgjeff/blog): game music
  * [Music4Games](http://licensetothrillmusic.com): game music
- * [The X-Structure: electronic](http://thexstructure.com)
  * [Orphan songs](http://www.orphansongs.com): pop
 
 ## External links
 
- * [my Jamendo artist
-    page](http://www.jamendo.com/en/artist/Richel_Bilderbeek)
+ * [my Jamendo artist page](http://www.jamendo.com/en/artist/Richel_Bilderbeek)
  * [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
- * [Hatsune Miku singing the first thousand digits of
-    pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
+ * [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)

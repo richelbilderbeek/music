@@ -5,7 +5,7 @@ November 2010. Tabs were used from the song 'Ik Wou Dat Ik Jou Was' from
 Veldhuis & Kemper.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Voor De Klas' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_VoorDeKlas20101211.ogg)
- * [Download the tabs and lyrics of 'Voor De Klas' (doc)](VoorDeKlas.doc)
+ * [Download the tabs and lyrics of 'Voor De Klas' (doc)](http://www.richelbilderbeek.nl/VoorDeKlas.doc)
  * [Download the MP3 of 'Voor De Klas' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_VoorDeKlas20101211.mp3)
 
 ```

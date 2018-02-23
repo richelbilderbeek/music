@@ -7,7 +7,6 @@ on the 20th of April 2002.
  * [View the ABC notation file of 'Rood Geluk' (abc)](RoodGeluk.abc)
  * [View the sheet music of 'Rood Geluk' (png)](RoodGeluk.png)
  * [Download the sheet music of 'Rood Geluk' (ps)](RoodGeluk.ps)
- * [Listen to the music of 'Rood Geluk' (mid)](RoodGeluk.mid)
 
 
 ```
