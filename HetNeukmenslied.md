@@ -7,7 +7,6 @@ by Marco Borsato.
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het N..kmenslied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_06HetNeukmenslied.ogg)
  * [View the sheet music of 'Het N..kmenslied' (ps)](HetNeukmenslied.ps)
  * [View the ABC notation file of 'Het N..kmenslied' (abc)](HetNeukmenslied.abc)
- * [Download 'Het N..kmenslied' (mid)](http://www.richelbilderbeek.nl/HetNeukmenslied.mid)
  * [Download 'Het N..kmenslied' (mp3) (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_10HetNeukmenslied.mp3)
  * [Download 'Het N..kmenslied' (mp3) (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_06HetNeukmenslied.mp3)
 

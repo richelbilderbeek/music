@@ -23,6 +23,7 @@ install:
 
 script:
   # Check dead links
+  - rm .travis.yml
   - ./check_dead_links
   # Create eBook
   - ./create_epub
