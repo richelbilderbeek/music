@@ -5,7 +5,6 @@
 anonymous.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.ogg)
- * [Download the tabs and lyrics of 'Heejaa Mama' (doc)](http://www.richelbilderbeek.nl/HeejaaMama.doc)
  * [Download the MP3 of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.mp3)
 
 ```
