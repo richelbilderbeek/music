@@ -9,9 +9,8 @@ Veldhuis & Kemper.
 
 ```
 Voor De Klas
-Written by Richel Bilderbeek
-On the 10th November 2010
-From http://www.richelbilderbeek.nl
+Lyrics by Richel Bilderbeek
+Melody by from 'Ik Wou Dat Ik Jou Was' by Veldhuis & Kemper.
 
 Ik weet dat ik docent was
 mentor van een klas was
@@ -91,7 +90,7 @@ een Sony Ericsson
 Ik leerde wat sociaal was
 hoe je als mens normaal was
 dat jezelf inleven goed was
-dat het gras niet altijd groen
+dat het gras niet altijd groen was
 
 MAAR IK WOU JUIST
 dat ik weer mezelf was
@@ -114,3 +113,28 @@ het leven te overzien was
 er altijd een duidelijk doel was
 en dat jij soms weer met me in de kroeg zat...
 ```
+
+## Background
+
+I find the original song, 'Ik wou dat ik jou was' fascinating:
+the melody is pretty, but I think the lyrics are completely
+irrational. Sure, the lyrics sound good when listening 
+superficially, but when listening more careful, it does
+not make sense: one *can* change his/her behavior.
+
+While I was practicing the melody of the song, 
+I was really wishing I would be my old self again.
+I noticed that teaching secondary school kids had
+changed me, as it made me change how I see the world:
+I *see* people since being a teacher. With that new
+information, I behave differently. And I longed for
+my simpler behavior while I was more ignorant of people.
+
+The story was easy to write, by just dramatizing and
+ridiculizing some event that did happen in my 
+classroom (all names are fictional).
+I was happy to see how in the end I dared ridiculizing 
+myself as well. In the final sentence, I wished 
+being with a girl I lost contact with, due to teaching
+and its effects. No bad joke in the end, but I think 
+the main storyline is a bad enough joke already.

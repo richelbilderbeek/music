@@ -59,3 +59,19 @@ Steeds weer vrouwen van je dromen?
 Het komt hier vandaan:
 ook dromen komen en gaan!
 ```
+
+## Background
+
+I noticed from personal experience the cycle in this
+song: a man meets a new girl, he thinks she is the girl of
+his dreams, they get any form of relationship, and then they break up,
+after which this repeats. I wondered how to explain this.
+
+So I made up a potential ridiculous (but still possibly true!)
+story to facilitate this cycle to happen. 
+The story ends with one of the potential causes of the
+cycle in reality. No bad joke in the end, as the story arc
+is already bad joke enough.
+ 
+
+
