@@ -178,3 +178,16 @@ dat mijn lichaam zich zo misdraagt.
 Heb ik een doktersrecept nodig
 die mijn hartslag weer verlaagt?
 ```
+
+## Background
+
+As many non-parodies songs start, I already had the melody.
+I enjoyed the melody, as it has two different tempi. I 
+practice the melody until one day the lyrics roll out.
+
+Then, the cause of many of my lyrics appeared: a girl.
+Starting from an internet search, the plot of the lyrics
+was formed. As usual, I take a high-status role. That she
+appeared to be a spy was a novelty. The rhyming ended
+up in me having to kill her the greater good. 
+I found that story sad, so I wrote a happier ending with a bad joke in the end.
