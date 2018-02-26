@@ -9,4 +9,4 @@
 
 ## External links
 
- * [Hans Witt's Fanstars page](http://home.kpn.nl/hanswitt/fanstars)
+ * [Hans Witt's Fanstars page](http://home.kpn.nl/hanswitt/fanstars/index.htm)
