@@ -11,7 +11,7 @@ script:
   - rm .travis.yml
   - ./check_dead_links
   # tex4ebook prerequisite packages
-  - sudo apt-get install -qq luatex texlive-base texlive-luatex pandoc latexmk texlive texlive-xetex tex4ht texlive-latex-extra 
+  - sudo apt-get install -qq luatex texlive-base texlive-luatex pandoc latexmk texlive texlive-xetex tex4ht texlive-latex-extra tidy
   # tex4ebook prerequisite: make4ht
   - git clone https://github.com/michal-h21/make4ht
   - cd make4ht
