@@ -1,14 +1,16 @@
 # Pjanoman
 
+'Pjanoman' is parody written by Richel Bilderbeek
+on February 14th 2015. Melody is from 'Pianoman' by Billy Joel.
+
 ```
 Pjanoman
 Lyrics written by Richel Bilderbeek
 Melody from 'Pianoman' by Billy Joel
-On February 14th 2015
 
 T'is zeven uur 's ochtends op een zaterdag
 't eerste biertje zit er weer in
-over verder te gaan met het carnaval
+om verder te gaan met het carnaval
 ook al heb je misschien nog geen zin
 
 T'is negen uur 's ochtends op een zaterdag
@@ -24,12 +26,12 @@ volgens een man gekleed in pliesiepak
 T'is elf over een op een zaterdag
 als de fles tequila op tafel staat
 we atten d'n urste, de twidde komt snel
-nog sneller Henk, die op d'plee kotsen gaat
+nog sneller gaat Henk, die op d'plee kotsen gaat
 
 T'is elf over drie op een zaterdag
 een stoet, wij met bier op aan de straat
 de dansemariekes vinden wij luidruchtig goed
-ze geeft Piet een klap op z'n -gelaat- smoel
+ze geeft Piet een klap op z'n gelaat ... smoel
 
 T'is elf over vijf op een zaterdag
 Voor de snackbar staat een lange rij
@@ -37,7 +39,7 @@ met piraten, met cowboys, een aap en een bij
 met de tekst 'We zijn er weer bij'
 
 T'is elf over zes op een zaterdag
-Vermoeid nemen we nog een bier
+Vermoeid nemen we nog een bier of elf
 een carnavalshit (deze) op de speakerset
 we hebben echt keiveel plezier
 
@@ -57,7 +59,7 @@ we sjansen met meskes en ze lopen niet weg
 bij de rij voor de damesplee
 
 T'is elf over tien op een zaterdag
-De helft, d'ander nog verder heen
+De helft zat, d'ander nog verder heen
 een enkeling heeft echter te weinig op
 want hij zeurt, als ik z'n meissie leen
 
@@ -77,7 +79,12 @@ wie waren die twee en wat schreeuwde hij hard
 da's nu eenmaal hoe het eraan toe gaat
 
 T's op een dag van een carnaval
-De dagen vermelten tot een
+De dagen versmelten tot een
 we drinken veel bier en hebben veel lol
 carnaval is dus feest nummer een!
 ```
+
+## Background
+
+I wrote this song in the train returning home from carnaval.
+I had a hang-over. I think it represents carnaval great.
