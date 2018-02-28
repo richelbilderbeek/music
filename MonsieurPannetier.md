@@ -2,7 +2,44 @@
 
 'Monsier Pannetier' is a parody on the song 'Monsier Cannibale' by Sacha Distel.
 
-## Lyrics
+```
+Monsier Pannetier
+Lyrics by Richel Bilderbeek
+Melody by Sacha Distel
+
+C G7 (100x)
+
+En le voyer de son menton elles sensent papillons d'Afrique
+Le Pannetier est trainer de ne arrêtèr pas prendre leurs coeurs toute de suite
+Il a deja charmer de femmes Anglais Espagnol Portugais Chinois
+Mais quand il parle mathematique elles se mit à hurler d'effroi
+
+Oh Monsieur Pannetier j'n'veux pas mourir
+Monsieur Pannetier laissez moi partir
+
+Il leur montra son crayon son stylo sa passeur et les photos d'sa diagramme
+Il leur monter avec un grande fiere des theoremes d'Euler de integrale
+Il leur fit voir des journaux academic personne ne réagit non plus
+Désespéré elles prennent des avenues pour direr de verite toutes nues elles dit
+
+Oh Monsieur Pannetier j'n'veux pas mourir
+Monsieur Pannetier laissez moi partir
+
+Quand le Theo vu sa monologue eclatant est pas du comprehends il rit
+Mais dans sa tête une idée saugrenue une idée farfelue surgi
+Dans un bureau où était ses formels il entraîna leurs même les femmes
+Qui en voyant les femmes se ruer sur lui avec tant d'appétit hurla
+
+Oh Monsieur Pannetier j'n'veux pas mourir
+Monsieur Pannetier laissez moi partir
+
+Pendant 8 jours elles resta enfermé et il se enseigner en vain
+Et comme déjà il n'etait pas bien gros il perdit 20 kilos au moins
+Quand arriva l'instant ou le perspicacité il fais comprendre sa temps est passé
+Prends ton tronçonneusion et retourne chez elles le pauvre femmes s'écria jamais
+```
+
+## Lyrics with translation
 
 French|English
 ---|---

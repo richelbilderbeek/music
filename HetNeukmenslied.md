@@ -16,6 +16,12 @@ by Marco Borsato.
 Het N**kmenslied
 Written by Richel Bilderbeek
 
+C#  F#m B   E
+G#  A   B   C#m
+F#m B   E   G#
+A   B   G#  G# 
+            C#m
+
 In de verte spreekt een stem
 die ik herken van het n**ken
 in de allergeilste standen

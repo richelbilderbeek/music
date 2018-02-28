@@ -1,12 +1,17 @@
 # Morgenvroeg
 
+'Morgenvroeg' is composed and lyrics written by Richel Bilderbeek
+on June 3rd of 2004.
+
+
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Morgenvroeg' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_06Morgenvroeg20060812.ogg)
  * [Download the MP3 of 'Morgenvroeg' (recorded on the 12th of August of 2006)](http://www.richelbilderbeek.nl/CD06_06Morgenvroeg20060812.mp3)
 
 ```
 Morgenvroeg
-Written by Richel Bilderbeek
-On the 3rd June of 2004
+By Richel Bilderbeek
+
+G# E C D# (single note)
 
 Ik zit
 weer in de kroeg

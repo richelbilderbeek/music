@@ -18,6 +18,8 @@ by Richel Bilderbeek on April 5th 2003.
 Al Heb Je Blauw Haar
 By Richel Bilderbeek
 
+F G A G (4x)
+
 Al heb je blauw haar
 dan wil dat nog niet zeggen dat
 dat ik met je paar

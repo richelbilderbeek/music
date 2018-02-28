@@ -19,8 +19,9 @@ September of 2000
 ```
 Maanliedje
 Written by 'Het Bilderbeek Bilderbeek & Bogaart Bogaart Quartet'
-Somewhere before the 21th September of 2000
-From http://www.richelbilderbeek.nl
+
+C F D G
+E A D C
 
 Grote gele kaasmaan
 stralend in de lucht

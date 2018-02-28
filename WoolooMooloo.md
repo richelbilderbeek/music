@@ -14,6 +14,8 @@
 Wooloo Mooloo
 By Richel Bilderbeek
 
+Bb A G F
+
 Honderd studenten 
 in een discotheek 
 in de hoofdstad van Utrecht 

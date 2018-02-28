@@ -105,15 +105,14 @@ in the song. Here these references are explained.
 
 ### [VERSE 1]
 
-```
-.7 zip, extract in the morning 
-source's gotta be fresh, gotta new download
-gotta have my tools, gotta have mercurial
-Checkin' everything, the std::time is goin'
-Tickin' on and on, internal std::clock is rushin'
-Data going down through the bus wire
-Overclocked my card, my fan is my friend (my fan) 
-```
+
+> .7 zip, extract in the morning 
+> source's gotta be fresh, gotta new download
+> gotta have my tools, gotta have mercurial
+> Checkin' everything, the std::time is goin'
+> Tickin' on and on, internal std::clock is rushin'
+> Data going down through the bus wire
+> Overclocked my card, my fan is my friend (my fan) 
 
 '.7' is a zip format, a compression algorithm to make files
 smaller. Such smaller files need to be unpacked before use; the raw
@@ -126,12 +125,10 @@ it fit the metrum of this song better.
 
 ### [PUSHPOP]
 
-```
-Pushing in the front side 
-Popping in the back side
-Gotta make my mind up 
-Which container can I take? 
-```
+> Pushing in the front side 
+> Popping in the back side
+> Gotta make my mind up 
+> Which container can I take? 
 
 In C++, some containers have a `push` member function to add an element,
 and a `pop` member function to remove an element. Not all containers can
@@ -140,14 +137,13 @@ side (removing the last element).
 
 ### [FRIDAY]
 
-```
-It's "Friday", "Friday" 
-My computer std::clock states it's "Friday"
-Definition lookin' up for the term "weekend", "weekend" 
-"Friday", "Friday"
-Loadin' down on "Friday" 
-Definition must be looked up for "weekend", "weekend" 
-```
+
+> It's "Friday", "Friday" 
+> My computer std::clock states it's "Friday"
+> Definition lookin' up for the term "weekend", "weekend" 
+> "Friday", "Friday"
+> Loadin' down on "Friday" 
+> Definition must be looked up for "weekend", "weekend" 
 
 The double quotes around `"Friday"` indicate a std::string.
 `std::clock` is a function used to obtain the current time.
@@ -156,12 +152,10 @@ wonders if a Friday is part of the set of days called 'weekend'.
 
 ### [POWER4]
 
-```
-Programming, programming (Yeah) 
-Programming, programming (Yeah) 
-std::mem_fun, std::mem_fun_ref
-Definition must be looked up for "weekend", "weekend"
-```
+> Programming, programming (Yeah) 
+> Programming, programming (Yeah) 
+> std::mem_fun, std::mem_fun_ref
+> Definition must be looked up for "weekend", "weekend"
 
 The programmer is happy. 
 `std::mem_fun` and `std::mem_fun_ref` are
@@ -171,16 +165,14 @@ but kept in for the metrum.
 
 ### [VERSE2]
 
-```
-7:45, we're going' to Assembler
-Profilin' so fast, I want std::time to fly
-MOV, MOV, think about MOV
-You know EAX 
-I got this, you got this 
-It's friend has private (access) rights, ay 
-I got this, you got this 
-Now you trace it
-```
+> 7:45, we're going' to Assembler
+> Profilin' so fast, I want std::time to fly
+> MOV, MOV, think about MOV
+> You know EAX 
+> I got this, you got this 
+> It's friend has private (access) rights, ay 
+> I got this, you got this 
+> Now you trace it
 
 It is getting late (7:45 PM) and the programmer is
 starting to use the Assembly language (a low-level
@@ -198,13 +190,11 @@ Tracing indicates putting (raw) data on screen, used in debugging.
 
 ### [PAST]
 
-```
-"Yesterday" == "Thursday", "Thursday"
-"Today" == "Friday", "Friday" (Partyin')
-We-we are asserting 
-static_asserting
-We gonna have no bugs "Today"
-```
+> "Yesterday" == "Thursday", "Thursday"
+> "Today" == "Friday", "Friday" (Partyin')
+> We-we are asserting 
+> static_asserting
+> We gonna have no bugs "Today"
 
 Here the programmer is testing his/her code.
 `assert` is a C function to test in debug mode.
@@ -212,11 +202,9 @@ Here the programmer is testing his/her code.
 
 ## [FUTURE]
 
-```
-"Today" + 1 == "Saturday"
-And "Sunday" comes after (prefix) ++
-I don't want a Week to have Week::end()
-```
+> "Today" + 1 == "Saturday"
+> And "Sunday" comes after (prefix) ++
+> I don't want a Week to have Week::end()
 
 Here the programmer is still testing his/her code.
 
@@ -230,18 +218,16 @@ programmer is regretting this design.
 
 ### [VERSE3]
 
-```
-R-B, Richel Bilderbeek
-So pushing' in the front side (In the front side) 
-In the back side (In the back side) 
-I'm debuggin', tracin' (Yeah, yeah) 
-Fast lookup, switchin' terms 
-Wit' a profiler on my side (Woo!) 
-(C'mon) Passin' by is a stack trace in front of me 
-Make bits switch, bits shift, wanna see
-Check my std::time, it's "Friday", it's a "weekend"
-We press F5 to run, c'mon, c'mon, y'all 
-```
+> R-B, Richel Bilderbeek
+> So pushing' in the front side (In the front side) 
+> In the back side (In the back side) 
+> I'm debuggin', tracin' (Yeah, yeah) 
+> Fast lookup, switchin' terms 
+> Wit' a profiler on my side (Woo!) 
+> (C'mon) Passin' by is a stack trace in front of me 
+> Make bits switch, bits shift, wanna see
+> Check my std::time, it's "Friday", it's a "weekend"
+> We press F5 to run, c'mon, c'mon, y'all 
 
 A profiler is a tool to measure the time (part of) a program
 needs to do its work.
@@ -251,88 +237,3 @@ being evaluated at the same time.
 
 F5 is the key to start running in debug mode in Qt Creator.
 It appears the programmer is still working on it...
-
-## Older version
-
-```
-"Friday"
-Written by Richel Bilderbeek
-On the 7th of April 2011
-
-[VERSE1]
-.7 zip, extract in the morning 
-source's gotta be fresh, gotta new download
-gotta have my tools, gotta have mercurial
-Checkin' everything, the std::time is goin'
-Tickin' on and on, internal std::clock is rushin'
-Data going down through the bus wire
-Overclocked my card, my fan is my friend (my fan) 
-
-[PUSHPOP]
-Pushing in the front side 
-Popping in the back side
-Gotta make my mind up 
-Which container can I take? 
-
-[FRIDAY]
-It's "Friday", "Friday" 
-My computer std::clock states it's "Friday"
-Definition lookin' up for the term "weekend", "weekend" 
-"Friday", "Friday"
-Loadin' down on "Friday" 
-Definition must be looked up for "weekend", "weekend" 
-
-[POWER4]
-Programming, programming (Yeah) 
-Programming, programming (Yeah) 
-Fun to the power four
-Definition must be looked up for "weekend", "weekend"
-
-[VERSE2]
-7:45, we're going' to Assembler
-Profilin' so fast, I want std::time to fly
-MOV, MOV, think about MOV
-You know EAX 
-I got this, you got this 
-It's friend has private (access) rights, ay 
-I got this, you got this 
-Now you trace it
-
-[PUSHPOP]
-
-[FRIDAY]
-
-[POWER4]
-
-[PAST]
-"Yesterday" == "Thursday", "Thursday"
-"Today" == "Friday", "Friday" (Partyin')
-We-we are asserting 
-We so asserting
-We gonna have no bugs "Today"
-
-[FUTURE]
-"Today" + 1 == "Saturday"
-And "Sunday" comes after (prefix) ++
-I don't want a Week to have Week::end()
-
-[VERSE3]
-R-B, Richel Bilderbeek
-So pushing' in the front side (In the front side) 
-In the back side (In the back side) 
-I'm debuggin', tracin' (Yeah, yeah) 
-Fast lookup, switchin' terms 
-Wit' a profiler on my side (Woo!) 
-(C'mon) Passin' by is a call trace in front of me 
-Makes tick tock, tick tock, wanna see
-Check my std::time, it's "Friday", it's a "weekend"
-We are having fun, c'mon, c'mon, y'all 
-
-[FRIDAY]
-
-[POWER4]
-
-[FRIDAY]
-
-[POWER4]
-```

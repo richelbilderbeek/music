@@ -7,6 +7,8 @@
 Wenn Du Haettest Blaue Haare
 Written by Richel Bilderbeek
 
+F G A G (4x)
+
 Auch wenn du haettest blaue Haare
 wird das nicht bedeuten dass,
 dass ich mit dir paare
