@@ -1,8 +1,7 @@
 # Liefdeskapitein
 
 'Liefdeskapitein' is a song by Richel Bilderbeek
-written on January 15th 2014.
-It is a parody on 'Liefdeskapitein' by K3.
+written on January 15th 2014. It is a parody on 'Liefdeskapitein' by K3.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Liefdeskapitein' (recorded on the 27th of January of 2014)](http://www.richelbilderbeek.nl/CD07_Liefdeskapitein_1_20140127.ogg)
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Liefdeskapitein' (recorded on the 27th of January of 2014)](http://www.richelbilderbeek.nl/CD07_Liefdeskapitein_2_20140127.ogg)
@@ -11,6 +10,9 @@ It is a parody on 'Liefdeskapitein' by K3.
 Liefdeskapitein
 Lyrics by Richel Bilderbeek
 Melody from 'Liefdeskapitein' by K3
+
+Dm Gm C  F
+A  Dm A  Dm
 
 Ga je mee? We varen op de zee
 In een rubberbootje met z'n twee

@@ -71,3 +71,6 @@ But in that song, I uses a dramatic version of the Schnappi melody.
 But Schnappi should be fun! 
 
 Somehow, this song was born when practicing the fun version of Schnappi.
+
+Ironically, what happened in the end, that the *lyrics* became sad. 
+
