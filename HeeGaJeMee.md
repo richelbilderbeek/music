@@ -39,7 +39,7 @@ tot de vogelkes weer fluiten wordt het feest
 [CHORUS]
 Hee ga je mee
 dan gaan we verder lopen
-om nu al te gan slapen
+om nu al te gaan slapen
 is te gauw
 
 Hee ga je mee
@@ -52,7 +52,7 @@ Ik weet een plekje
 van een lichaamsdeel
 daar is nog niemand ooit geweest
 Ik kom erbij met iets uit mijn broek
-dus weer maar haastig met je handjes
+dus wees maar haastig met je handjes
 dan leer ik je iets dat je dacht dat je al wist
 
 [CHORUS]
@@ -67,7 +67,7 @@ ach, dan doe ik wel
 de boodschappen voor jou
 
 [VERSE]
-Je lacht heel lief en je streelt mijn haar
+Je lacht heel lief en je streelt je blonde haar
 en ja hoor, je ogen die zijn blauw
 meerdere malen kom je al gillend klaar
 maar nog geen klachten van de buren
@@ -81,14 +81,14 @@ dan leer je snel keiveel
 
 Hee doe je mee
 samen efkes wat leren
-een beest in bed
-en intellectueel
+ik ben een beest in bed
+maar ook een intellectueel
 
 [VERSE]
 Je bleek toen al aan mijn lichaam verslaafd
 de ontwenning zette in
 er kwam een ambulance opgedraaft
-die je brachten naar een kamer
+die je bracht naar een kamer
 met zachte muren en ik mocht je nooit meer zien
 
 [CHORUS]
