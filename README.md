@@ -35,7 +35,7 @@ a bad singer and mediocre piano player does not hold him back.
 47 | 2005-11-15 | [Mijn Date Van Vrijdagavond](MijnDateVanVrijdagavond.md)
 46 | 2005-10-22 | [Koud Bloed In Mijn Hart](KoudBloedInMijnHart.md)
 45 | 2005-10-15 | [Plank OpWieltjes](PlankOpWieltjes.md)
-44 | 2005-??-?? | [Life Is A .....](LifeIsABitch.md)
+44 | 2005-??-?? | [Life Is A .....](LifeIsAbitch.md)
 43 | 2005-??-?? | [Even If Your Hair Is Blue](EvenIfYourHairIsBlue.md)
 42 | 2005-07-07 | [To The Pub](ToThePub.md)
 41 | 2005-06-04 | [You And Me](YouAndMe.md)
