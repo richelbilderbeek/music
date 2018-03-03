@@ -40,6 +40,12 @@ neer gaan
 
 ## Background
 
+'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet' was the band 
+that consisted out of me and Geert van den Bogaart. I played 
+two flutes (at the same time) and played the piano 
+in [Ode Aan Masculiniteit](OdeAanMasculiniteit.md), where
+Geert did the piano in the other songs and did the vocals.
+
 This was the Quartet's first song. It came naturally, while all band members
 were practicing the flute and keyboard in the bike cellar of the Biological
 Centre in Haren.

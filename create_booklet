@@ -3,7 +3,7 @@
 mkdir booklet
 
 # Extract text (in code tags)
-for filename in `ls *.md | egrep -v "README\.md" | egrep -v "Quartet\.md" | egrep -v "TheFanstars\.md" | egrep -v "Discography\.md" | egrep -v "Abc\.md"` 
+for filename in `ls *.md | egrep -v "README\.md" | egrep -v "Abc\.md"` 
 do
   sed -n '/^```/,/^```/p' $filename > booklet/$filename
 done
