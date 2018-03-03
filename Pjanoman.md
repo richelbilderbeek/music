@@ -15,7 +15,7 @@ ook al heb je misschien nog geen zin
 
 T'is negen uur 's ochtends op een zaterdag
 de stemming zit er al goed in
-we lallel heel veel en hebben veel lol
+we lallen heel veel en hebben veel lol
 d'eerste zoent met een ander's vriendin
 
 T'is elluf uur elf op een zaterdag
