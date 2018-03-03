@@ -3,63 +3,88 @@
 ```
 Alle Kleuren
 
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+          Bb    F         Eb        C
 Van op de Himalaya tot in de woestijn
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+             Bb     F             C        F
 Ja, wij zijn zoveel mooier als we samen zijn
 
+F            Am           Bb                  C
 Reik je hand naar me uit, jouw ringtone is de mijne
+F          Am     Bb         C
 Ik laat je dromen van betere tijden
+F          Am           Bb            C
 Is je huid donkerder of bleker dan de zijne
+F         Am         Bb                  C
 Ik kan je helpen het verschil te doen verdwijnen
 
+Am                           Bb
 Niemand op straat spreekt je aan, ziet je staan
+Am                    Bb
 Want zo doen mensen elkaar niet zo'n pijn
+Am                Dm
 Het is veel beter dat wij voortaan
+   Eb                Dm     C
 Op Facebook zijn, op Tinder zijn
 
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+          Bb    F         Eb        C
 Van op de Himalaya tot in de woestijn
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+             Bb     F             C        F
 Ja, wij zijn zoveel mooier als we samen zijn
 
-Hand in hand! Oog in oog!
-Alle kleuren van de regenboog!
-
+F          Am      Bb  C
 De planeet waar je woont
+F       Am     Bb    C
 Als ze soms te grauw is
+F         Am       Bb              C
 Ik kan je beloven, dates te gaan beleven
-Waar het niks uit maakt of hij purper
-Groen of blauw is
+F             Am               Bb               C
+Waar het niks uit maakt of hij purper, groen of blauw is
+F             Am      Bb            C
 Want met mijn filters is het om het even
 
+Am                           Bb
 Niemand op straat spreekt je aan, ziet je staan
+Am                    Bb
 Want zo doen mensen elkaar niet zo'n pijn
+Am                Dm
 Het is veel beter dat wij voortaan
+   Eb                Dm     C
 Op Facebook zijn, op Tinder zijn
 
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+          Bb    F         Eb        C
 Van op de Himalaya tot in de woestijn
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+             Bb     F             C        F
 Ja, wij zijn zoveel mooier als we samen zijn
 
-Hand in hand! Oog in oog!
-Alle kleuren van de regenboog!
-
+Am                           Bb
 Als jij nu met mij in de hand gaat staan
+Am                    Bb
 Tinderen onder de zon, één voor één
+Am                Dm
 Dan is de hemel op aarde voortaan
+   Eb                Dm     C
 Van iedereen, van iedereen
 
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+          Bb    F         Eb        C
 Van op de Himalaya tot in de woestijn
+    F     Am       Dm    Am
 Van Afrika tot in Amerika
+             Bb     F             C        F
 Ja, wij zijn zoveel mooier als we samen zijn
-
-Hand in hand! Oog in oog!
-Alle kleuren van de regenboog!
-Hand in hand! Oog in oog!
-Alle kleuren van de regenboog!
 ```
 
 ## Background
