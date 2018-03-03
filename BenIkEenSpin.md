@@ -70,13 +70,13 @@ omdat jouw vader meer broedzorg geeft
 dan de mijne
 ben ik een spin
 ben ik een spin
-omdat jouw vader monogamer is
+omdat jouw moeder monogamer is
 dan de mijne
 
 In de berm
 van d'A2
 woonde die spin in een ANWB paal
-niemande wilde een holletje voor hem graven
+niemand wilde een holletje voor hem graven
 en graven kon hij zelf niet helemaal
 en voordat hij ging slapen huilde hij vaak alle acht z'n oogjes rood
 omdat hij hoopte op een weerzien met z'n pa
