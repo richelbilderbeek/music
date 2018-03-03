@@ -4,7 +4,7 @@
 Bilderbeek on April 3th 2002. It is a parody of 'Dikkertje Dap' by
 Annie M.G. Schmidt. 
 
- * [View the ABC notation file of 'Hendriklied 2' (abc)](Hendriklied2.abc)
+ * [View the ABC notation file of 'Hendriklied 2'](https://github.com/richelbilderbeek/abc/blob/master/Hendriklied2.abc)
 
 ```
 Hendriklied 2

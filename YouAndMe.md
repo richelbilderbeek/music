@@ -8,7 +8,7 @@ seperated before its first performance.
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.ogg)
  * [View the 'You And Me' sheet music (melody only)(png)](YouAndMe.png)
  * [View the 'You And Me' sheet music (melody only)(ps)](YouAndMe.ps)
- * [View the 'You And Me' ABC file (melody only)(abc)](YouAndMe.abc)
+ * [View the ABC notation file of 'You And Me'](https://github.com/richelbilderbeek/abc/blob/master/YouAndMe.abc)
  * [Download the MP3 of 'You And Me' (recorded somewhere around 2007)](http://www.richelbilderbeek.nl/CD06_18YouAndMe.mp3)
  * [Download the MP3 of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.mp3)
 

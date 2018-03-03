@@ -8,7 +8,7 @@ by Richel Bilderbeek on April 5th 2003.
  * [Listen to 'Al Heb Je Blauw Haar' (mid)](http://www.richelbilderbeek.nl/SongAlHebJeBlauwHaar.mid)
  * [View the sheet music of 'Al Heb Je Blauw Haar' (png)](AlHebJeBlauwHaar.png)
  * [View the sheet music of 'Al Heb Je Blauw Haar' (ps)](AlHebJeBlauwHaar.ps)
- * [View the ABC notation file of 'Al Heb Je Blauw Haar' (abc)](AlHebJeBlauwHaar.abc)
+ * [View the ABC notation file of 'Al Heb Je Blauw Haar'](https://github.com/richelbilderbeek/abc/blob/master/AlHebJeBlauwHaar.abc)
  * [Download the MP3 of 'Al Heb Je Blauw Haar' (recorded on the 2nd of September of 2006)(mp3)](http://www.richelbilderbeek.nl/CD06_14AlHebJeBlauwHaar20060902.mp3)
  * [Download the MP3 of 'Al Heb Je Blauw Haar' (recorded somewhere around 2004)(mp3)](http://www.richelbilderbeek.nl/CD03_01AlHebJeBlauwHaar.mp3)
 

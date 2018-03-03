@@ -10,7 +10,7 @@
  * [View the sheet music of 'Het Koffielied' (png)](HetKoffielied.png)
  * [View the sheet music of 'Het Koffielied' (ps)](HetKoffielied.ps)
  * [View the sheet music of 'Het Koffielied' (mus)](HetKoffielied.mus)
- * [View the ABC notation file of 'Het Koffielied' (abc)](HetKoffielied.abc)
+ * [View the ABC notation file of 'Het Koffielied'](https://github.com/richelbilderbeek/abc/blob/master/HetKoffielied.abc)
  * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD03_06HetKoffielied.mp3)
  * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_04HetKoffielied.mp3)
  * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2001 with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_03HetKoffielied.mp3)

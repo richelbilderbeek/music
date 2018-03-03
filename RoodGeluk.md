@@ -4,7 +4,7 @@
 Geert van den Bogaart, its music is composed by Richel Bilderbeek, both
 on the 20th of April 2002.
 
- * [View the ABC notation file of 'Rood Geluk' (abc)](RoodGeluk.abc)
+ * [View the ABC notation file of 'Rood Geluk'](https://github.com/richelbilderbeek/abc/blob/master/RoodGeluk.abc)
  * [View the sheet music of 'Rood Geluk' (png)](RoodGeluk.png)
  * [Download the sheet music of 'Rood Geluk' (ps)](RoodGeluk.ps)
 

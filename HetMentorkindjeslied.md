@@ -4,7 +4,7 @@
 written by me on the 14th September 2002.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het Mentorkindjeslied' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_09HetMentorkindjesLied.ogg)
- * [View the ABC notation file of 'Het Mentorkindjeslied' (abc)](HetMentorkindjeslied.abc)
+ * [View the ABC notation file of 'Het Mentorkindjeslied'](https://github.com/richelbilderbeek/abc/blob/master/HetMentorkindjeslied.abc)
  * [View the sheet music of 'Het Mentorkindjeslied' (ps)](HetMentorkindjeslied.ps)
  * [Download 'Het Mentorkindjeslied' (mp3) (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_09HetMentorkindjeslied.mp3)
 

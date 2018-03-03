@@ -10,7 +10,7 @@ September of 2000
  * [View the sheet music of 'Maanliedje' (png)](Maanliedje.png)
  * [View the sheet music of 'Maanliedje' (ps)](Maanliedje.ps)
  * [View the sheet music of 'Maanliedje' (mus)](Maanliedje.mus)
- * [View the ABC notation file of 'Maanliedje' (abc)](Maanliedje.abc)
+ * [View the ABC notation file of 'Maanliedje'](https://github.com/richelbilderbeek/abc/blob/master/Maanliedje.abc)
  * [Download the MP3 of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.mp3)
  * [Download the MP3 of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.mp3)
 
