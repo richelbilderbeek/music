@@ -62,7 +62,7 @@ had ik een vriend die heette Anne
 
 Nou zul je denken dat is zeker een grapje
 maar dat is niet zo
-want hij komt gewoon uit Frieland
+want hij komt gewoon uit Friesland
 
 En als wij met z'n tweeen
 zijn wezen stappen
