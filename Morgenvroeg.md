@@ -22,7 +22,7 @@ ben ik pas weer morgenvroeg
 Op een been kun je niet staan
 wordt altijd tegen mij gezegd
 maar voor ik het weet kom ik
-in een exponenti le curv' terecht
+in een exponentiele curv' terecht
  
 Van biertjes ga je praten
 en van praten krijg je dorst
@@ -37,7 +37,7 @@ en dat altijd nagedaan
  
 Ik ben jaloers op zwangere vrouwen
 want die krijgen altijd fris
-terwijl juist m jn image
+terwijl juist mijn image
 die van een echte zuiper is
  
 Ik zit
