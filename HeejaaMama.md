@@ -1,16 +1,15 @@
 # Heejaa Mama
 
-'Heejaa Mama' was written by me on the 30th October
-2009. The person that did the tabbing for me chooses to remain
-anonymous.
+'Heejaa Mama' was written on October 30th 2009 by Richel Bilderbeek.
+It is a parody on 'Heyah Mama' from K3.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.ogg)
  * [Download the MP3 of 'Heejaa Mama' (recorded on 2010-12-11)](http://www.richelbilderbeek.nl/CD07_HeejaaMama20101211.mp3)
 
 ```
 Heejaa Mama
-Written by Richel Bilderbeek
-On the 30th of October 2009
+Text by Richel Bilderbeek
+Melody from Heyah Mama by K3
 
 heejoo
 heejaa mama niejeehoo
@@ -43,17 +42,6 @@ ze laat mij voor een biertje
 in haar kamer komen
 voor het realizeren van haar heetste dromen
 
-maar ik merk heel zachtjes
-tussendoor haar ondeug'nde lachjes
-heel zachtjes
-er zal wel niks van komen
-'t enige wat nog uit mijn mond doet komen is:
-
-heejoo
-heejaa mama niejeehoo
-heejaa mama niejeehoo
-heehee heeheehee
-
 teleurstellingsgolf in haar hart
 ik heb vanavond
 iets teveel bier genomen
@@ -69,11 +57,6 @@ maar niet te onverstaanbaar zachtjes
 heel zachtjes
 wat ik net nog kon articuleren
 voordat ik naar huis deed wederkeren
-
-heejoo
-heejaa mama niejeehoo
-heejaa mama niejeehoo
-heehee heeheehee
 
 heejoo
 heejaa mama niejeehoo
