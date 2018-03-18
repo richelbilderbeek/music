@@ -12,7 +12,9 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/music.svg?branch=
 
 Richel Bilderbeek enjoys making music with fun lyrics 
 and a bad joke in the end. That he considers himself 
-a bad singer and mediocre piano player does not hold him back.
+a bad singer and mediocre piano player does not hold him back
+in giving [performances](https://github.com/richelbilderbeek/performances) 
+regularily.
 
 #|Date|Name
 ---|---|---
