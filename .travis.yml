@@ -1,6 +1,8 @@
+dist: xenial
+
 install:
   # Check dead links
-  - sudo apt-get install npm
+  - sudo apt-get install -qq npm
   - sudo npm install -g markdown-link-check
   # LaTex, pandoc
   #- sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended epubcheck
