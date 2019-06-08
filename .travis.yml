@@ -3,6 +3,7 @@ dist: xenial
 install:
   # Check dead links
   - sudo apt-get install -qq npm
+  - npm config set strict-ssl false
   - sudo npm install -g markdown-link-check
   # LaTex, pandoc
   #- sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended epubcheck
