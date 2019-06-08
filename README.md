@@ -120,9 +120,11 @@ Geert did the piano in the other songs and did the vocals.
 
 ## My favorite online radio's
 
- * [playingtheclassics.com](http://playingtheclassics.com): 8 and 16 bit console games
  * [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
  * [kohina.com](http://www.kohina.com/): retro game music
+ * [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
+ * [rpgamers.net](http://www.rpgamers.net/radio): retro game music
+ * [ponyvillelive.com](https://ponyvillelive.com): MLP radio stations
 
 ## My favorite Jamendo artists
 
@@ -136,3 +138,4 @@ Geert did the piano in the other songs and did the vocals.
  * [my Jamendo artist page](http://www.jamendo.com/en/artist/Richel_Bilderbeek)
  * [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
  * [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
+
