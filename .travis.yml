@@ -1,18 +1,20 @@
 dist: bionic
 
 install:
+  - echo "Nothing"
   # Check dead links
-  - sudo apt-get install -qq npm
-  - npm config set strict-ssl false
-  - sudo npm install -g markdown-link-check
+  #- sudo apt-get install -qq npm
+  #- npm config set strict-ssl false
+  #- sudo npm install -g markdown-link-check
   # LaTex, pandoc
   #- sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended epubcheck
   
 
 script:
+  - echo "Nothing"
   # Check dead links
-  - rm .travis.yml
-  - ./scripts/check_dead_links
+  #- rm .travis.yml
+  #- ./scripts/check_dead_links
   # tex4ebook prerequisite packages
   #- sudo apt-get install -qq luatex texlive-base texlive-luatex pandoc latexmk texlive texlive-xetex tex4ht texlive-latex-extra tidy
   # tex4ebook prerequisite: make4ht
