@@ -2,7 +2,6 @@
 
  * Niederländersom
 
-
 Det fanns en dag,
 jag vaknade upp att grasmätta.
 Jag var jävligtbakis,
@@ -21,15 +20,12 @@ var det en återvändsgränden
 En polare trådrunga mig 
 han är från Rinkeby
 en stort rapper också
-och en asarbetsbi
+och en arbetsbi
 
 Han vill kommer till mig
 och åcker till huvudstad mina länden
 Jag ska bli sin 
 Niederländska värdnämnden
-
-
-
 
 Jag tar min hoj
 körsade att makadam
