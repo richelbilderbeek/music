@@ -2,6 +2,7 @@
 
  * Parody on 'Viking' by Ted Gärdestad
 
+```
 TG: Jag har tänkt lite grann på vad som kunde hända mig idag
 EN: I have thought a little what could have happened with me in the past
 RB: Jag är från Nederländarna men jag är inte född i Den Haag
@@ -124,4 +125,4 @@ TG: För jag sitter fast i min verklighet därför sjunger jag en sång
 EN: Because I am stuck in my reality, so therefore I sing a song
 RB: Nu är jag alltid lite som en dino och du är min fång
 EN: Now I still a lite like a dinosaur and you are my prey
-
+```
