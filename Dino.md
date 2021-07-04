@@ -15,17 +15,17 @@ EN: And in most of my previous lives I was something very graceful
 
 TG: Skulle jag va' dräng eller biskop eller smed till Sleipners åtta skor
 EN: Would I have been a servant or bishop or a blacksmith for Sleipners [Odin's horse with 8 legs] eight shoes,
-RB: men nästa min liv som bakteriofag finns det en med måsta glamour
+RB: men i mangå tuffta liva är det en med måsta glamour
 EN: But next to my live as a bacteriofage, there is one with the most glamour
 
 TG: Som jag hade smitt med en hammare som jag fått av gamle Tor
 EN: which I have would have forged with a hammer I'd have gotten from Thor
-RB: som jag hade en stora svans som jag kliade med min klor
+RB: som jag hade en stor svans som jag kliade med mina klor
 EN: in which I had a big tail that I scratched with my claws
 
 TG: Jag har jämt gillat spänning och att leva lite vind för våg
 EN: I have always liked excitement and living a guided by the winds
-RB: jag har jämmt gillat kraftfulla saker och kommer på arkeologs håg
+RB: jag har jämmt versöker kommer på arkeologs håg
 EN: I have always liked tought things and to get on the mind of archeologists
 
 TG: Så jag följde säkert med en båt när vi drog ut på ett vikingatåg
@@ -35,7 +35,7 @@ EN: So I would have surely followed my instinct at dodging arrow and bow
 
 TG: För om jag va stark som en viking när vi gick i land i Aberdeen
 EN: Because I would be strong like a viking when we'd go in the land of Aberdeen
-RB: för att tack sig mig är människor unbekännt i pleistocen
+RB: för tack mig människor är unbekännt i pleistocen
 EN: because thanks to me humankind is unknown in the Pleistocene
 
 TG: Fick jag plocka hem några Skotska får och några tunnor hembränt vin
@@ -86,7 +86,7 @@ EN: Would I always be frightening
 
 TG: Jag har sett att en runsten visar prov på livlig fantasi
 EN: I would gave worked on a runestone to show proof of my lively fantasy
-RB: Jag har skrapa mycket runsten för at strukturiera min grubbleri
+RB: Jag har skrapa runsten för at strukturiera min grubbleri
 EN: I have scratched multiple runestones to structure my ponderings
 
 TG: Men man hade säkert andra krav på den gamla tidens stenografi
@@ -101,7 +101,7 @@ EN: My brain was seven cubic meters and I was intelligent and prima
 
 TG: Var jag säkert stor och världsberömd för dig som läste Havamal
 EN: I was certainly big and world-famous to you would you read the Havamal [a famous poem]
-RB: Och eftersom var min storsta problemen helt dental
+RB: Dessutom var min storsta problemen helt dental
 EN: And due to this, my biggest problems were all related to my teeth
 
 [CHORUS]
