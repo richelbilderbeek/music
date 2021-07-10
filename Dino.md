@@ -2,87 +2,57 @@
 
  * Parody on 'Viking' by Ted Gärdestad
 
-Swedish                                                       |English
---------------------------------------------------------------|--------------------------------------------------------------------
-Jag är från Nederländarna men jag är inte född i Den Haag     |I am from the Netherlands, but I am not born in Den Haag
-Och i måsta mina föregaende liv var jag nån från mycket behag |And in most of my previous lives I was something very graceful
-Men i mangå tuffta liva är det en med måsta glamour           |But in most of my lives, there is one with the most glamour
-som jag hade en stor svans som jag kliade med mina klor       |in which I had a big tail that I scratched with my claws
-.                                                             |.
-Jag har jämmt versöker kommer på arkeologs håg                |I have always liked tought things and to get on the mind of archeologists
-så jag följde säkert min instinkt at unvika pil och båg(e)    |So I would have surely followed my instinct at dodging arrow and bow
-för tack mig människor är unbekännt i pleistocen              |because thanks to me humankind is unknown in the Pleistocene
-för att fula människor förstörte min skönen utomhusscen       |because those ugly humans ruined my beautiful outdoor scene
-.                                                             |.
-[KÖR]                                                         |[CHORUS]
-.                                                             |.
-Om jag var en dino                                            |Would I be a dinosaur
-Åt jag foräldrar Röde Orm                                     |I would have eat the ancestors of Red Orm
-Om jag var en dino                                            |Would I be a dinosaur
-Sprang jag efter männen                                       |Would I run after the men
-Om jag var en dino                                            |Would I be a dinosaur
-Hade jag en horn med hjälm                                    |Would I have a horn with a helmet on it
-Om jag var en dino                                            |Would I be a dinosaur
-RB: Skulle jag alltid skrämma                                 |Would I always be frightening
-
-TG: Jag har sett att en runsten visar prov på livlig fantasi
-EN: I would gave worked on a runestone to show proof of my lively fantasy
-RB: Jag har skrapa runsten för at strukturiera min grubbleri
-EN: I have scratched multiple runestones to structure my ponderings
-
-TG: Men man hade säkert andra krav på den gamla tidens stenografi
-EN: But there were certainly other requirements for the shorthand of the old days 
-RB: För att jag gjörde smarta planer för mina nästa slakteri
-EN: Because I made many smart plans for my next slaughterings
-
-TG: Och om jag var långsam på foten när jag dansade i Freja sal
-EN: And I would be slow on my feet when I danced in Freja's hal
-RB: Min hjärnor var sju kubikmeter och jag var intelligent och primal
-EN: My brain was seven cubic meters and I was intelligent and prima
-
-TG: Var jag säkert stor och världsberömd för dig som läste Havamal
-EN: I was certainly big and world-famous to you would you read the Havamal [a famous poem]
-RB: Dessutom var min storsta problemen helt dental
-EN: And due to this, my biggest problems were all related to my teeth
-
-[CHORUS]
-
-TG: Det är klart att min undran inte är något fall för Scotland Yard
-EN: It is clear that my wonder is not a case for Scotland Yard 
-RB: Det är klar jag åt många människor, kanske lite mer som en miljard
-EN: It is clear that I ate many humans, maybe a little more than a billion
-
-TG: Och ta reda på vad som kunde hänt lika mycket mer spel och hasard
-EN: And find out what could have happened just as much more guessing and guessing 
-RB: men jag åt också benen en nu är skuld att gepard
-EN: But I also ate the bones, so now the leopard is blamed
-
-TG: Kanske det är dumt spekulera över vad som kunde hänt en gång
-EN: Maybe it is stupid to speculate about what could have happened
-RB: Det var länge sedan en i dit liv sjunger jag en sång
-EB: That was long ago and in this life I sing a song
-
-TG: För jag sitter fast i min verklighet därför sjunger jag en sång
-EN: Because I am stuck in my reality, so therefore I sing a song
-RB: Nu är jag alltid lite som en dino och du är min fång
-EN: Now I still a lite like a dinosaur and you are my prey
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Swedish                                                           |English
+------------------------------------------------------------------|--------------------------------------------------------------------
+[VERS 1]                                                          |[VERSE 1]
+.                                                                 |.
+Jag är från Nederländarna men jag är inte född i Den Haag         |I am from the Netherlands, but I am not born in Den Haag
+Och i måsta mina föregaende liv var jag nån från mycket behag     |And in most of my previous lives I was something very graceful
+Men i mangå tuffta liva är det en med måsta glamour               |But in most of my lives, there is one with the most glamour
+som jag hade en stor svans som jag kliade med mina klor           |in which I had a big tail that I scratched with my claws
+.                                                                 |.
+[VERS 2]                                                          |[VERSE 2]
+.                                                                 |.
+Jag har jämmt versöker kommer på arkeologs håg                    |I have always liked tought things and to get on the mind of archeologists
+så jag följde säkert min instinkt at unvika pil och båg(e)        |So I would have surely followed my instinct at dodging arrow and bow
+för tack mig människor är unbekännt i pleistocen                  |because thanks to me humankind is unknown in the Pleistocene
+för att fula människor förstörte min skönen utomhusscen           |because those ugly humans ruined my beautiful outdoor scene
+.                                                                 |.
+[KÖR]                                                             |[CHORUS]
+.                                                                 |.
+Om jag var en dino                                                |Would I be a dinosaur
+Åt jag foräldrar Röde Orm                                         |I would have eat the ancestors of Red Orm
+Om jag var en dino                                                |Would I be a dinosaur
+Sprang jag efter männen                                           |Would I run after the men
+Om jag var en dino                                                |Would I be a dinosaur
+Hade jag en horn med hjälm                                        |Would I have a horn with a helmet on it
+Om jag var en dino                                                |Would I be a dinosaur
+Skulle jag alltid skrämma                                         |Would I always be frightening
+.                                                                 |.
+[VERS 3]                                                          |[VERSE 3]
+.                                                                 |.
+Jag har skrapa runsten för at strukturiera min grubbleri          |I have scratched multiple runestones to structure my ponderings
+För att jag gjörde smarta planer för mina nästa slakteri          |Because I made many smart plans for my next slaughterings
+Min hjärnor var sju kubikmeter och jag var intelligent och primal |My brain was seven cubic meters and I was intelligent and prima
+Dessutom var min storsta problemen helt dental                    |And due to this, my biggest problems were all related to my teeth
+.                                                                 |.
+[KÖR]                                                             |[CHORUS]
+.                                                                 |.
+Om jag var en dino                                                |Would I be a dinosaur
+Åt jag foräldrar Röde Orm                                         |I would have eat the ancestors of Red Orm
+Om jag var en dino                                                |Would I be a dinosaur
+Sprang jag efter männen                                           |Would I run after the men
+Om jag var en dino                                                |Would I be a dinosaur
+Hade jag en horn med hjälm                                        |Would I have a horn with a helmet on it
+Om jag var en dino                                                |Would I be a dinosaur
+Skulle jag alltid skrämma                                         |Would I always be frightening
+.                                                                 |.
+[VERS 4]                                                          |[VERSE 4]
+.                                                                 |.
+Det är klar jag åt många människor, kanske lite mer som en miljard|It is clear that I ate many humans, maybe a little more than a billion
+men jag åt också benen en nu är skuld att gepard                  |But I also ate the bones, so now the leopard is blamed
+Det var länge sedan en i dit liv sjunger jag en sång              |That was long ago and in this life I sing a song
+Nu är jag alltid lite som en dino och du är min fång              |Now I still a lite like a dinosaur and you are my prey
 
 ```
 TG: Jag har tänkt lite grann på vad som kunde hända mig idag
