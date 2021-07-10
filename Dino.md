@@ -2,10 +2,10 @@
 
  * Parody on 'Viking' by Ted Gärdestad
 
-Dino                                                      |Viking
-----------------------------------------------------------|--------------------------------------------------------------------
-Jag är från Nederländarna men jag är inte född i Den Haag |Jag har tänkt lite grann på vad som kunde hända mig idag
- I am from the Netherlands, but I am not born in Den Haag |I have thought a little what could have happened with me in the past
+Swedish                                                       |English
+--------------------------------------------------------------|--------------------------------------------------------------------
+Jag är från Nederländarna men jag är inte född i Den Haag     |I am from the Netherlands, but I am not born in Den Haag
+Och i måsta mina föregaende liv var jag nån från mycket behag |And in most of my previous lives I was something very graceful
 
 
 ```
