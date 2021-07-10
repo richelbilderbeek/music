@@ -16,47 +16,14 @@ för att fula människor förstörte min skönen utomhusscen       |because thos
 .                                                             |.
 [KÖR]                                                         |[CHORUS]
 .                                                             |.
-
-[CHORUS]
-TG: Om jag var en viking
-EN: Would I be a viking
-RB: Om jag var en dino
-EN: Would I be a dinosaur
-
-TG: Levde jag som Röde Orm
-EN: I would live like Red Orm
-RB: Åt jag foräldrar Röde Orm
-EN: I would have eat the ancestors of Red Orm
-
-TG: Om jag var en viking
-EN: Would I be a viking
-RB: Om jag var en dino
-EN: Would I be a dinosaur
-
-TG: Var jag aldrig hemma
-EN: Would I never be would
-RB: Sprang jag efter männen
-EN: Would I run after the men
-
-TG: Om jag var en viking
-EN: Would I be a viking
-RB: Om jag var en dino
-EN: Would I be a dinosaur
-
-TG: Hade jag en hjälm med horn
-EN: Would I have a helmet with horns
-RB: Hade jag en horn med hjälm
-EN: Would I have a horn with a helmet on it
-
-TG: Om jag var en viking
-EN: Would I be a viking
-RB: Om jag var en dino
-EN: Would I be a dinosaur
-
-TG: Kunde jag bestämma
-EN: I could decide
-RB: Skulle jag alltid skrämma
-EN: Would I always be frightening
+Om jag var en dino                                            |Would I be a dinosaur
+Åt jag foräldrar Röde Orm                                     |I would have eat the ancestors of Red Orm
+Om jag var en dino                                            |Would I be a dinosaur
+Sprang jag efter männen                                       |Would I run after the men
+Om jag var en dino                                            |Would I be a dinosaur
+Hade jag en horn med hjälm                                    |Would I have a horn with a helmet on it
+Om jag var en dino                                            |Would I be a dinosaur
+RB: Skulle jag alltid skrämma                                 |Would I always be frightening
 
 TG: Jag har sett att en runsten visar prov på livlig fantasi
 EN: I would gave worked on a runestone to show proof of my lively fantasy
