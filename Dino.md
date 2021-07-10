@@ -49,8 +49,8 @@ Skulle jag alltid skrämma                                         |Would I alwa
 .                                                                 |.
 [VERS 4]                                                          |[VERSE 4]
 .                                                                 |.
-Det är klar jag åt många människor, kanske lite mer som en miljard|It is clear that I ate many humans, maybe a little more than a billion
-men jag åt också benen en nu är skuld att gepard                  |But I also ate the bones, so now the leopard is blamed
+Det är klar jag åt många, kanske lite än en miljard               |It is clear that I ate many humans, maybe a little more than a billion
+Och för att jag åt också benen, så nu klandras leopard            |But I also ate the bones, so now the leopard is blamed
 Det var länge sedan en i dit liv sjunger jag en sång              |That was long ago and in this life I sing a song
 Nu är jag alltid lite som en dino och du är min fång              |Now I still a lite like a dinosaur and you are my prey
 
