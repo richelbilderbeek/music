@@ -6,6 +6,115 @@ Swedish                                                       |English
 --------------------------------------------------------------|--------------------------------------------------------------------
 Jag är från Nederländarna men jag är inte född i Den Haag     |I am from the Netherlands, but I am not born in Den Haag
 Och i måsta mina föregaende liv var jag nån från mycket behag |And in most of my previous lives I was something very graceful
+Men i mangå tuffta liva är det en med måsta glamour           |But in most of my lives, there is one with the most glamour
+som jag hade en stor svans som jag kliade med mina klor       |in which I had a big tail that I scratched with my claws
+.                                                             |.
+Jag har jämmt versöker kommer på arkeologs håg                |I have always liked tought things and to get on the mind of archeologists
+så jag följde säkert min instinkt at unvika pil och båg(e)    |So I would have surely followed my instinct at dodging arrow and bow
+för tack mig människor är unbekännt i pleistocen              |because thanks to me humankind is unknown in the Pleistocene
+för att fula människor förstörte min skönen utomhusscen       |because those ugly humans ruined my beautiful outdoor scene
+.                                                             |.
+[KÖR]                                                         |[CHORUS]
+.                                                             |.
+
+[CHORUS]
+TG: Om jag var en viking
+EN: Would I be a viking
+RB: Om jag var en dino
+EN: Would I be a dinosaur
+
+TG: Levde jag som Röde Orm
+EN: I would live like Red Orm
+RB: Åt jag foräldrar Röde Orm
+EN: I would have eat the ancestors of Red Orm
+
+TG: Om jag var en viking
+EN: Would I be a viking
+RB: Om jag var en dino
+EN: Would I be a dinosaur
+
+TG: Var jag aldrig hemma
+EN: Would I never be would
+RB: Sprang jag efter männen
+EN: Would I run after the men
+
+TG: Om jag var en viking
+EN: Would I be a viking
+RB: Om jag var en dino
+EN: Would I be a dinosaur
+
+TG: Hade jag en hjälm med horn
+EN: Would I have a helmet with horns
+RB: Hade jag en horn med hjälm
+EN: Would I have a horn with a helmet on it
+
+TG: Om jag var en viking
+EN: Would I be a viking
+RB: Om jag var en dino
+EN: Would I be a dinosaur
+
+TG: Kunde jag bestämma
+EN: I could decide
+RB: Skulle jag alltid skrämma
+EN: Would I always be frightening
+
+TG: Jag har sett att en runsten visar prov på livlig fantasi
+EN: I would gave worked on a runestone to show proof of my lively fantasy
+RB: Jag har skrapa runsten för at strukturiera min grubbleri
+EN: I have scratched multiple runestones to structure my ponderings
+
+TG: Men man hade säkert andra krav på den gamla tidens stenografi
+EN: But there were certainly other requirements for the shorthand of the old days 
+RB: För att jag gjörde smarta planer för mina nästa slakteri
+EN: Because I made many smart plans for my next slaughterings
+
+TG: Och om jag var långsam på foten när jag dansade i Freja sal
+EN: And I would be slow on my feet when I danced in Freja's hal
+RB: Min hjärnor var sju kubikmeter och jag var intelligent och primal
+EN: My brain was seven cubic meters and I was intelligent and prima
+
+TG: Var jag säkert stor och världsberömd för dig som läste Havamal
+EN: I was certainly big and world-famous to you would you read the Havamal [a famous poem]
+RB: Dessutom var min storsta problemen helt dental
+EN: And due to this, my biggest problems were all related to my teeth
+
+[CHORUS]
+
+TG: Det är klart att min undran inte är något fall för Scotland Yard
+EN: It is clear that my wonder is not a case for Scotland Yard 
+RB: Det är klar jag åt många människor, kanske lite mer som en miljard
+EN: It is clear that I ate many humans, maybe a little more than a billion
+
+TG: Och ta reda på vad som kunde hänt lika mycket mer spel och hasard
+EN: And find out what could have happened just as much more guessing and guessing 
+RB: men jag åt också benen en nu är skuld att gepard
+EN: But I also ate the bones, so now the leopard is blamed
+
+TG: Kanske det är dumt spekulera över vad som kunde hänt en gång
+EN: Maybe it is stupid to speculate about what could have happened
+RB: Det var länge sedan en i dit liv sjunger jag en sång
+EB: That was long ago and in this life I sing a song
+
+TG: För jag sitter fast i min verklighet därför sjunger jag en sång
+EN: Because I am stuck in my reality, so therefore I sing a song
+RB: Nu är jag alltid lite som en dino och du är min fång
+EN: Now I still a lite like a dinosaur and you are my prey
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
