@@ -2,6 +2,12 @@
 
  * Parody on 'Viking' by Ted Gärdestad
 
+Dino                                                      |Viking
+----------------------------------------------------------|--------------------------------------------------------------------
+Jag är från Nederländarna men jag är inte född i Den Haag |Jag har tänkt lite grann på vad som kunde hända mig idag
+ I am from the Netherlands, but I am not born in Den Haag |I have thought a little what could have happened with me in the past
+
+
 ```
 TG: Jag har tänkt lite grann på vad som kunde hända mig idag
 EN: I have thought a little what could have happened with me in the past
