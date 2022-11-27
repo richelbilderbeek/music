@@ -1,6 +1,5 @@
 # music
 
-
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.com)
 ---|---
 master|[![Build Status](https://travis-ci.com/richelbilderbeek/music.svg?branch=master)](https://travis-ci.com/richelbilderbeek/music)
@@ -17,8 +16,8 @@ a bad singer and mediocre piano player does not hold him back
 in giving [performances](https://github.com/richelbilderbeek/performances) 
 regularily.
 
-#|Date|Name
----|---|---
+#  |Date        |Name
+---|------------|-------------------------------------------
 64 | 2018-03-03 | [16777216 Kleuren](16777216Kleuren.md)
 63 | 2018-02-07 | [Monsieur Pannetier](MonsieurPannetier.md)
 62 | 2015-02-15 | [Pjanoman](Pjanoman.md)
