@@ -1,11 +1,14 @@
 # Dumare
 
-Parody on the song 'Dum' from Ant Wan
+ * Song title: 'Dumare'
+ * Artist name: Tom Ten
+
+Parody on the song 'Dum' from Ant Wan.
 
 Original                                       |Parody
 -----------------------------------------------|----------------------------------
 Hon säger, "Förklara dig                       |Jag tänker förklara mig
-Kan du ba svara mig?                           |Kanske tror du inte åt mig
+Kan du ba svara mig?                           |För att du du tror inte åt mig
 Varför valde du skada mig?                     |Varför valde du ignorera mig
 Jag hatar dig                                  |Du misbetedde dig
 Har du svårt att se bara mig?                  |Har du svärt att nöjda mig
