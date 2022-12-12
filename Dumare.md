@@ -3,6 +3,9 @@
  * Song title: 'Dumare'
  * Artist name: Tom Ten
 
+Dm, Eb, F, Gm
+
+
 Parody on the song 'Dum' from Ant Wan.
 
 Original                                       |Parody
