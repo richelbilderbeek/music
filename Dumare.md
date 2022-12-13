@@ -3,9 +3,6 @@
  * Song title: 'Dumare'
  * Artist name: Tom Ten
 
-Dm, Eb, F, Gm
-
-
 Parody on the song 'Dum' from Ant Wan.
 
 Original                                       |Parody
@@ -58,3 +55,30 @@ Han låter folk komma, jag åker dit de bor, yeah|Dom låter dig komma, jag tyck
 .                                              |
 (Yeah-yeah, yeah-yeah)                         |
 (Yeah-yeah, yeah-yeah)                         |
+
+## Backstory
+
+When trying to improve my Swedish, I listen to the Swedish radio
+station SVT P3. The song 'Dum' by Ant Wan, at that moment, 
+was played often. Too often to my taste. I -a novice in Swedish!- felt 
+the rhyme was noticably simple. Together with the clear use of an autotune
+and a -in my opinion- stock-standard general beat and piano music,
+made me develop annoyance for the song. I called it an 'obvious lack of talent',
+although I could also phrase it as 'raw' or 'pure' or 'urban' 
+and I am aware I cannot estimate the talent of Ant Wan at all: 
+he may be a great artist; I am just -with my mediocricy in Swedish- 
+unable to feel his songs.
+
+In both The Netherlands and in Sweden it is a tradition
+to write poems for Christmas that rhyme clumsily. Just in the way 'Dum' 
+does, with 'mig'/'dig', 'mad'/'bad','här'/'skäl'. From that, the idea
+to use Christmas as a context originated, with the same clumsy rhyme. 
+As I am only mediocre in Swedish, this means the lyrics will be
+good enough for the low standard chosen. From the original lyrics,
+the Swedish Santa Clause ('tomtenfar' or just 'tomten') arose.
+
+## To add
+
+ * [ ] The animal ('bocken') tomten uses to ride on
+ * [ ] Better separation between tomtenmor/tomtenfar/tomtenisse
+ * [ ] Porridge
