@@ -2,6 +2,7 @@
 
  * Song title: 'Dumare'
  * Artist name: Tom Ten
+ * Sheet music by [Theddy Keys](https://www.fiverr.com/theddykeys)
 
 Parody on the song 'Dum' from Ant Wan.
 
@@ -62,12 +63,13 @@ When trying to improve my Swedish, I listen to the Swedish radio
 station SVT P3. The song 'Dum' by Ant Wan, at that moment, 
 was played often. Too often to my taste. I -a novice in Swedish!- felt 
 the rhyme was noticably simple. Together with the clear use of an autotune
-and a -in my opinion- stock-standard general beat and piano music,
-made me develop annoyance for the song. I called it an 'obvious lack of talent',
+and a -in my opinion- stock-standard beat and piano music,
+made me develop annoyance for the song. 
+I phrased it as 'an obvious lack of talent',
 although I could also phrase it as 'raw' or 'pure' or 'urban' 
 and I am aware I cannot estimate the talent of Ant Wan at all: 
 he may be a great artist; I am just -with my mediocricy in Swedish- 
-unable to feel his songs.
+unable to connect with his song in the way he probably hopes.
 
 In both The Netherlands and in Sweden it is a tradition
 to write poems for Christmas that rhyme clumsily. Just in the way 'Dum' 
