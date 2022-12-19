@@ -1,7 +1,7 @@
-# Dumare
+# Ljum
 
- * Song title: 'Dumare'
- * Artist name: Tom Ten
+ * Song title: 'Ljum'
+ * Artist name: Tom10
  * Sheet music by [Theddy Keys](https://www.fiverr.com/theddykeys)
 
 Parody on the song 'Dum' from Ant Wan.
@@ -22,7 +22,7 @@ Hitta nån som får dig le                       |Hitta nån som till mig le
 Nån du tycker är finare                        |Nån som tycker är sötare
 Ah                                             |Ah
 .                                              |
-Men du gör mig dum, du gör mig mad             |Men du gör Tomten dum, du gör mig mad
+Men du gör mig dum, du gör mig mad             |Men du gör Tomten ljum, du gör mig mad
 I mitt rum, jag vill ha dig här                |Att köpa ingen julklapp, du är bad
 Tömma mitt mag för din pum-pum är bad          |Jag sitter på Julmarknad på en stol
 Men om du ska bli kär igen, don't come back    |Med mina nissar, du var en fool
@@ -45,7 +45,7 @@ Hitta nån som får dig le                       |Hitta nån som till mig le
 Nån du tycker är finare                        |Nån som tycker är sötare
 Ah                                             |Ah
 .                                              |
-Men du gör mig dum, du gör mig mad             |Men du gör Tomten dum, du gör mig mad
+Men du gör mig dum, du gör mig mad             |Men du gör Tomten ljum, du gör mig mad
 I mitt rum, jag vill ha dig här                |Att köpa ingen julklapp, du är bad
 Tömma mitt mag för din pum-pum är bad          |Jag sitter på Julmarknad på en stol
 Men om du ska bli kär igen, don't come back    |Med mina nissar, du var en fool

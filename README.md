@@ -1,9 +1,5 @@
 # music
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.com)
----|---
-master|[![Build Status](https://travis-ci.com/richelbilderbeek/music.svg?branch=master)](https://travis-ci.com/richelbilderbeek/music)
-
 > All music on this website is encouraged 
 > to be downloaded and copied in their original form.
 > It is not allowed to modify any of these files, except
@@ -87,7 +83,7 @@ regularily.
 
 #  |Date        |Name
 ---|------------|-------------------------------------------
-.  | 2022-12-12 | [Dumare](Dumare.md)
+.  | 2022-12-12 | [Ljum](Ljum.md)
 
 ## CDs
 
