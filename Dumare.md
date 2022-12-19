@@ -9,12 +9,12 @@ Parody on the song 'Dum' from Ant Wan.
 Original                                       |Parody
 -----------------------------------------------|----------------------------------
 Hon säger, "Förklara dig                       |Jag tänker förklara mig
-Kan du ba svara mig?                           |För att du du tror inte åt mig
+Kan du ba svara mig?                           |För att du tror inte åt mig
 Varför valde du skada mig?                     |Varför valde du ignorera mig
 Jag hatar dig                                  |Du misbetedde dig
 Har du svårt att se bara mig?                  |Har du svärt att nöjda mig
 Kan du försvara dig?"                          |Kann du berätta mig
-Habibti, du klarar dig                         |Mitt småbarn, du klarar dig
+Habibti, du klarar dig                         |Tifli alsaghir, du klarar dig
 Du behöver inte sakna mig                      |Du behöver bara tro åt mig
 .                                              |
 Det är kanske dags att gå vidare               |Det är kanske dags att gå vidare
@@ -28,8 +28,8 @@ Tömma mitt mag för din pum-pum är bad          |Jag sitter på Julmarknad på
 Men om du ska bli kär igen, don't come back    |Med mina nissar, du var en fool
 Han ger dig kärlek, jag ger dig klockor        |Du vil har pengar, men inte prata med mig
 Han ger dig blommor, nallar och dockor         |Du vil har klockar, men inte sitta på mitt knä
-Jag ger dig bilar för mer än sex nollor        |Du har redan bilar fyllt med mer än sex fjollor
-Han låter folk komma, jag åker dit de bor, yeah|Dom låter dig komma, jag tycker bättre om våfflor
+Jag ger dig bilar för mer än sex nollor        |Du har redan bilar, men ingen bokhyllor
+Han låter folk komma, jag åker dit de bor, yeah|Och för min superiörbock har du ingen känslor
 .                                              |
 Vad gör du här                                 |Vad gör du här
 Med en tom själ?                               |Utan en julfestssjäl?
@@ -78,9 +78,3 @@ to use Christmas as a context originated, with the same clumsy rhyme.
 As I am only mediocre in Swedish, this means the lyrics will be
 good enough for the low standard chosen. From the original lyrics,
 the Swedish Santa Clause ('tomtenfar' or just 'tomten') arose.
-
-## To add
-
- * [ ] The animal ('bocken') tomten uses to ride on
- * [ ] Better separation between tomtenmor/tomtenfar/tomtenisse
- * [ ] Porridge
