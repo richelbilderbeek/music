@@ -66,10 +66,15 @@ the rhyme was noticably simple. Together with the clear use of an autotune
 and a -in my opinion- stock-standard beat and piano music,
 made me develop annoyance for the song. 
 I phrased it as 'an obvious lack of talent',
-although I could also phrase it as 'raw' or 'pure' or 'urban' 
-and I am aware I cannot estimate the talent of Ant Wan at all: 
-he may be a great artist; I am just -with my mediocricy in Swedish- 
-unable to connect with his song in the way he probably hopes.
+although I could also phrase it as 'raw' or 'pure' or 'urban'.
+Only later I realized: this song probably is already parody!
+It is a song in which Ant Wan criticizes this musical genre,
+with a purposefully amplified autotune, a childishly simple melody
+and materialistic (for example, the protagonist does not understand why a girl
+that gets love and flowers, prefers that over getting expensive watches) 
+and 'dumb' lyrics (for example, the protagonist insinuates it is higher status
+to visit people at their place, over having them as guests at one's own home):
+Ant Wan is a genius!
 
 In both The Netherlands and in Sweden it is a tradition
 to write poems for Christmas that rhyme clumsily. Just in the way 'Dum' 
