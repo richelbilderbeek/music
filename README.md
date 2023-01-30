@@ -138,11 +138,10 @@ Geert did the piano in the other songs and did the vocals.
 
  * [Tricky-M](http://www.trickym.de.tl): German rap
  * [Cyborgjeff](http://www.studio-quena.be/cyborgjeff/blog): game music
- * [Music4Games](http://licensetothrillmusic.com): game music
  * [Orphan songs](http://www.orphansongs.com): pop
 
 ## External links
 
- * [my Jamendo artist page](http://www.jamendo.com/en/artist/Richel_Bilderbeek)
+ * [my Jamendo artist page](https://www.jamendo.com/artist/367809/richel-bilderbeek)
  * [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
  * [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
