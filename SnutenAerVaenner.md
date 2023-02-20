@@ -8,19 +8,19 @@ Jag var jävligtbakis,
 men show måsta försätta
 
 Då var jag redan en stort rapper
-och skrev många hitsån
+och skrev många hitsång
 där in Druten Zuid,
 djungel från pansarbetong
 
-Bara kulturbarbaren vit inte
+Bara kulturbarbar vit inte
 Druten ligger in Niederländen
 Men för min karriär,
 var det en återvändsgränden
 
-En polare trådrunga mig 
+En polare trådrungda mig 
 han är från Rinkeby
 en stort rapper också
-och en arbetsbi
+och en flytig arbetsbi
 
 Han vill kommer till mig
 och åcker till huvudstad mina länden
