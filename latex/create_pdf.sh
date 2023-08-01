@@ -9,4 +9,6 @@
 #
 #   ./create.sh
 #
+rm music.pdf
 pdflatex music.tex
+evince music.pdf

@@ -14,29 +14,9 @@ September of 2000
  * [Download the MP3 of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.mp3)
  * [Download the MP3 of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.mp3)
 
-## Lyrics
+## [Lyrics](01_maanliedje.txt).
 
-```
-Maanliedje
-Written by 'Het Bilderbeek Bilderbeek & Bogaart Bogaart Quartet'
-
-C F D G
-E A D C
-
-Grote gele kaasmaan
-stralend in de lucht
-ik zie u teder neergaan
-in trage vogelvlucht
-Kaas maan
-neer gaan
-
-In uw teder schijnsel
-slaakt mijn ziel een zucht
-u doet mij beseffen
-het leven is een klucht
-Kaas maan
-neer gaan
-``` 
+See [here](01_maanliedje.txt).
 
 ## Background
 
