@@ -62,7 +62,7 @@
 13 | 2002-05-03 | [Hendriklied 3](Hendriklied3.md)
 12 | 2002-04-21 | [O Mooie Geluidsvrouw](OMooieGeluidsvrouw.md)
 11 | 2002-04-20 | [Rood Geluk](RoodGeluk.md)
-10 | 2002-04-03 | [Hendriklied 2](Hendriklied2.md)
+10 | 2002-04-03 | [Hendriklied 2](10_Hendriklied_2.md)
 09 | 2002-04-03 | [Hendriklied 1](09_hendriklied_1.md)
 08 | 2002-04-18 | [Vroeger](08_vroeger.md)
 07 | 2002-04-10 | [Kinderliefde](07_kinderliefde.md)
