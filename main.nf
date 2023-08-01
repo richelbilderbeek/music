@@ -11,9 +11,9 @@
 
 process create_toc() {
 
-
   """
-  echo "Hello" > ${projectDir}/00_table_of_contents.pdf
+  ./${projectDir}/scripts/create_toc.sh
+  mv 00_table_of_contents.md ${workDir}
   """
 }
 
