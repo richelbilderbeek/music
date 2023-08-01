@@ -9,6 +9,7 @@
 #
 #   ./create.sh
 #
-rm music.pdf
+./clean.sh
 pdflatex music.tex
-evince music.pdf
+pdflatex music.tex
+./view.sh
