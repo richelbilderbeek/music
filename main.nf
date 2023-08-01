@@ -13,14 +13,14 @@ process create_00_table_of_contents_md() {
 
   """
   ${projectDir}/scripts/create_toc.sh
-  mv 00_table_of_contents.md ${projectDir}/build/
+  mv ${projectDir}/00_table_of_contents.md ${projectDir}/build/
   """
 }
 
 process create_01_maanliedje_pdf() {
   """
   ${projectDir}/scripts/create_01_maanliedje_pdf.sh
-  mv 01_maanliedje_pdf ${projectDir}/build/
+  mv ${projectDir}/01_maanliedje_pdf ${projectDir}/build/
   """
 }
 
@@ -39,14 +39,19 @@ process create_xx_dum_by_by_ant_wan_pdf() {
 process create_book_a4_pdf() {
   """
   ${projectDir}/scripts/create_book_a4_pdf.sh
-  mv book_a4.pdf ${projectDir}/books
+  mv ${projectDir}/book_a4.pdf ${projectDir}/books
   """
 }
 
 workflow {
+  // Create the MDs
   create_00_table_of_contents_md()
-  create_01_maanliedje_md()
+
+  // Create the PDFs
+  create_01_maanliedje_pdf()
   create_xx_16777216_kleuren_pdf()
   create_xx_dum_by_by_ant_wan_pdf()
+
+  // Combine the PDFs
   create_book_a4_pdf()
 }
