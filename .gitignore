@@ -18,3 +18,5 @@ music.xref
 musicse1.html
 booklet/
 build/
+.nextflow.log
+.nextflow.*
