@@ -9,7 +9,7 @@
 //   * An A5 booklet in PDF
 //   * An A5 booklet in EPUB
 
-process create_toc() {
+process create_00_table_of_contents_md() {
 
   """
   ${projectDir}/scripts/create_toc.sh
@@ -17,8 +17,15 @@ process create_toc() {
   """
 }
 
+process create_01_maanliedje_pdf() {
+  """
+  ${projectDir}/scripts/create_01_maanliedje_pdf.sh
+  mv 01_maanliedje_pdf ${workDir}
+  """
+}
 
 workflow {
-  create_toc()
+  create_00_table_of_contents_md()
+  create_01_maanliedje_md()
 
 }
