@@ -21,5 +21,5 @@ See [here ](02_grote_gele_sinaasappel.txt).
 'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet' was the band 
 that consisted out of me and Geert van den Bogaart. I played 
 two flutes (at the same time) and played the piano 
-in [Ode Aan Masculiniteit](OdeAanMasculiniteit.md), where
+in [Ode Aan Masculiniteit](03_ode_aan_masculiniteit.md), where
 Geert did the piano in the other songs and did the vocals.
