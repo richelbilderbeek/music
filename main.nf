@@ -12,7 +12,7 @@
 process create_toc() {
 
   """
-  ./${projectDir}/scripts/create_toc.sh
+  ${projectDir}/scripts/create_toc.sh
   mv 00_table_of_contents.md ${workDir}
   """
 }
