@@ -77,7 +77,7 @@ regularily.
 04 | 2001-05-11 | [Het Koffielied](songs/HetKoffielied.md)
 03 | 200?-??-?? | [Ode Aan Masculiniteit](songs/OdeAanMasculiniteit.md)
 02 | 2001-03-23 | [Grote Gele Sinaasappel](songs/GroteGeleSinaasappel.md)
-01 | 2000-09-21 | [Maanliedje](songs/Maanliedje.md)
+01 | 2000-09-21 | [Maanliedje](songs/01_maanliedje.md)
 
 ## Work in progress
 
