@@ -75,3 +75,4 @@ Geert did the piano in the other songs and did the vocals.
  * [my Jamendo artist page](https://www.jamendo.com/artist/367809/richel-bilderbeek)
  * [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
  * [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
+ * [Online PS to PNG converter that allows multi-page PS files](https://www.imageconvert.org/ps-to-png)
