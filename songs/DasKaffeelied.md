@@ -1,6 +1,6 @@
 # Das Kaffeelied
 
-'Das Kaffeelied' is the German translation of [Het Koffielied](HetKoffielied.md)
+'Das Kaffeelied' is the German translation of [Het Koffielied](04_het_koffielied.md)
 written around April 2005.
 
 ```
