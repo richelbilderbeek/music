@@ -13,19 +13,40 @@ process create_00_table_of_contents_md() {
 
   """
   ${projectDir}/scripts/create_toc.sh
-  mv 00_table_of_contents.md ${workDir}
+  mv 00_table_of_contents.md ${projectDir}/build/
   """
 }
 
 process create_01_maanliedje_pdf() {
   """
   ${projectDir}/scripts/create_01_maanliedje_pdf.sh
-  mv 01_maanliedje_pdf ${workDir}
+  mv 01_maanliedje_pdf ${projectDir}/build/
+  """
+}
+
+process create_xx_16777216_kleuren_pdf() {
+  """
+  cp ${projectDir}/songs/16777216Kleuren.pdf ${projectDir}/xx_16777216_kleuren.pdf
+  """
+}
+
+process create_xx_dum_by_by_ant_wan_pdf() {
+  """
+  cp ${projectDir}/songs/Dum_by_Ant_Wan.pdf ${projectDir}/xx_dum_by_by_ant_wan.pdf
+  """
+}
+
+process create_book_a4_pdf() {
+  """
+  ${projectDir}/scripts/create_book_a4_pdf.sh
+  mv book_a4.pdf ${projectDir}/books
   """
 }
 
 workflow {
   create_00_table_of_contents_md()
   create_01_maanliedje_md()
-
+  create_xx_16777216_kleuren_pdf()
+  create_xx_dum_by_by_ant_wan_pdf()
+  create_book_a4_pdf()
 }
