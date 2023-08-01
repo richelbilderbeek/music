@@ -12,78 +12,9 @@ a bad singer and mediocre piano player does not hold him back
 in giving [performances](https://github.com/richelbilderbeek/performances) 
 regularily.
 
-#  |Date        |Name
----|------------|-------------------------------------------
-64 | 2018-03-03 | [16777216 Kleuren](songs/16777216Kleuren.md)
-63 | 2018-02-07 | [Monsieur Pannetier](songs/MonsieurPannetier.md)
-62 | 2015-02-15 | [Pjanoman](songs/Pjanoman.md)
-61 | 2014-02-14 | [Mars](songs/Mars.md)
-60 | 2014-01-15 | [Liefdeskapitein](songs/Liefdeskapitein.md)
-59 | 2013-06-26 | [Een](songs/Een.md)
-58 | 2013-06-21 | [Hee Ga Je Mee](songs/HeeGaJeMee.md)
-57 | 2013-06-20 | [Superman B](songs/SupermanB.md)
-56 | 2012-08-04 | [Groningen Danst](songs/GroningenDanst.md)
-55 | 2011-04-24 | [Vrouwen Van JeDromen](songs/VrouwenVanJeDromen.md)
-54 | 2011-04-07 | ["Friday"](songs/Friday.md)
-53 | 2010-11-10 | [Voor De Klas](songs/VoorDeKlas.md)
-52 | 2009-10-30 | [Heejaa Mama](songs/HeejaaMama.md)
-51 | 2007-09-29 | [Stuk eiwit](songs/StukEiwit.md)
-50 | 2007-09-29 | [Organellenwals](songs/Organellenwals.md)
-49 | 2007-01-28 | [Ben Ik Een Spin](songs/BenIkEenSpin.md)
-48 | 2006-05-20 | [Achter Mijn Raam](songs/AchterMijnRaam.md)
-47 | 2005-11-15 | [Mijn Date Van Vrijdagavond](songs/MijnDateVanVrijdagavond.md)
-46 | 2005-10-22 | [Koud Bloed In Mijn Hart](songs/KoudBloedInMijnHart.md)
-45 | 2005-10-15 | [Plank OpWieltjes](songs/PlankOpWieltjes.md)
-44 | 2005-??-?? | [Life Is A .....](songs/LifeIsAbitch.md)
-43 | 2005-??-?? | [Even If Your Hair Is Blue](songs/EvenIfYourHairIsBlue.md)
-42 | 2005-07-07 | [To The Pub](songs/ToThePub.md)
-41 | 2005-06-04 | [You And Me](songs/YouAndMe.md)
-40 | 2005-05-24 | [The Clifton Suspension Bridge](songs/TheCliftonSuspensionBridge.md)
-39 | 2005-??-?? | [Das Kaffeelied](songs/DasKaffeelied.md)
-38 | 2005-??-?? | [Das Leben ist ....](songs/DasLebenIstMist.md)
-37 | 2005-??-?? | [Das ....menslied](songs/DasFickmenschlied.md)
-36 | 2005-??-?? | [Der .......](songs/DerSchwanz.md)
-35 | 2005-??-?? | [Wenn Du Haettest Blaue Haare](songs/WennDuHaettestBlaueHaare.md)
-34 | 2005-??-?? | [Morgensfrueh](songs/Morgensfrueh.md)
-33 | 2005-??-?? | [Wooloo Mooloo (DE)](songs/WoolooMoolooDe.md)
-32 | 2005-??-?? | [Kaesemond](songs/Kaesemond.md)
-31 | 2005-??-?? | [Blau](songs/Blau.md)
-30 | 2005-01-29 | [Die Rolltreppe Und Ich](songs/DieRolltreppeUndIch.md)
-29 | 2004-11-25 | [Dortmund](songs/Dortmund.md)
-28 | 2004-11-02 | [Klavierstueckchen](songs/Klavierstueckchen.md)
-27 | 2004-06-07 | [Zonder Jou Weg](songs/ZonderJouWeg.md)
-26 | 2004-06-03 | [Morgenvroeg](songs/Morgenvroeg.md)
-25 | 2004-03-07 | [Blauw](songs/Blauw.md)
-24 | 2004-02-12 | [De ...](songs/DeLul.md)
-23 | 2004-01-18 | [Slaapliedje](songs/Slaapliedje.md)
-22 | 2003-12-01 | [Mannen](songs/Mannen.md)
-21 | 2003-08-12 | [Wooloo Mooloo](songs/WoolooMooloo.md)
-20 | 2003-04-05 | [Al Heb Je Blauw Haar](songs/AlHebJeBlauwHaar.md)
-19 | 2003-??-?? | [Het Leven Is Een ..... .............](songs/HetLevenIsEenVuileKolerelijer.md)
-18 | 2002-12-19 | [Het Leven Is Naar](songs/HetLevenIsNaar.md)
-17 | 2002-10-05 | [Hoggamus Higgamus](songs/HoggamusHiggamus.md)
-16 | 2002-09-14 | [Het Mentorkindjeslied](songs/HetMentorkindjeslied.md)
-15 | 2002-07-17 | [Het ....menslied](songs/HetNeukmenslied.md)
-14 | 2002-06-22 | [Come Home Darling](songs/ComeHomeDarling.md)
-13 | 2002-05-03 | [Hendriklied 3](songs/Hendriklied3.md)
-12 | 2002-04-21 | [O Mooie Geluidsvrouw](songs/OMooieGeluidsvrouw.md)
-11 | 2002-04-20 | [Rood Geluk](songs/RoodGeluk.md)
-10 | 2002-04-03 | [Hendriklied 2](songs/Hendriklied2.md)
-09 | 2002-04-03 | [Hendriklied 1](songs/Hendriklied1.md)
-08 | 2002-04-18 | [Vroeger](songs/Vroeger.md)
-07 | 2002-04-10 | [Kinderliefde](songs/Kinderliefde.md)
-06 | 2002-04-05 | [Leontien](songs/Leontien.md)
-05 | 200?-??-?? | [Hendrik](songs/Hendrik.md)
-04 | 2001-05-11 | [Het Koffielied](songs/HetKoffielied.md)
-03 | 200?-??-?? | [Ode Aan Masculiniteit](songs/OdeAanMasculiniteit.md)
-02 | 2001-03-23 | [Grote Gele Sinaasappel](songs/GroteGeleSinaasappel.md)
-01 | 2000-09-21 | [Maanliedje](songs/01_maanliedje.md)
+# Songs
 
-## Work in progress
-
-#  |Date        |Name
----|------------|-------------------------------------------
-.  | 2022-12-12 | [Ljum](songs/Ljum.md)
+See [Songs](songs/README.md)
 
 ## CDs
 
@@ -132,7 +63,6 @@ Geert did the piano in the other songs and did the vocals.
  * `retro PC game`
  * `rainwave chiptune game music`, for [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
  * `starfm alternative`
-
 
 ## My favorite Jamendo artists
 
