@@ -59,7 +59,7 @@
 16 | 2002-09-14 | [Het Mentorkindjeslied](HetMentorkindjeslied.md)
 15 | 2002-07-17 | [Het ....menslied](HetNeukmenslied.md)
 14 | 2002-06-22 | [Come Home Darling](ComeHomeDarling.md)
-13 | 2002-05-03 | [Hendriklied 3](Hendriklied3.md)
+13 | 2002-05-03 | [Hendriklied 3](13_hendriklied_3.md)
 12 | 2002-04-21 | [O Mooie Geluidsvrouw](12_o_mooie_geluidsvrouw.md)
 11 | 2002-04-20 | [Rood Geluk](11_rood_geluk.md)
 10 | 2002-04-03 | [Hendriklied 2](10_Hendriklied_2.md)
