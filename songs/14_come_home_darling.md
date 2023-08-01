@@ -6,53 +6,17 @@ on the 22nd June 2002.
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Come Home Darling' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_03ComeHomeDarling.ogg)
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Come Home Darling' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_02ComeHomeDarling.ogg)
  * [Listen to 'Come Home Darling' (mid)](http://www.richelbilderbeek.nl/SongComeHomeDarling.mid)
- * [View the sheet music of 'Come Home Darling' (ps)](ComeHomeDarling.ps)
+ * [View the sheet music of 'Come Home Darling' 1/2 (png)](14_come_home_darling_1.png)
+ * [View the sheet music of 'Come Home Darling' 2/2 (png)](14_come_home_darling_2.png)
+ * [View the sheet music of 'Come Home Darling' (ps)](14_come_home_darling.ps)
  * [View the ABC notation file of 'Come Home Darling'](https://github.com/richelbilderbeek/abc/blob/master/ComeHomeDarling.abc)
  * [Download the MP3 of 'Come Home Darling' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_03ComeHomeDarling.mp3)
  * [Download the MP3 of 'Come Home Darling' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_02ComeHomeDarling.mp3)
 
-## Lyrics
 
-```
-Come Home Darling
-Written by Richel Bilderbeek
-On the 22nd June 2002
-From http://www.richelbilderbeek.nl
+## [Lyrics](14_come_home_darling.txt)
 
-Come home darling
-I will hold you
-Come home darling
-I will kiss you
-
-You're the one
-I've always searched for
-I will love you
-night and day
-
-I don't believe in God
-but I'm in love with you
-so if he exists
-I hope he's watching you.
-'cause you are far away
-far over the sea
-but in all my dreams
-you are still
-with me
-
-Come home darling
-I will hold you
-Come home darling
-I will kiss you
-
-Everyday,
-I long for you
-and everyday,
-I'm loving you
-and everyday
-I'm missing you
-and every day,
-I get more close to you
-```
+See [here](14_come_home_darling.txt).
 
 ## Background
 
