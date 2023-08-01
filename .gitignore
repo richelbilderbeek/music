@@ -20,3 +20,5 @@ booklet/
 build/
 .nextflow.log
 .nextflow.*
+work/
+.nextflow/
