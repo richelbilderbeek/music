@@ -15,21 +15,9 @@
  * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2002)](http://www.richelbilderbeek.nl/CD02_04HetKoffielied.mp3)
  * [Download the MP3 of 'Het Koffielied' (recorded somewhere around 2001 with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_03HetKoffielied.mp3)
 
-## Lyrics
+## [Lyrics](04_het_koffielied.txt)
 
-```
-Het Koffielied
-Written by Richel Bilderbeek
-On the 11th May 2001
-From http://www.richelbilderbeek.nl
-
-
-CAMP
-daarmee ben je tevree
-en AMP 
-door PDE daar
-ben je niet tevreden mee
-```
+See [here](04_het_koffielied.txt).
 
 ## Background
 

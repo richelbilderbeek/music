@@ -68,7 +68,7 @@
 07 | 2002-04-10 | [Kinderliefde](Kinderliefde.md)
 06 | 2002-04-05 | [Leontien](Leontien.md)
 05 | 200?-??-?? | [Hendrik](Hendrik.md)
-04 | 2001-05-11 | [Het Koffielied](HetKoffielied.md)
+04 | 2001-05-11 | [Het Koffielied](04_het_koffielied.md)
 03 | 200?-??-?? | [Ode Aan Masculiniteit](03_ode_aan_masculiniteit.md)
 02 | 2001-03-23 | [Grote Gele Sinaasappel](02_grote_gele_sinaasappel.md)
 01 | 2000-09-21 | [Maanliedje](01_maanliedje.md)
