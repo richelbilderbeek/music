@@ -5,59 +5,15 @@ by Marco Borsato.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het N..kmenslied' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_10HetNeukmenslied.ogg)
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Het N..kmenslied' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_06HetNeukmenslied.ogg)
- * [View the sheet music of 'Het N..kmenslied' (ps)](HetNeukmenslied.ps)
+ * [View the sheet music of 'Het N..kmenslied' (png)](15_het_neukmenslied.png)
+ * [View the sheet music of 'Het N..kmenslied' (ps)](15_het_neukmenslied.ps)
  * [View the ABC notation file of 'Het N..kmenslied'](https://github.com/richelbilderbeek/abc/blob/master/HetNeukmenslied.abc)
  * [Download 'Het N..kmenslied' (mp3) (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_10HetNeukmenslied.mp3)
  * [Download 'Het N..kmenslied' (mp3) (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_06HetNeukmenslied.mp3)
 
-## Lyrics
+## [Lyrics](15_het_neukmenslied.txt)
 
-```
-Het N**kmenslied
-Written by Richel Bilderbeek
-
-C#  F#m B   E
-G#  A   B   C#m
-F#m B   E   G#
-A   B   G#  G# 
-            C#m
-
-In de verte spreekt een stem
-die ik herken van het n**ken
-in de allergeilste standen
-na de allegrootste ruzies
-en ik hoor je zachtjes janken
-door mijn ongetemde liefde
-O, wat kan ik meer dan n**ken
-daarbij heb je aan mij een goede
-
-In een waas hoor ik je zeggen
-dat ik jou cadeau's moet geven
-en niet alleen op je verjaardag
-da's meer dan mij lief is in mijn leven
-en ik luister naar jouw woordjes
-terwijl ik dring bij jou naar binnen
-en ik n**k je als de bliksem
-nu dat allemaal nog kan
-
-Al dit n**ken maakte je gek
-en je vindt het angstaanjagend
-er zou meer zijn in het leven (ofzo)
-maar daarbij keek ik slechts vragend
-waarom zei je dat niet eerder?
-en waarom sprak jij over liefde?
-dat als jij een dag bij mij weg bent
-ik niet eens een and're vrouw mag n**ken
-
-Soms had je liever met een ander
-want wij hebben best wel heel erg vaak ruzies
-maar maak je maar geen illusies
-want dat duurt nog maar heel even
-want al mijn kille klanken
-dat was slechts gespeelde woede
-want ik weet dat na een ruzie
-dat jij dan het beste n**kt
-```
+See [here](15_het_neukmenslied.txt).
 
 ## Background
 
