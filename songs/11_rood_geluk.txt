@@ -1,15 +1,3 @@
-# Rood Geluk
-
-'Rood Geluk' is a song. It's lyrics are written by
-Geert van den Bogaart, its music is composed by Richel Bilderbeek, both
-on the 20th of April 2002.
-
- * [View the ABC notation file of 'Rood Geluk'](https://github.com/richelbilderbeek/abc/blob/master/RoodGeluk.abc)
- * [View the sheet music of 'Rood Geluk' (png)](RoodGeluk.png)
- * [Download the sheet music of 'Rood Geluk' (ps)](RoodGeluk.ps)
-
-
-```
 Rood Geluk
 Lyrics written by Geert van den Bogaart
 Music written by Richel Bilderbeek
@@ -34,4 +22,4 @@ Dit maakte hem euforisch blij
 minachtend bekeek hij al die mannen
 omdat hij gratis vrijen kon
 want de man had een vriendin
-```
+

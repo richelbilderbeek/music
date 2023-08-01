@@ -61,7 +61,7 @@
 14 | 2002-06-22 | [Come Home Darling](ComeHomeDarling.md)
 13 | 2002-05-03 | [Hendriklied 3](Hendriklied3.md)
 12 | 2002-04-21 | [O Mooie Geluidsvrouw](OMooieGeluidsvrouw.md)
-11 | 2002-04-20 | [Rood Geluk](RoodGeluk.md)
+11 | 2002-04-20 | [Rood Geluk](11_rood_geluk.md)
 10 | 2002-04-03 | [Hendriklied 2](10_Hendriklied_2.md)
 09 | 2002-04-03 | [Hendriklied 1](09_hendriklied_1.md)
 08 | 2002-04-18 | [Vroeger](08_vroeger.md)
