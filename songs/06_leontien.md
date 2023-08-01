@@ -19,7 +19,7 @@ See [here](06_leontien.txt).
 
 I wanted to write the sort of tear-jerker (NL: 'smartlap') in which
 a lot of things happen. This song was written at the same time as
-[Kinderliefde](Kinderliefde.md), in which even more happens.
+[Kinderliefde](05_kinderliefde.md), in which even more happens.
 
 The name 'Peter' was initially picked just for the rhyme. 
 When in later versions it would not contribute to
