@@ -1,11 +1,3 @@
-# O Mooie Geluidsvrouw
-
- * [View the ABC notation file of 'O Mooie Geluidsvrouw'](https://github.com/richelbilderbeek/abc/blob/master/OMooieGeluidsvrouw.abc)
- * [View the sheet music of 'O Mooie Geluidsvrouw' (png)](OMooieGeluidsvrouw.png)
- * [Download the sheet music of 'O Mooie Geluidsvrouw' (ps)](OMooieGeluidsvrouw.ps)
- * [Download the music of 'O Mooie Geluidsvrouw' (mid)](http://www.richelbilderbeek.nl/SongOMooieGeluidsvrouw.mid)
-
-```
 O Mooie Geluidsvrouw
 Melody written by Richel Bilderbeek on the 18th of April
 Lyrics written by 'Het Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet' on the 21st April 2002
@@ -33,4 +25,4 @@ maar het is veel te hoog
 
 Jij bent mooi, jij bent mooi 
 maar ik val toch meer op je broer
-```
+
