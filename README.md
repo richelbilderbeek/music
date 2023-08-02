@@ -12,6 +12,10 @@ a bad singer and mediocre piano player does not hold him back
 in giving [performances](https://github.com/richelbilderbeek/performances) 
 regularily.
 
+## Downloads
+
+ * [Download all my songs as a book (pdf)](books/music.pdf)
+
 # Songs
 
 See [Songs](songs/README.md)
