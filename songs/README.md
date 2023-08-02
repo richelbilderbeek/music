@@ -37,7 +37,7 @@ Nr |Date        |Name
 38 | 2005-??-?? | [Das Leben ist ....](DasLebenIstMist.md)
 37 | 2005-??-?? | [Das ....menslied](DasFickmenschlied.md)
 36 | 2005-??-?? | [Der .......](DerSchwanz.md)
-35 | 2005-??-?? | [Wenn Du Haettest Blaue Haare](WennDuHaettestBlaueHaare.md)
+35 | 2005-??-?? | [Wenn Du Haettest Blaue Haare](35_wenn_du_haettest_blaue_haare.md)
 34 | 2005-??-?? | [Morgensfrueh](34_morgensfrueh.md)
 33 | 2005-??-?? | [Wooloo Mooloo (DE)](33_wooloo_mooloo_de.md)
 32 | 2005-??-?? | [Kaesemond](32_kaesemond.md)

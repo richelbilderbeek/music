@@ -2,33 +2,9 @@
 
 German translation of [Al Heb Je Blauw Haar](20_al_heb_je_blauw_haar.md).
 
-
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wenn du haettest blaue Haare' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD04_10WennDuHaettestBlauweHaare.ogg)
  * [Download the MP3 of 'Wenn du haettest blaue Haare' (recorded on the 17th of July of 2006)](http://www.richelbilderbeek.nl/CD04_10WennDuHaettestBlaueHaare.mp3)
 
-```
-Wenn Du Haettest Blaue Haare
-Written by Richel Bilderbeek
+## [Lyrics](35_wenn_du_haettest_blaue_haare.txt)
 
-F G A G (4x)
-
-Auch wenn du haettest blaue Haare
-wird das nicht bedeuten dass,
-dass ich mit dir paare
-
-Auch wenn du haettest schwarze Haare
-wird das nicht bedeuten dass,
-dass ich mit dir paare
-
-Auch wenn du haettest rote Haare
-wird das nicht bedeuten dass,
-dass ich mit dir paare
-
-Auch wenn du haettest blonde Haare
-wird das nicht bedeuten dass,
-dass ich mit dir paare
-
-Aber wenn du hast keine Schamhaare
-denn wird dass bedeuten dass,
-ich heute Abend mit dir paare
-```
+See [here](35_wenn_du_haettest_blaue_haare.txt).
