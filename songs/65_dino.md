@@ -2,6 +2,12 @@
 
  * Parody on 'Viking' by Ted Gärdestad
 
+## [Lyrics](65_dino.txt)
+
+See [here](65_dino.txt)
+
+## Translation
+
 Swedish                                                           |English
 ------------------------------------------------------------------|--------------------------------------------------------------------
 [VERS 1]                                                          |[VERSE 1]
@@ -178,6 +184,8 @@ EN: Because I am stuck in my reality, so therefore I sing a song
 RB: Nu är jag alltid lite som en dino och du är min fång(st)
 EN: Now I still a lite like a dinosaur and you are my prey
 ```
+
+## Tabs
 
 [Tabs from www.ultimate-guitar.com](https://tabs.ultimate-guitar.com/tab/1904090):
 
