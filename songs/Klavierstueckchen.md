@@ -10,7 +10,6 @@ and lyrics written by Richel Bilderbeek on November 2nd 2004.
 Klavierstueckchen
 Written by Richel Bilderbeek
 On the 2nd November 2004
-From http://www.richelbilderbeek.nl
 
 
 Tief im Gedanken

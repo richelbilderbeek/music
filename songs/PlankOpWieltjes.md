@@ -8,7 +8,6 @@
 Plank Op Wieltjes
 Written by Richel Bilderbeek
 On the 25th October 2005
-From http://www.richelbilderbeek.nl
 
 
 Peter ging op pad

@@ -17,7 +17,6 @@ See [here](16_het_mentorkindjeslied.txt).
 Het Mentorkindjeslied
 Written by Richel Bilderbeek
 On the 14th September 2002
-From http://www.richelbilderbeek.nl
 
 
 Grote gele kaasmaan 

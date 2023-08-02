@@ -7,7 +7,6 @@
 Mijn Date Van Vrijdagavond
 Written by Richel Bilderbeek
 On the 15th November 2005
-From http://www.richelbilderbeek.nl
 
 
 Mijn date van vrijdag ligt te slapen

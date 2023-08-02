@@ -10,7 +10,6 @@ translated around April 2005.
 Der Schwanz
 Written by Richel Bilderbeek
 On the someday'th
-From http://www.richelbilderbeek.nl
 
 
 Zeit in die Feder zu gehen,

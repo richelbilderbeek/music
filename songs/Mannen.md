@@ -8,7 +8,6 @@
 Mannen
 Written by Richel Bilderbeek
 On the 1st and 2nd December 2003 
-From http://www.richelbilderbeek.nl
 
  
 Toen ik jou zag staan 

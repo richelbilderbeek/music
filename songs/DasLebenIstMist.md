@@ -10,7 +10,6 @@ translated around April 2005.
 Das Leben Ist Mist
 Written by Richel Bilderbeek
 On the someday'th
-From http://www.richelbilderbeek.nl
 
 
 Fuer eine sehr lange Weile

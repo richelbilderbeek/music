@@ -7,7 +7,6 @@
 Moordenaars
 Written by Osdorp Posse
 Covered by Richel Bilderbeek and Sebastiaan van Agteren
-From http://www.richelbilderbeek.nl
 
 Ik zat in tram vijf
 en m'n lul stond stijf,

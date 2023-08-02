@@ -13,7 +13,6 @@ Stuk eiwit
 Lyrics written by Richel Bilderbeek
 Melody used from 'Plank op wieltjes'.
 On the 29th of September 2007.
-From http://www.richelbilderbeek.nl
 
 Een stuk RNA gaat op pad
 met twee labels aan z'n eene kant

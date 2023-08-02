@@ -7,7 +7,6 @@
 Slaapliedje
 Written by Richel Bilderbeek
 On the 18th and 19th January 2004
-From http://www.richelbilderbeek.nl
 
 
 Gerarda, Gerarda,
