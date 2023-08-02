@@ -3,7 +3,7 @@
 'Leontien' is a song composed and lyrics written by Richel Bilderbeek on April 5th 2002.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Leontien' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_12Leontien.ogg)
- * [View the ABC notation file of 'Leontien'](https://github.com/richelbilderbeek/abc/blob/master/Leontien.abc)
+ * [View the ABC notation file of 'Leontien'](06_leontien.abc)
  * [View the sheet music of 'Leontien' (from abc)(png)](06_leontien.png)
  * [View the sheet music of 'Leontien' (from abc)(ps)](06_leontien.ps)
  * [Download the sheet music of 'Leontien' (mus)](06_leontien.mus)

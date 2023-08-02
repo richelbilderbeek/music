@@ -9,7 +9,7 @@ on the 22nd June 2002.
  * [View the sheet music of 'Come Home Darling' 1/2 (png)](14_come_home_darling_1.png)
  * [View the sheet music of 'Come Home Darling' 2/2 (png)](14_come_home_darling_2.png)
  * [View the sheet music of 'Come Home Darling' (ps)](14_come_home_darling.ps)
- * [View the ABC notation file of 'Come Home Darling'](https://github.com/richelbilderbeek/abc/blob/master/ComeHomeDarling.abc)
+ * [View the ABC notation file of 'Come Home Darling'](14_come_home_darling.abc)
  * [Download the MP3 of 'Come Home Darling' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_03ComeHomeDarling.mp3)
  * [Download the MP3 of 'Come Home Darling' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_02ComeHomeDarling.mp3)
 

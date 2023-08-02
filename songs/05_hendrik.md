@@ -2,7 +2,7 @@
 
 Parody on 'Friar Jacob'.
 
- * [View the ABC notation file of 'Hendrik'](https://github.com/richelbilderbeek/abc/blob/master/Hendrik.abc)
+ * [View the ABC notation file of 'Hendrik'](05_hendrik.abc)
  * [View the sheet music of 'Hendrik' (from abc)(png)](05_hendrik.png)
  * [View the sheet music of 'Hendrik' (from abc)(ps)](05_hendrik.ps)
  * [Download the sheet music of 'Hendrik' (mus)](05_hendrik.mus)
