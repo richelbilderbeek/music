@@ -17,7 +17,7 @@ Nr |Date        |Name
 58 | 2013-06-21 | [Hee Ga Je Mee](HeeGaJeMee.md)
 57 | 2013-06-20 | [Superman B](SupermanB.md)
 56 | 2012-08-04 | [Groningen Danst](GroningenDanst.md)
-55 | 2011-04-24 | [Vrouwen Van JeDromen](VrouwenVanJeDromen.md)
+55 | 2011-04-24 | [Vrouwen Van JeDromen](55_vrouwen_van_je_dromen.md)
 54 | 2011-04-07 | ["Friday"](54_friday.md)
 53 | 2010-11-10 | [Voor De Klas](53_voor_de_klas.md)
 52 | 2009-10-30 | [Heejaa Mama](52_heejaa_mama.md)
