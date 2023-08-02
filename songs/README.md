@@ -65,6 +65,7 @@ Nr |Date        |Name
 11 | 2002-04-20 | [Rood Geluk](11_rood_geluk.md)
 10 | 2002-04-03 | [Hendriklied 2](10_hendriklied_2.md)
 09 | 2002-04-03 | [Hendriklied 1](09_hendriklied_1.md)
+.  | 2002-04-21 | (by Geert van den Bogaart) [Rare Stoel](geert_rare_stoel.txt)
 08 | 2002-04-18 | [Vroeger](08_vroeger.md)
 07 | 2002-04-10 | [Kinderliefde](07_kinderliefde.md)
 06 | 2002-04-05 | [Leontien](06_leontien.md)

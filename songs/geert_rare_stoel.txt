@@ -1,10 +1,3 @@
-# Rare Stoel
-
-'Rare Stoel' is a song written by Geert van den
-Bogaart on the 21st of April 2002 for the Bilderbeek Bilderbeek &
-Bogaart Bogaart Quartet.
-
-```
 Rare Stoel
 Lyrics and notes composed by Geert van den Bogaart
 on the 21st of April 2002
@@ -37,4 +30,3 @@ van boven wit en van onder geel
 Wat voor stoel ben jij?
 O nu zie ik het pas
 jij bent geen stoel maar een biertje
-```
