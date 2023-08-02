@@ -3,9 +3,6 @@
 'Zonder Jou Weg' is composed and written by Richel Bilderbeek
 on June 7th 2004.
 
-```
-Zonder Jou Weg
-By Richel Bilderbeek
+## [Lyrics](27_zonder_jou_weg.txt)
 
-G# D#
-```
+See [here](27_zonder_jou_weg.txt).
