@@ -6,103 +6,15 @@ seperated before its first performance.
 
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2007)](http://www.richelbilderbeek.nl/CD06_18YouAndMe.ogg)
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.ogg)
- * [View the 'You And Me' sheet music (melody only)(png)](YouAndMe.png)
- * [View the 'You And Me' sheet music (melody only)(ps)](YouAndMe.ps)
- * [View the ABC notation file of 'You And Me'](https://github.com/richelbilderbeek/abc/blob/master/YouAndMe.abc)
+ * [View the 'You And Me' sheet music (melody only)(png)](41_you_and_me.png)
+ * [View the 'You And Me' sheet music (melody only)(ps)](41_you_and_me.ps)
+ * [View the ABC notation file of 'You And Me'](41_you_and_me.abc)
  * [Download the MP3 of 'You And Me' (recorded somewhere around 2007)](http://www.richelbilderbeek.nl/CD06_18YouAndMe.mp3)
  * [Download the MP3 of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.mp3)
 
-## Lyrics
+## [Lyrics](41_you_and_me.txt)
 
-```
-You And Me
-By Richel Bilderbeek
-
-My life 
-changed tremendously 
-when you came to see 
-the Loveboys and (especially) me 
-
-You threw 
-your knickers to me 
-so that I would see 
-you want to be with me 
-
-Due to that gift 
-I've fallen in love 
-just wanting to see 
-you lying next to me 
-
-And that night 
-this dream became true 
-made love all night 
-then breakfast for you 
-
-When I said 
-your breasts are to small 
-you started to cry 
-I didn't knew why 
-
-So I said 
-I'll pay the operation 
-so I can see 
-your breasts more easily 
-
-So we
-talked near-infinitely
-until you and me
-could the solution see
-
-You agreed 
-to get bigger breasts
-so that I could see
-your breasts more easily
-
-And also I
-had to get an eye-operation
-so that I could see
-more easily
-
-And that week
-we both had surgery
-and I couldn't wait
-your bigger breasts to see
-
-But when my eyes
-we fixed finally
-your breasts weren't just big
-but gigantically enormously
-
-This
-then caused for me
-that I couldn't be
-with you foreverly
-
-For you
-this was painfully
-you got depressed
-because you missed me
-
-Then you
-committed suicide
-because you couldn't be
-without me
-
-And now
-I see very clearly
-that I should have
-behaved differently
-
-Since then
-I changed heavily
-it's the inside that counts
-you made me this see very clearly
-
-So I hope
-you and your big breasts live happily
-because in heaven
-there is no gravity
-```
+See [here](41_you_and_me.txt).
 
 ## Background
 

@@ -31,7 +31,7 @@ Nr |Date        |Name
 44 | 2005-??-?? | [Life Is A .....](LifeIsAbitch.md)
 43 | 2005-??-?? | [Even If Your Hair Is Blue](EvenIfYourHairIsBlue.md)
 42 | 2005-07-07 | [To The Pub](ToThePub.md)
-41 | 2005-06-04 | [You And Me](YouAndMe.md)
+41 | 2005-06-04 | [You And Me](41_you_and_me.md)
 40 | 2005-05-24 | [The Clifton Suspension Bridge](40_the_clifton_suspension_bridge.md)
 39 | 2005-??-?? | [Das Kaffeelied](39_das_kaffeelied.md)
 38 | 2005-??-?? | [Das Leben ist ....](38_das_leben_ist_mist.md)
