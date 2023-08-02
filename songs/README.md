@@ -35,7 +35,7 @@ Nr |Date        |Name
 40 | 2005-05-24 | [The Clifton Suspension Bridge](TheCliftonSuspensionBridge.md)
 39 | 2005-??-?? | [Das Kaffeelied](DasKaffeelied.md)
 38 | 2005-??-?? | [Das Leben ist ....](DasLebenIstMist.md)
-37 | 2005-??-?? | [Das ....menslied](DasFickmenschlied.md)
+37 | 2005-??-?? | [Das ....menslied](37_das_fickmenschlied.md)
 36 | 2005-??-?? | [Der .......](36_der_schwanz.md)
 35 | 2005-??-?? | [Wenn Du Haettest Blaue Haare](35_wenn_du_haettest_blaue_haare.md)
 34 | 2005-??-?? | [Morgensfrueh](34_morgensfrueh.md)

@@ -6,19 +6,9 @@ written around April 2005.
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Das Fickmenschlied' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_02DasFickmenschLied.ogg)
  * [Download the MP3 of 'Das Fickmenschlied' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_02DasFickmenschlied.mp3)
 
-```
-Das F..kmenschlied
-By Richel Bilderbeek
+## [Lyrics](37_das_fickmenschlied.txt]
 
-C#  F#m B   E
-G#  A   B   C#m
-F#m B   E   G#
-A   B   G#  G# 
-            C#m
-
-No lyrics yet
-
-```
+See [here](37_das_fickmenschlied.txt].
 
 ## Background
 
