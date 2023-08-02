@@ -24,7 +24,7 @@ Nr |Date        |Name
 51 | 2007-09-29 | [Stuk eiwit](StukEiwit.md)
 50 | 2007-09-29 | [Organellenwals](Organellenwals.md)
 49 | 2007-01-28 | [Ben Ik Een Spin](BenIkEenSpin.md)
-48 | 2006-05-20 | [Achter Mijn Raam](AchterMijnRaam.md)
+48 | 2006-05-20 | [Achter Mijn Raam](48_achter_mijn_raam.md)
 47 | 2005-11-15 | [Mijn Date Van Vrijdagavond](47_mijn_date_van_vrijdagavond.md)
 46 | 2005-10-22 | [Koud Bloed In Mijn Hart](46_koud_bloed_in_mijn_hart.md)
 45 | 2005-10-15 | [Plank Op Wieltjes](45_plank_op_wieltjes.md)
