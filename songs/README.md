@@ -19,7 +19,7 @@ Nr |Date        |Name
 56 | 2012-08-04 | [Groningen Danst](GroningenDanst.md)
 55 | 2011-04-24 | [Vrouwen Van JeDromen](VrouwenVanJeDromen.md)
 54 | 2011-04-07 | ["Friday"](Friday.md)
-53 | 2010-11-10 | [Voor De Klas](VoorDeKlas.md)
+53 | 2010-11-10 | [Voor De Klas](53_voor_de_klas.md)
 52 | 2009-10-30 | [Heejaa Mama](52_heejaa_mama.md)
 51 | 2007-09-29 | [Stuk eiwit](51_stuk_eiwit.md)
 50 | 2007-09-29 | [Organellenwals](50_organellenwals.md)
