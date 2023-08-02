@@ -12,34 +12,9 @@ by Richel Bilderbeek on April 5th 2003.
  * [Download the MP3 of 'Al Heb Je Blauw Haar' (recorded on the 2nd of September of 2006)(mp3)](http://www.richelbilderbeek.nl/CD06_14AlHebJeBlauwHaar20060902.mp3)
  * [Download the MP3 of 'Al Heb Je Blauw Haar' (recorded somewhere around 2004)(mp3)](http://www.richelbilderbeek.nl/CD03_01AlHebJeBlauwHaar.mp3)
 
-## Lyrics
+## [Lyrics](20_al_heb_je_blauw_haar.txt)
 
-```
-Al Heb Je Blauw Haar
-By Richel Bilderbeek
-
-F G A G (4x)
-
-Al heb je blauw haar
-dan wil dat nog niet zeggen dat
-dat ik met je paar
-
-Al heb je zwart haar
-dan wil dat nog niet zeggen dat
-dat ik met je paar
-
-Al heb je rood haar
-dan wil dat nog niet zeggen dat
-dat ik met je paar
-
-Al heb je blond haar
-dan wil dat nog niet zeggen dat
-dat ik met je paar
-
-Maar heb je geen schaamhaar
-nou dan wil dat zeggen dat
-dat ik vanavond met je paar
-```
+See [here](20_al_heb_je_blauw_haar.txt).
 
 ## Background
 
