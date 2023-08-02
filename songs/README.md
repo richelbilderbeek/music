@@ -29,7 +29,7 @@ Nr |Date        |Name
 46 | 2005-10-22 | [Koud Bloed In Mijn Hart](KoudBloedInMijnHart.md)
 45 | 2005-10-15 | [Plank OpWieltjes](PlankOpWieltjes.md)
 44 | 2005-??-?? | [Life Is A .....](LifeIsAbitch.md)
-43 | 2005-??-?? | [Even If Your Hair Is Blue](EvenIfYourHairIsBlue.md)
+43 | 2005-??-?? | [Even If Your Hair Is Blue](43_even_if_your_hair_is_blue.md)
 42 | 2005-07-07 | [To The Pub](42_to_the_pub.md)
 41 | 2005-06-04 | [You And Me](41_you_and_me.md)
 40 | 2005-05-24 | [The Clifton Suspension Bridge](40_the_clifton_suspension_bridge.md)

@@ -5,11 +5,6 @@
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Even If Your Hair Is Blue' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD05_17EvenIfYourHairIsBlue.ogg)
  * [Download the MP3 of 'Even If Your Hair Is Blue' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD05_17EvenIfYourHairIsBlue.mp3)
 
-```
-Even If Your Hair Is Blue
-By Richel Bilderbeek
+## [Lyrics](43_even_if_your_hair_is_blue.txt)
 
-F G A G (4x)
-
-No lyrics yet
-```
+See [here](43_even_if_your_hair_is_blue.txt).
