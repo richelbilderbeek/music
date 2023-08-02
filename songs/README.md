@@ -50,7 +50,7 @@
 25 | 2004-03-07 | [Blauw](Blauw.md)
 24 | 2004-02-12 | [De ...](DeLul.md)
 23 | 2004-01-18 | [Slaapliedje](Slaapliedje.md)
-22 | 2003-12-01 | [Mannen](Mannen.md)
+22 | 2003-12-01 | [Mannen](22_mannen.md)
 21 | 2003-08-12 | [Wooloo Mooloo](21_wooloo_mooloo.md)
 20 | 2003-04-05 | [Al Heb Je Blauw Haar](20_al_heb_je_blauw_haar.md)
 19 | 2003-??-?? | [Het Leven Is Een ..... .............](19_het_leven_is_een_vuile_kolerelijer.md)
