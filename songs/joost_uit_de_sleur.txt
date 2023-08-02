@@ -1,9 +1,3 @@
-# Uit De Sleur
-
-'Uit De Sleur' is a song. Both its lyrics and music
-are written by Joost van den Bogaart on the 21st of April 2002.
-
-```
 Uit De Sleur
 Lyrics written by Joost van den Bogaart
 Music written by Joost van den Bogaart
@@ -38,4 +32,3 @@ dag vol zorgen
 sta weer op
 wat is dat?
 Pokemonsokken!
-```
