@@ -21,7 +21,7 @@ Nr |Date        |Name
 54 | 2011-04-07 | ["Friday"](Friday.md)
 53 | 2010-11-10 | [Voor De Klas](VoorDeKlas.md)
 52 | 2009-10-30 | [Heejaa Mama](HeejaaMama.md)
-51 | 2007-09-29 | [Stuk eiwit](StukEiwit.md)
+51 | 2007-09-29 | [Stuk eiwit](51_stuk_eiwit.md)
 50 | 2007-09-29 | [Organellenwals](50_organellenwals.md)
 49 | 2007-01-28 | [Ben Ik Een Spin](49_ben_ik_een_spin.md)
 48 | 2006-05-20 | [Achter Mijn Raam](48_achter_mijn_raam.md)
