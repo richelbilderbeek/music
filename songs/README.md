@@ -6,7 +6,7 @@
 > for making parodies. 
 > Copyright remains at the author(s) of the songs.
 
-#  |Date        |Name
+Nr |Date        |Name
 ---|------------|-------------------------------------------
 64 | 2018-03-03 | [16777216 Kleuren](16777216Kleuren.md)
 63 | 2018-02-07 | [Monsieur Pannetier](MonsieurPannetier.md)
@@ -75,6 +75,6 @@
 
 ## Work in progress
 
-#  |Date        |Name
+Nr |Date        |Name
 ---|------------|-------------------------------------------
 .  | 2022-12-12 | [Ljum](Ljum.md)
