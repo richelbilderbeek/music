@@ -42,7 +42,7 @@
 33 | 2005-??-?? | [Wooloo Mooloo (DE)](WoolooMoolooDe.md)
 32 | 2005-??-?? | [Kaesemond](Kaesemond.md)
 31 | 2005-??-?? | [Blau](Blau.md)
-30 | 2005-01-29 | [Die Rolltreppe Und Ich](DieRolltreppeUndIch.md)
+30 | 2005-01-29 | [Die Rolltreppe Und Ich](30_die_rolltreppe_und_ich.md)
 29 | 2004-11-25 | [Dortmund](29_dortmund.md)
 28 | 2004-11-02 | [Klavierstueckchen](28_klavierstueckchen.md)
 27 | 2004-06-07 | [Zonder Jou Weg](27_zonder_jou_weg.md)
