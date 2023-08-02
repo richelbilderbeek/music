@@ -54,7 +54,7 @@
 21 | 2003-08-12 | [Wooloo Mooloo](WoolooMooloo.md)
 20 | 2003-04-05 | [Al Heb Je Blauw Haar](AlHebJeBlauwHaar.md)
 19 | 2003-??-?? | [Het Leven Is Een ..... .............](HetLevenIsEenVuileKolerelijer.md)
-18 | 2002-12-19 | [Het Leven Is Naar](HetLevenIsNaar.md)
+18 | 2002-12-19 | [Het Leven Is Naar](18_het_leven_is_naar.md)
 17 | 2002-10-05 | [Hoggamus Higgamus](17_hoggamus_higgamus.md)
 16 | 2002-09-14 | [Het Mentorkindjeslied](16_het_mentorkindjeslied.md)
 15 | 2002-07-17 | [Het ....menslied](15_het_neukmenslied.md)
