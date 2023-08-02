@@ -85,6 +85,8 @@ Nr |Date        |Name
 ---|------------|-------------------------------------------
 .  | 201?-??-?? | [Ah! Les Crocodiles](xx_ah_les_crocodiles.md)
 .  | 2023-??-?? | [Banan](xx_banan.md)
+.  | 20??-??-?? | [Dad](xx_dad.md)
+.  | 201?-??-?? | [Education Sentimentale](xx_education_sentimentale.md)
 .  | 2015-??-?? | [Moordenaars](xx_moordenaars.md)
 .  | 202?-??-?? | [Your Smile](xx_your_smile.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
