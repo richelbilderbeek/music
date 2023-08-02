@@ -5,9 +5,6 @@
  * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Morgensfrueh' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_09MorgensFrueh.ogg)
  * [Download the MP3 of 'Morgensfrueh' (recorded somewhere around 2005)](http://www.richelbilderbeek.nl/CD04_09Morgensfrueh.mp3)
 
-```
-Morgensfrueh
-By Richel Bilderbeek
+## [Lyrics](34_morgensfrueh.txt)
 
-G# E C D# (single note)
-```
+See [here](34_morgensfrueh.txt)

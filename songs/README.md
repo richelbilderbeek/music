@@ -38,7 +38,7 @@ Nr |Date        |Name
 37 | 2005-??-?? | [Das ....menslied](DasFickmenschlied.md)
 36 | 2005-??-?? | [Der .......](DerSchwanz.md)
 35 | 2005-??-?? | [Wenn Du Haettest Blaue Haare](WennDuHaettestBlaueHaare.md)
-34 | 2005-??-?? | [Morgensfrueh](Morgensfrueh.md)
+34 | 2005-??-?? | [Morgensfrueh](34_morgensfrueh.md)
 33 | 2005-??-?? | [Wooloo Mooloo (DE)](33_wooloo_mooloo_de.md)
 32 | 2005-??-?? | [Kaesemond](32_kaesemond.md)
 31 | 2005-??-?? | [Blau](31_blau.md)
