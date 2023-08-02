@@ -66,7 +66,7 @@ en ook mijn leven een functie heeft
 
 I wanted to have a cheerfull song. 
 I already knew how to play Schnappi, 
-as I use that melody in the song [Koud Bloed In Mijn Hart](KoudBloedInMijnHart.md).
+as I use that melody in the song [Koud Bloed In Mijn Hart](46_koud_bloed_in_mijn_hart.md).
 But in that song, I uses a dramatic version of the Schnappi melody. 
 But Schnappi should be fun! 
 
