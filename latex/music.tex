@@ -4,9 +4,12 @@
 % \begin{sloppypar}
 % \end{sloppypar}
 
-
+% Use slimmer margings
 \usepackage[a4paper, total={7in, 10in}]{geometry}
 
+% Show [number] [chapter title]
+% (that is, without a newline after the chapter number) 
+% From https://latex.org/forum/viewtopic.php?t=11650
 \usepackage{titlesec}
 \titleformat{\chapter}% reformat chapter headings
     [hang]% like section, with number on same line
@@ -15,6 +18,10 @@
     {0.5em}% space between # and title
     {}% formatting applied just to title
 
+% Remove vertical space in TOC between all chapters
+% From https://tex.stackexchange.com/questions/235592/remove-vertical-space-between-several-chapters-in-toc
+\usepackage{tocloft}
+\setlength{\cftbeforechapskip}{0cm}
 
 % Just try to parse, do not ask for input
 \nonstopmode
