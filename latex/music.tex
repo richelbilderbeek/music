@@ -1,8 +1,6 @@
-\documentclass{book}
-
-% Just to have them already
-% \begin{sloppypar}
-% \end{sloppypar}
+% Do not add black pages at the end of a page
+% From https://stackoverflow.com/a/1359496
+\documentclass[oneside]{book}
 
 % Use slimmer margings
 \usepackage[a4paper, total={7in, 10in}]{geometry}
@@ -31,6 +29,11 @@
 \usepackage[numbers]{natbib}
 % For regular style:
 % \usepackage{natbib}
+
+% Just to have them already
+% \begin{sloppypar}
+% \end{sloppypar}
+
 
 
 %\bibpunct{(}{)}{;}{a}{}{;}
