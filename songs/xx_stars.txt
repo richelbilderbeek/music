@@ -1,7 +1,5 @@
 Stars
 
- * Parody on 'Stars' by Charly Lownoise & Mental Theo
- 
 [INTRO]
 B F# G#m E
 B F# E F#
