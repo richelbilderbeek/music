@@ -12,14 +12,6 @@
  * [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.mp3)
  * [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.mp3)
 
-	10_hendriklied_2.png
-	13_hendriklied_3-0.png
-	13_hendriklied_3-1.png
-	14_come_home_darling-0.png
-	14_come_home_darling-1.png
-	21_wooloo_mooloo.png
-	24_de_lul.png
-
 ## [Lyrics](21_wooloo_mooloo.txt)
 
 See [here](21_wooloo_mooloo.txt)
