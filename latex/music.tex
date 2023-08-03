@@ -7,6 +7,14 @@
 
 \usepackage[a4paper, total={7in, 10in}]{geometry}
 
+\usepackage{titlesec}
+\titleformat{\chapter}% reformat chapter headings
+    [hang]% like section, with number on same line
+    {\Huge\bfseries}% formatting applied to whole
+    {\thechapter}% Chapter number
+    {0.5em}% space between # and title
+    {}% formatting applied just to title
+
 
 % Just try to parse, do not ask for input
 \nonstopmode
@@ -87,11 +95,11 @@
 
 \begin{document}
 
-\maketitle
+% \maketitle
 
 \tableofcontents
 
-\chapter{Songs}
+%  \chapter{Songs}
 
 \include{01_maanliedje}
 \include{02_grote_gele_sinaasappel}
