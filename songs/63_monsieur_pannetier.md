@@ -2,6 +2,9 @@
 
 'Monsier Pannetier' is a parody on the song 'Monsier Cannibale' by Sacha Distel.
 
+ * [View the sheet music of 'Monsier Pannetier' (png)](63_monsieur_pannetier.png)
+ * [View the ABC notation file of 'Monsier Pannetier'](63_monsieur_pannetier.abc)
+
 ## [Lyrics](63_monsieur_pannetier.txt)
 
 See [here](63_monsieur_pannetier.txt).
