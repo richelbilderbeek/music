@@ -14,27 +14,22 @@ V:V2 clef=bass
 %
 % 1-4
 %
-[V:V1] A2     c  e     | d2 z  c   | e2       e/2 d/2 e    | e2   d   c      |
-w:     Alheb  je blauw | haar, dan | wil      dat nog niet | zeg- gen dat,   |
-[V:V2] F,,C,F,z        | G,,D,G,z  | A,,E,A,z              | G,,D,G,z        |
-%      F               | G         | A                     | G               |
+[V:V1] "F5"A2 c  e     | "G5"d2 z c   | "A5"e2 e/2 d/2 e    | "G5"e2   d   c   |
+w:     Alheb  je blauw | haar,    dan | wil    dat nog niet | zeg- gen dat,    |
+[V:V2] F,,C,F,z        | G,,D,G,  z   | A,,E,A,z            | G,,D,G,z         |
 %
 % 5-8
 %
-[V:V1] z2 A    c  | e2   d  e   | z2 z e   | e d c B    | 
-w:        dat  ik | met je paar |          |            |
-[V:V2] F,,C,F,z   | G,,D,G,z    | A,,E,A,z | G,,D,G,z   |
-%      F          | G           | A        | G          |
+[V:V1] "F5"z2 A  c | "G5"e2   d  e | "A5"z2 z e | "G5"e d c B | 
+w:        dat  ik  | met je paar   |            |             |
+[V:V2] F,,C,F,z    | G,,D,G,z      | A,,E,A,z   | G,,D,G,z    |
 %
 % 9-12
 %
-[V:V1] z2 z      f   | f e d e   | z2 z e      | e d c B    | 
-[V:V2] F,,C,F,z      | G,,D,G,z  | A,,E,A,z    | G,,D,G,z   |
-%      F             | G         | A           | G          |
+[V:V1] "F5"z2 z f | "G5"f e d e | "A5"z2 z e | "G5"e d c B | 
+[V:V2] F,,C,F,z   | G,,D,G,z    | A,,E,A,z   | G,,D,G,z    |
 %
 % 13-16
 %
-[V:V1] z2 z     f | f2 e2      |[c4e4]       | z4         |
-[V:V2] F,,C,F,z   | G,,D,G,z   | A,,E,A,z    | G,,D,G,z   |
-%      F          | G          | A           | G          |
-
+[V:V1] "F5"z2 z f | "G5"f2 e2 |"A5"[c4e4] | "G5"z4   |
+[V:V2] F,,C,F,z   | G,,D,G,z  | A,,E,A,z  | G,,D,G,z |
