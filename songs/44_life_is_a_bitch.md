@@ -7,6 +7,28 @@
 
 See [here](44_life_is_a_bitch.txt).
 
+## Removed lyrics
+
+```
+A very long time ago
+I was in Bristol
+and I wanted to go clubbing
+
+But at first
+I only found clubs
+that were shitty 
+and had many windows
+
+Then after a while
+I found a club
+without windows and a short queue
+
+But when
+I was to go in
+into the Halifax
+I found out it was a money machine
+```
+
 ## Background
 
 This was an on-the-fly translation of [Het Leven Is Naar](18_het_leven_is_naar.md), as I feel
