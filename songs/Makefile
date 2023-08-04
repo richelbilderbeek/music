@@ -15,7 +15,14 @@ all: ${PNGS}
 #   <policy domain="coder" rights="read | write" pattern="PS" />
 #
 # just before </policymap> in /etc/ImageMagick-6/policy.xml
-
+#
+# When the target PNG already exists, it will be deleted, because
+#   (1) For a single-page sheet music: 
+#       ImageMagick (`convert`) must overwrite it
+#   (2) For a multi-page sheet music: 
+#       the combined/target PNG will only be created 
+#       when the target file does not exists.
+#
 %.png: %.abc
 	abcm2ps $<
 	[ -f $@ ] && rm $@
