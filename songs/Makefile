@@ -37,4 +37,8 @@ all: ${PNGS} ${MIDIS} ${WAVS}
 %.wav: %.mid %.conf
 	perl ../../ecantorix/ecantorix.pl -O wav -o $@ $<
 
-
+clean:
+	rm -f _default_*.pitch
+	rm -f _default_*.wav
+	rm -f Out.ps
+	rm -rf tmp
