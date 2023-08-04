@@ -3,8 +3,9 @@
 
 ABCS := $(wildcard *.abc)
 PNGS := $(ABCS:%.abc=%.png)
+MIDIS := $(ABCS:%.abc=%.mid)
 
-all: ${PNGS}
+all: ${PNGS} ${MIDIS}
 
 .PHONY = all
 
@@ -29,8 +30,8 @@ all: ${PNGS}
 	convert -density 150 Out.ps -trim $@
 	[ ! -f $@ ] && montage -mode concatenate -tile 1x $(basename $@)-*.png $@
 
+%.mid: %.abc
+	abc2midi $< -o $@
 
 
-#01_maanliedje.png: 01_maanliedje.abc
-#	abcm2ps 01_maanliedje.abc
-#	convert -density 150 Out.ps -trim 01_maanliedje.png
+
