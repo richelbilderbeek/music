@@ -19,6 +19,9 @@ all: ${PNGS}
 %.png: %.abc
 	abcm2ps $<
 	convert -density 150 Out.ps -trim $@
+	[ ! -f $@ ] && montage -mode concatenate -tile 1x $(basename $@)-*.png $@
+
+
 
 #01_maanliedje.png: 01_maanliedje.abc
 #	abcm2ps 01_maanliedje.abc
