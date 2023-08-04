@@ -4,8 +4,9 @@
 ABCS := $(wildcard *.abc)
 PNGS := $(ABCS:%.abc=%.png)
 MIDIS := $(ABCS:%.abc=%.mid)
+WAVS := $(ABCS:%.abc=%.wav)
 
-all: ${PNGS} ${MIDIS}
+all: ${PNGS} ${MIDIS} ${WAVS}
 
 .PHONY = all
 
@@ -33,5 +34,7 @@ all: ${PNGS} ${MIDIS}
 %.mid: %.abc
 	abc2midi $< -o $@
 
+%.wav: %.mid %.conf
+	perl ../../ecantorix/ecantorix.pl -O wav -o $@ $<
 
 
