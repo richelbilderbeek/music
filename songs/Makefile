@@ -24,6 +24,7 @@ all: ${PNGS}
 #       when the target file does not exists.
 #
 %.png: %.abc
+	rm -f $@
 	abcm2ps $<
 	convert -density 150 Out.ps -trim $@
 	[ ! -f $@ ] && montage -mode concatenate -tile 1x $(basename $@)-*.png $@
