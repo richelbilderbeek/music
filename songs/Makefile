@@ -5,8 +5,9 @@ ABCS := $(wildcard *.abc)
 PNGS := $(ABCS:%.abc=%.png)
 MIDIS := $(ABCS:%.abc=%.mid)
 WAVS := $(ABCS:%.abc=%.wav)
+OGGS := $(ABCS:%.abc=%.ogg)
 
-all: ${PNGS} ${MIDIS} ${WAVS}
+all: ${PNGS} ${MIDIS} ${WAVS} ${OGGS}
 
 .PHONY = all
 
@@ -36,6 +37,9 @@ all: ${PNGS} ${MIDIS} ${WAVS}
 
 %.wav: %.mid %.conf
 	perl ../../ecantorix/ecantorix.pl -O wav -o $@ $<
+
+#%.ogg: %.wav
+#	avconv -i $< $@
 
 clean:
 	rm -f _default_*.pitch
