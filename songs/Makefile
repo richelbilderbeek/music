@@ -18,6 +18,7 @@ all: ${PNGS}
 
 %.png: %.abc
 	abcm2ps $<
+	[ -f $@ ] && rm $@
 	convert -density 150 Out.ps -trim $@
 	[ ! -f $@ ] && montage -mode concatenate -tile 1x $(basename $@)-*.png $@
 
