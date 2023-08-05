@@ -7,7 +7,9 @@ MIDIS := $(ABCS:%.abc=%.mid)
 WAVS := $(ABCS:%.abc=%.wav)
 OGGS := $(ABCS:%.abc=%.ogg)
 
-all: ${PNGS} ${MIDIS} ${WAVS} ${OGGS}
+# ${WAVS}
+# ${OGGS}
+all: ${PNGS} ${MIDIS} 
 
 .PHONY = all
 
