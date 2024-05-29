@@ -32,6 +32,10 @@ Nr |Title
 [Reviews of Richel Bilderbeek's songs](https://github.com/richelbilderbeek/RichelBilderbeekReviews)
 can be found [here](https://github.com/richelbilderbeek/RichelBilderbeekReviews).
 
+## How to build
+
+- Last phase: `cd latex`, then run `create.sh`
+
 ## Formations
 
 ### The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet
