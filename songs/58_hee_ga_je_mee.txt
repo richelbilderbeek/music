@@ -1,9 +1,13 @@
 Hee Ga Je Mee
 
 [CHORUS]
+G         D       
 Hee ga je mee
+    Em                        Bm
 dan gaan we een eindje eindje lopen
+C             D 
 over de gele stenen
+              G    C
 van Groningen stad
 
 Hee ga je mee
@@ -12,15 +16,21 @@ enkel ons instinct
 bepaalt ons pad
 
 [VERSE]
+Em                        
 Ik ken vele kroegen
+Bm
 van bijna elke hoek
-waar niemand 
-ooit vaak is geweest
-
-Dan gaan we daar naar avonturen op zoek
+Em                D       G
+waar niemand ooit vaak is geweest
+Em                        
+Dan gaan we daar naar 
+Bm
+avonturen op zoek
+Em        G                     B
 waar je in de krant nooit over leest
-geen idee wanneer je weer thuis bent
+C             D                  G
 tot de vogelkes weer fluiten wordt het feest
+
 
 [CHORUS]
 Hee ga je mee
