@@ -60,6 +60,7 @@ Geert did the piano in the other songs and did the vocals.
 
  * [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
  * [kohina.com](http://www.kohina.com/): retro game music
+ * [radiohdfm](https://www.twitch.tv/radiohdfm): Dutch AI radio
  * [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
  * [rpgamers.net](http://www.rpgamers.net/radio): retro game music
 
