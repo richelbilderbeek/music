@@ -4,8 +4,10 @@ Maanliedje is written by 'Het Bilderbeek
 Bilderbeek & Bogaart Bogaart Quartet', somewhere before the 21th
 September of 2000
 
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.ogg)
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Maanliedje' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_02Maanliedje.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Maanliedje, Disco Remix' (recorded somewhere around 2002, with the BB&BBQ)](http://www.richelbilderbeek.nl/CD01_06MaanliedjeDisco.ogg)
 - [Download 'Maanliedje' (mid)](http://www.richelbilderbeek.nl/SongMaanliedje.mid)
 - [View the sheet music of 'Maanliedje' (png)](01_maanliedje.png)
 - [View the sheet music of 'Maanliedje' (ps)](01_maanliedje.ps)

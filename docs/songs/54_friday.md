@@ -5,7 +5,8 @@ improvement of Rebecca Black's 'Friday' (note no quotation marks).
 Although I do like the original, I have read all critiques on it and
 implemented those.
 
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
 - [View the sheet music of 'Friday' (ps)](54_friday.ps)
 - [View the sheet music of 'Friday' (png)](54_friday.png)
 - [View the ABC notation file of '"Friday"'](54_friday.abc)

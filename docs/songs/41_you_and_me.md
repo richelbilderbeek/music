@@ -4,8 +4,10 @@
 including 1st July 2005 for the boyband 'The Loveboys'. Too bad the band
 seperated before its first performance.
 
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2007)](http://www.richelbilderbeek.nl/CD06_18YouAndMe.ogg)
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'You And Me' (recorded somewhere around 2007)](http://www.richelbilderbeek.nl/CD06_18YouAndMe.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'You And Me' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_18YouAndMe.ogg)
 - [View the 'You And Me' sheet music (melody only)(png)](41_you_and_me.png)
 - [View the 'You And Me' sheet music (melody only)(ps)](41_you_and_me.ps)
 - [View the ABC notation file of 'You And Me'](41_you_and_me.abc)

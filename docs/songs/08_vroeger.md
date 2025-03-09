@@ -4,7 +4,8 @@
 Lyrics are written by Richel Bilderbeek, Geert van den Bogaart and
 Joost van den Bogaart on April 18th 2002.
 
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Vroeger' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_15Vroeger.ogg)
 - [View the ABC notation file of 'Vroeger'](08_vroeger.abc)
 - [View the sheet music of 'Vroeger' (from abc)(png)](08_vroeger.png)
 - [View the sheet music of 'Vroeger' (from abc)(ps)](08_vroeger.ps)
