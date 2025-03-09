@@ -14,7 +14,7 @@ See [here](57_superman_b.txt).
 
 ## Cut-out lyrics
 
-```
+```text
 ?[COUPLET]
 Jij bent nu waarschijnlijk oranje
 en helemaal los aan het gaan.

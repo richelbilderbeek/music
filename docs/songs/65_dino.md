@@ -64,7 +64,7 @@ Och för att jag åt också benen, så nu klandras leopard            |But I als
 Det var länge sedan en i dit liv sjunger jag en sång              |That was long ago and in this life I sing a song
 Nu är jag alltid lite som en dino och du är min fång              |Now I still a lite like a dinosaur and you are my prey
 
-```
+```text
 TG: Jag har tänkt lite grann på vad som kunde hända mig idag
 EN: I have thought a little what could have happened with me in the past
 RB: Jag är från Nederländerna men jag är inte född i Den Haag
@@ -193,7 +193,7 @@ EN: Now I still a lite like a dinosaur and you are my prey
 
 [Tabs from www.ultimate-guitar.com](https://tabs.ultimate-guitar.com/tab/1904090):
 
-```
+```text
 [Verse 1]
 
  C       C                          C               C

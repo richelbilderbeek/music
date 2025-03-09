@@ -9,7 +9,7 @@ See [here](44_life_is_a_bitch.txt).
 
 ## Removed lyrics
 
-```
+```text
 A very long time ago
 I was in Bristol
 and I wanted to go clubbing
