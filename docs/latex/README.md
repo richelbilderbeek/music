@@ -4,8 +4,6 @@ I use LaTeX to create this booklet.
 
 The `.tex` files combine the `.txt` files and `.png` sheet music files.
 
-
-
 ## Select a range of a PDF
 
 ```

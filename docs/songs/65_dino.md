@@ -1,10 +1,10 @@
 # Dino
 
- * Parody on 'Viking' by Ted Gärdestad
+* Parody on 'Viking' by Ted Gärdestad
 
- * [View the sheet music of 'Dino' 1/3 (png)](65_dino-0.png)
- * [View the sheet music of 'Dino' 2/3 (png)](65_dino-1.png)
- * [View the ABC notation file of 'Dino'](65_dino.abc)
+* [View the sheet music of 'Dino' 1/3 (png)](65_dino-0.png)
+* [View the sheet music of 'Dino' 2/3 (png)](65_dino-1.png)
+* [View the ABC notation file of 'Dino'](65_dino.abc)
 
 ## [Lyrics](65_dino.txt)
 

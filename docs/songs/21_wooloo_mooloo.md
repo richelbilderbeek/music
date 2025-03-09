@@ -2,15 +2,15 @@
 
 'Wooloo Mooloo' is composed and lyrics written by Richel Bilderbeek, on the 12th of August 2003.
 
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.ogg)
- * [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.ogg)
- * [View a YouTube clip of 'Wooloo Mooloo' (made by Jordy Kuiper)](http://www.youtube.com/watch?v=CDcEgycIWNg)
- * [View the sheet music of 'Wooloo Mooloo' (png)](21_wooloo_mooloo.png)
- * [View the ABC notation file of 'Wooloo Mooloo'](21_wooloo_mooloo.abc)
- * [Download the MP3 of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.mp3)
- * [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.mp3)
- * [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.mp3)
+* [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.ogg)
+* [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.ogg)
+* [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.ogg)
+* [View a YouTube clip of 'Wooloo Mooloo' (made by Jordy Kuiper)](http://www.youtube.com/watch?v=CDcEgycIWNg)
+* [View the sheet music of 'Wooloo Mooloo' (png)](21_wooloo_mooloo.png)
+* [View the ABC notation file of 'Wooloo Mooloo'](21_wooloo_mooloo.abc)
+* [Download the MP3 of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.mp3)
+* [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.mp3)
+* [Download the MP3 of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.mp3)
 
 ## [Lyrics](21_wooloo_mooloo.txt)
 
@@ -29,7 +29,7 @@ and was dancing 'als een lachende god' (EN: 'like a laughing god').
 When I ordered a drink at the bar, I overheard two student girls
 talk about how life works and I completely disagreed. They were
 talking about 'een leven dat ik toch niet zal snappen' (EN: 'a
-life that I would never understand'). I listened in silence, 
+life that I would never understand'). I listened in silence,
 'om niet de sfeer te verpested' (EN: 'to not ruin the atmosphere').
 As I walked to the loo, there was a couple kissing and so drunk that
 they nearly collided with the wall. At the men's, there were
@@ -42,13 +42,13 @@ I do try to fake so during a performance, but -as a bad actor-,
 I assume to fail.
 
 'Wooloo Mooloo' it is one of the fans' favorite songs.
-Some of my students even made [a YouTube video](https://youtu.be/CDcEgycIWNg) 
-from a recording. 
+Some of my students even made [a YouTube video](https://youtu.be/CDcEgycIWNg)
+from a recording.
 
-Note that I misspell the name of the disco. I guess 
+Note that I misspell the name of the disco. I guess
 I misremembered the name, then kept it as such for
 historical reasons.
 
 ## External links
 
- * [Wooloomooloo homepage](http://woolloomooloo.nl)
+* [Wooloomooloo homepage](http://woolloomooloo.nl)

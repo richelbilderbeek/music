@@ -1,4 +1,4 @@
-From https://tabs.ultimate-guitar.com/tab/basshunter/boten-anna-chords-1832652
+From <https://tabs.ultimate-guitar.com/tab/basshunter/boten-anna-chords-1832652>
 
 [CHORUS 1]
               Am
@@ -9,11 +9,10 @@ Hon heter Anna, Anna heter hon,
 och hon kan banna, banna dig så hårt
           F                 G
 Hon röjer upp i våran kanal.
- 
+
            C             G/B               Am  n.c.
 Jag vill berätta för dig att jag känner en bot.
- 
- 
+
 [CHORUS 2]
               Am
 Jag känner en bot
@@ -25,8 +24,7 @@ och hon kan banna, banna dig så hårt
 Hon röjer upp i våran kanal.
            C             G/B               Am
 Jag vill berätta för dig att jag känner en bot,
- 
- 
+
 [VERSE 1]
            F                  G
 som alltid vaktar alla som är här,
@@ -36,8 +34,7 @@ och som ser till att vi blir u - tan besvär.
 Det finns ingen take-over som ly - ckas.
      C              G/B               Am
 Kom ihåg att det är jag som känner en bot.
- 
- 
+
 [VERSE 2]
            F                  G
 En bot som ingen, ingen annan slår
@@ -47,14 +44,13 @@ Och hon kan kicka u - tan att hon får
 Hon gör sig av med alla som spam - mar
    C            G/B         Am n.c.
 Ja ingen kan slå   våran bot
- 
- 
+
 [INTERLUDE]
 Am | F | G | C G/B |
 Am | F | G | C G/B |
 Am
 Ready for take off
- 
+
 (breakdown)
 Am | F | G | C G/B |
 Am | F | G | C G/B |
@@ -66,8 +62,7 @@ Am | F | G | C G/B |
 Am | F | G | C G/B |
 Am | F | G | C G/B |
 Am | |
- 
- 
+
 [VERSE 3]
 Am                F                     G
     Då kom den da - gen jag inte trodde fanns
@@ -77,8 +72,7 @@ Am                F                     G
     Jag trodde aldrig att jag hade så fel
             C              G/B
     Men när Anna skrev och sa
- 
- 
+
 [VERSE 4]
              Am
 Jag är ingen bot
@@ -90,8 +84,7 @@ som nu tyvärr är väldigt främmande för mig.
 Men det finns inget som behöver förkla - ras,
 n.c.                             Am
 för i mina ögon är hon alltid en bot
- 
- 
+
 [CHORUS 3]
           F                G
 Hon heter Anna, Anna heter hon,
@@ -101,8 +94,7 @@ och hon kan banna, banna dig så hårt
 Hon röjer upp i våran kanal.
            C             G/B               Am
 Jag vill berätta för dig att jag känner en bot
- 
- 
+
 [VERSE 1]
            F                  G
 som alltid vaktar alla som är här,
@@ -112,8 +104,7 @@ och som ser till att vi blir u - tan besvär.
 Det finns ingen take-over som ly - ckas.
      C              G/B               Am
 Kom ihåg att det är jag som känner en bot.
- 
- 
+
 [VERSE 2]
            F                  G
 En bot som ingen, ingen annan slår

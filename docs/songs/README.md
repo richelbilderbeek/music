@@ -1,9 +1,9 @@
 # Songs
 
-> All music on this website is encouraged 
+> All music on this website is encouraged
 > to be downloaded and copied in their original form.
 > It is not allowed to modify any of these files, except
-> for making parodies. 
+> for making parodies.
 > Copyright remains at the author(s) of the songs.
 
 Nr |Date        |Name
@@ -93,5 +93,3 @@ Nr |Date        |Name
 .  | 20??-??-?? | [Stars](xx_stars.md)
 .  | 202?-??-?? | [Your Smile](xx_your_smile.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
-
-
