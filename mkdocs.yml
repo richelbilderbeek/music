@@ -14,7 +14,7 @@ theme:
   font:
     text: Lato
     code: JetBrains Mono
-  logo: logo/r_writtem.png
+  logo: logo/r_written.png
   palette:
     primary: indigo
 
