@@ -1,8 +1,10 @@
 # Life Is A Bitch
 
 - [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
-  [Download the OGG of 'Life Is A Bitch' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_15LifeIsAbitch.ogg)
-- [Download the MP3 of 'Life Is A Bitch' (recorded somewhere around 2006)](http://www.richelbilderbeek.nl/CD05_15LifeIsAbitch.mp3)
+  [Download the OGG of 'Life Is A Bitch'](http://www.richelbilderbeek.nl/CD05_15LifeIsAbitch.ogg)
+  (recorded somewhere around 2006)
+- [Download the MP3 of 'Life Is A Bitch'](http://www.richelbilderbeek.nl/CD05_15LifeIsAbitch.mp3)
+  (recorded somewhere around 2006)
 
 ## [Lyrics](44_life_is_a_bitch.txt)
 
