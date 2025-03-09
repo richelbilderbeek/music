@@ -1,5 +1,8 @@
-From <https://tabs.ultimate-guitar.com/tab/basshunter/boten-anna-chords-1832652>
+# Boten Anna
 
+- Chords from [https://tabs.ultimate-guitar.com](https://tabs.ultimate-guitar.com/tab/basshunter/boten-anna-chords-1832652)
+
+```text
 [CHORUS 1]
               Am
 Jag känner en bot
@@ -114,3 +117,4 @@ Och hon kan kicka u - tan att hon får
 Hon gör sig av med alla som spam - mar
    C            G/B         Am
 Ja ingen kan slå   våran bot
+```

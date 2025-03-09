@@ -2,14 +2,16 @@
 
 'Monsier Pannetier' is a parody on the song 'Monsier Cannibale' by Sacha Distel.
 
-* [View the sheet music of 'Monsier Pannetier' (png)](63_monsieur_pannetier.png)
-* [View the ABC notation file of 'Monsier Pannetier'](63_monsieur_pannetier.abc)
+- [View the sheet music of 'Monsier Pannetier' (png)](63_monsieur_pannetier.png)
+- [View the ABC notation file of 'Monsier Pannetier'](63_monsieur_pannetier.abc)
 
 ## [Lyrics](63_monsieur_pannetier.txt)
 
 See [here](63_monsieur_pannetier.txt).
 
 ## Lyrics with translation
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 French|English
 ---|---
@@ -41,6 +43,8 @@ Pendant 8 jours elles resta enfermé et il se enseigner en vain | For 8 days, th
 Et comme déjà il n'etait pas bien gros il perdit 20 kilos au moins | And as already he was not very fat he lost 20 kilos at least
 Quand arriva l'instant ou le perspicacité il fais comprendre sa temps est passé | When the moment of the great idea came, it made him understand he lost his time
 Prends ton tronçonneusion et retourne chez elles le pauvre femmes s'écria jamais | He took his chainsawion, returned to them, the poor women never cried again
+
+<!-- markdownlint-enable MD013 -->
 
 ## Background
 

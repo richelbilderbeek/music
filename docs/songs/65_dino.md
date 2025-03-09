@@ -1,16 +1,18 @@
 # Dino
 
-* Parody on 'Viking' by Ted Gärdestad
+- Parody on 'Viking' by Ted Gärdestad
 
-* [View the sheet music of 'Dino' 1/3 (png)](65_dino-0.png)
-* [View the sheet music of 'Dino' 2/3 (png)](65_dino-1.png)
-* [View the ABC notation file of 'Dino'](65_dino.abc)
+- [View the sheet music of 'Dino' 1/3 (png)](65_dino-0.png)
+- [View the sheet music of 'Dino' 2/3 (png)](65_dino-1.png)
+- [View the ABC notation file of 'Dino'](65_dino.abc)
 
 ## [Lyrics](65_dino.txt)
 
 See [here](65_dino.txt)
 
 ## Translation
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Swedish                                                           |English
 ------------------------------------------------------------------|--------------------------------------------------------------------
@@ -188,6 +190,8 @@ EN: Because I am stuck in my reality, so therefore I sing a song
 RB: Nu är jag alltid lite som en dino och du är min fång(st)
 EN: Now I still a lite like a dinosaur and you are my prey
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 ## Tabs
 

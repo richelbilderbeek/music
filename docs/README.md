@@ -62,7 +62,8 @@ Geert did the piano in the other songs and did the vocals.
 
 ## My favorite online webradio's
 
-- [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
+- [idobi.com](http://idobi.com): alternative music that is so repetitive
+  that it does not distract. Ideal for programming!
 - [kohina.com](http://www.kohina.com/): retro game music
 - [radiohdfm](https://www.twitch.tv/radiohdfm): Dutch AI radio
 - [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
@@ -71,7 +72,8 @@ Geert did the piano in the other songs and did the vocals.
 ## My favorite radios when using Google Assistant
 
 - `retro PC game`
-- `rainwave chiptune game music`, for [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
+- `rainwave chiptune game music`, for
+  [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
 - `starfm alternative`
 
 ## My favorite Jamendo artists

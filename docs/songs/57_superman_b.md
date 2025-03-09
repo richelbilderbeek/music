@@ -3,10 +3,10 @@
 'Superman B' is a song written by Richel Bilderbeek
 on the 30th of April 2013
 
-* [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.ogg)
-* [Download the MP3 of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.mp3)
-* [View the sheet music of 'Superman B' (png)](57_superman_b.png)
-* [View the ABC notation file of 'Superman B'](57_superman_b.abc)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.ogg)
+- [Download the MP3 of 'Superman B' (recorded on the 21st of July of 2013)](http://www.richelbilderbeek.nl/CD07_SupermanB20130621.mp3)
+- [View the sheet music of 'Superman B' (png)](57_superman_b.png)
+- [View the ABC notation file of 'Superman B'](57_superman_b.abc)
 
 ## [Lyrics](57_superman_b.txt)
 

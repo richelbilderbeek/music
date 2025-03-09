@@ -5,14 +5,14 @@ improvement of Rebecca Black's 'Friday' (note no quotation marks).
 Although I do like the original, I have read all critiques on it and
 implemented those.
 
-* [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
-* [View the sheet music of 'Friday' (ps)](54_friday.ps)
-* [View the sheet music of 'Friday' (png)](54_friday.png)
-* [View the ABC notation file of '"Friday"'](54_friday.abc)
-* [Download the MIDI music created from the ABC notation page of 'Friday' (mid)](http://www.richelbilderbeek.nl/SongFriday.mid)
-* [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](https://youtu.be/kfVsfOSbJY0)
-* [Go to the Rebecca Black homepage (htm)](http://rebeccablackonline.com)
-* [Download the MP3 of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.mp3)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.ogg)
+- [View the sheet music of 'Friday' (ps)](54_friday.ps)
+- [View the sheet music of 'Friday' (png)](54_friday.png)
+- [View the ABC notation file of '"Friday"'](54_friday.abc)
+- [Download the MIDI music created from the ABC notation page of 'Friday' (mid)](http://www.richelbilderbeek.nl/SongFriday.mid)
+- [Go to the YouTube clip of Rebecca Black's 'Friday' (htm)](https://youtu.be/kfVsfOSbJY0)
+- [Go to the Rebecca Black homepage (htm)](http://rebeccablackonline.com)
+- [Download the MP3 of '"Friday"' (recorded on the 12th of August of 2011)](http://www.richelbilderbeek.nl/CD07_Friday20110812.mp3)
 
 ## [Lyrics](54_friday.txt)
 

@@ -6,6 +6,8 @@
 > for making parodies.
 > Copyright remains at the author(s) of the songs.
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Nr |Date        |Name
 ---|------------|-------------------------------------------
 66 | 2022-..-.. | [Ljum](66_ljum.md)
@@ -85,6 +87,7 @@ Nr |Date        |Name
 ---|------------|-------------------------------------------
 .  | 201?-??-?? | [Ah! Les Crocodiles](xx_ah_les_crocodiles.md)
 .  | 2023-??-?? | [Banan](xx_banan.md)
+.  | 2025-03-06 | [Boten Anna](xx_boten_anna.md)
 .  | 20??-??-?? | [Dad](xx_dad.md)
 .  | 202?-??-?? | [Fakten](xx_fakten.md)
 .  | 202?-??-?? | [Forever Young](xx_forever_young.md)
@@ -93,3 +96,5 @@ Nr |Date        |Name
 .  | 20??-??-?? | [Stars](xx_stars.md)
 .  | 202?-??-?? | [Your Smile](xx_your_smile.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
+
+<!-- markdownlint-enable MD013 -->
