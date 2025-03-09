@@ -14,8 +14,8 @@ regularily.
 
 ## Songs
 
-* See [all songs](songs/README.md) (internet-friendly)
-* See [all sheet music (pdf)](books/music.pdf) (print-friendly)
+- See [all songs](songs/README.md) (internet-friendly)
+- See [all sheet music (pdf)](books/music.pdf) (print-friendly)
 
 ## CDs
 
@@ -34,7 +34,7 @@ can be found [here](https://github.com/richelbilderbeek/RichelBilderbeekReviews)
 
 ## How to build
 
-* Last phase: `cd latex`, then run `create.sh`
+- Last phase: `cd latex`, then run `create.sh`
 
 ## Formations
 
@@ -52,33 +52,33 @@ Geert did the piano in the other songs and did the vocals.
 
 #### The Fanstars performance videos
 
-* [The Fanstars playing Billy Jean in the Hoftheater](http://www.youtube.com/watch?v=EgAmhJSabLo)
-* [The Fanstars playing Anouk in VMBO 't Venster](http://www.youtube.com/watch?v=4idyFARjbeQ)
-* [Hans Witt's Fanstars page](http://home.kpn.nl/hanswitt/fanstars/index.htm)
+- [The Fanstars playing Billy Jean in the Hoftheater](http://www.youtube.com/watch?v=EgAmhJSabLo)
+- [The Fanstars playing Anouk in VMBO 't Venster](http://www.youtube.com/watch?v=4idyFARjbeQ)
+- [Hans Witt's Fanstars page](http://home.kpn.nl/hanswitt/fanstars/index.htm)
 
 ## My favorite online webradio's
 
-* [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
-* [kohina.com](http://www.kohina.com/): retro game music
-* [radiohdfm](https://www.twitch.tv/radiohdfm): Dutch AI radio
-* [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
-* [rpgamers.net](http://www.rpgamers.net/radio): retro game music
+- [idobi.com](http://idobi.com): alternative music that is so repetitive that it does not distract. Ideal for programming!
+- [kohina.com](http://www.kohina.com/): retro game music
+- [radiohdfm](https://www.twitch.tv/radiohdfm): Dutch AI radio
+- [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
+- [rpgamers.net](http://www.rpgamers.net/radio): retro game music
 
 ## My favorite radios when using Google Assistant
 
-* `retro PC game`
-* `rainwave chiptune game music`, for [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
-* `starfm alternative`
+- `retro PC game`
+- `rainwave chiptune game music`, for [rainwave.cc](https://rainwave.cc/chiptune): chiptune music
+- `starfm alternative`
 
 ## My favorite Jamendo artists
 
-* [Tricky-M](http://www.trickym.de.tl): German rap
-* [Cyborgjeff](http://www.studio-quena.be/cyborgjeff/blog): game music
-* [Orphan songs](http://www.orphansongs.com): pop
+- [Tricky-M](http://www.trickym.de.tl): German rap
+- [Cyborgjeff](http://www.studio-quena.be/cyborgjeff/blog): game music
+- [Orphan songs](http://www.orphansongs.com): pop
 
 ## External links
 
-* [my Jamendo artist page](https://www.jamendo.com/artist/367809/richel-bilderbeek)
-* [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
-* [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
-* [Online PS to PNG converter that allows multi-page PS files](https://www.imageconvert.org/ps-to-png)
+- [my Jamendo artist page](https://www.jamendo.com/artist/367809/richel-bilderbeek)
+- [my last.fm page](http://www.last.fm/music/Richel+Bilderbeek)
+- [Hatsune Miku singing the first thousand digits of pi](https://www.youtube.com/watch?v=TRR0H5NNfKs)
+- [Online PS to PNG converter that allows multi-page PS files](https://www.imageconvert.org/ps-to-png)
