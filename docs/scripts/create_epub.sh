@@ -19,16 +19,16 @@ mv music2.tex music.tex
 cat music.tex | sed 's/\\tightlist//' > music2.tex
 mv music2.tex music.tex
 
-echo "\documentclass{article}" > music2.tex
-echo " " >> music2.tex
-echo "\begin{document}" >> music2.tex
-echo " " >> music2.tex
-cat music.tex >> music2.tex
-echo " " >> music2.tex
-
-# NOT: echo "\end{document}" >> music2.tex
-printf '\end{document}' >> music2.tex
-
+{
+  printf '\documentclass{article}'
+  echo " "
+  printf '\begin{document}'
+  echo " "
+  cat music.tex
+  echo " "
+  printf '\end{document}'
+} > music2.tex
+ 
 mv music2.tex music.tex
 
 
