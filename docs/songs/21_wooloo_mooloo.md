@@ -2,9 +2,12 @@
 
 'Wooloo Mooloo' is composed and lyrics written by Richel Bilderbeek, on the 12th of August 2003.
 
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.ogg)
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.ogg)
-- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org) [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Wooloo Mooloo' (recorded on the 2nd September of 2006)](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2004)](http://www.richelbilderbeek.nl/CD03_17WoolooMooloo.ogg)
+- [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
+  [Download the OGG of 'Wooloo Mooloo' (recorded somewhere around 2003)](http://www.richelbilderbeek.nl/CD02_08WoolooMooloo.ogg)
 - [View a YouTube clip of 'Wooloo Mooloo' (made by Jordy Kuiper)](http://www.youtube.com/watch?v=CDcEgycIWNg)
 - [View the sheet music of 'Wooloo Mooloo' (png)](21_wooloo_mooloo.png)
 - [View the ABC notation file of 'Wooloo Mooloo'](21_wooloo_mooloo.abc)
@@ -23,7 +26,7 @@ rehearsed the melody.
 
 Then one day, I went as a student to the student disco called
 [Wooloomooloo](http://woolloomooloo.nl) in Utrecht. It
-was a disenchanting event: I overheared women being harassed
+was a disenchanting event: I overheard women being harassed
 by a guy one the dance floor that was said to have used cocaine
 and was dancing 'als een lachende god' (EN: 'like a laughing god').
 When I ordered a drink at the bar, I overheard two student girls
