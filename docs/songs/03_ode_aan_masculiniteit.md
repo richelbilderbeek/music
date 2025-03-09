@@ -1,6 +1,7 @@
 # Ode Aan Masculiniteit
 
-'Ode Aan Masculiniteit' is a song by the Bilderbeek Bilderbeek & Bogaart Bogaart Quartet
+'Ode Aan Masculiniteit' is a song by
+the Bilderbeek Bilderbeek & Bogaart Bogaart Quartet
 written somewhere between 2000-09-21 and 2-12-2001.
 
 - [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)

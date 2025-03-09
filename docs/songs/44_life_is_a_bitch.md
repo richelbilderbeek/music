@@ -34,5 +34,6 @@ I found out it was a money machine
 
 ## Background
 
-This was an on-the-fly translation of [Het Leven Is Naar](18_het_leven_is_naar.md), as I feel
+This was an on-the-fly translation of
+[Het Leven Is Naar](18_het_leven_is_naar.md), as I feel
 like making a high-quality translation.

@@ -1,6 +1,7 @@
 # Wooloo Mooloo
 
-'Wooloo Mooloo' is composed and lyrics written by Richel Bilderbeek, on the 12th of August 2003.
+'Wooloo Mooloo' is composed and lyrics written by
+Richel Bilderbeek, on the 12th of August 2003.
 
 - [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
   [Download the OGG of 'Wooloo Mooloo'](http://www.richelbilderbeek.nl/CD06_16WoolooMooloo20060902.ogg)
