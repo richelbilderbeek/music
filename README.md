@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
-[![Check bash](https://github.com/richelbilderbeek/music/actions/workflows/check_bash.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/music/actions/workflows/check_bash.yaml)
+[![Check bash](https://github.com/richelbilderbeek/music/actions/workflows/check_bash_style.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/music/actions/workflows/check_bash_style.yaml)
 [![Check links](https://github.com/richelbilderbeek/music/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/music/actions/workflows/check_links.yaml)
 [![Check markdown](https://github.com/richelbilderbeek/music/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/music/actions/workflows/check_markdown.yaml)
 [![Check spelling](https://github.com/richelbilderbeek/music/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/music/actions/workflows/check_spelling.yaml)
