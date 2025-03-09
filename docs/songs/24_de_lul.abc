@@ -1,0 +1,21 @@
+X:1
+T:De Lul
+C:Richel Bilderbeek
+L:1/4
+Q:1/4=144
+M:4/4
+K:Ab
+V:V1 clef=treble
+V:V2 clef=bass
+%
+% 1-4
+%
+[V:V1] b3  b   | "Ab5"b2  b/2 a/2  g | "Db5"b b    b   b   | "Bb5"b2 b/2  b/2  b | "Eb5"b2  b/2  b/2 b |
+w:     *   Had | ik  nu  maar geen   | pik,   want dan kon | ik he-  le-  maal   | me- zel- luf zijn   |
+[V:V2] z4      | A,, E, A, z         | D,     A,   D   z   | B,, F, B, z         | E, B, E z           |
+%
+% 5-8
+%
+[V:V1] b3 b    | "Ab5"b2  b/2 a/2  g | "Db5"b    b     b   b/2 b/2 | "Bb5"b2   b/2  b/2  b | "Eb5"b2 b/2 b/2 z |
+w:     *  maar | ik, ik  heb  een    | pik, daar-door wil ik       | diep in iem-   and-   | an-ders zijn      |
+[V:V2] z4      | A,, E, A, z         | D, A, D z                   | B,, F, B, z           | E, B, E z         |
