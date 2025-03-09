@@ -6,6 +6,7 @@ nav:
   - Start: README.md
   - Books: books/README.md
   - Songs: songs/README.md
+  - Bands: bands.md
 
 theme:
   name: material
