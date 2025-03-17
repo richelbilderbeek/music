@@ -3,7 +3,7 @@
 if [ -e music.tex ]; then rm music.tex; fi
 if [ -e music.epub ]; then rm music.epub; fi
 
-cat Discography.md | egrep "^[[:digit:]]" | egrep -o "\[.*\]" | egrep -o "[A-Za-z0-9\. ]*" | sed 's/^/ * /' > music.md
+cat Discography.md | grep -E "^[[:digit:]]" | grep -Eo "\[.*\]" | grep -Eo "[A-Za-z0-9\. ]*" | sed 's/^/ * /' > music.md
 
 echo "# Discography" > music2.md
 echo " " >> music2.md

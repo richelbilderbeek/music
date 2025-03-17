@@ -3,7 +3,7 @@
 mkdir booklet
 
 # Extract text (in code tags)
-for filename in `ls *.md | egrep -v "README\.md" | egrep -v "Abc\.md"` 
+for filename in `ls *.md | grep -Ev "README\.md" | grep -Ev "Abc\.md"` 
 do
   sed -n '/^```/,/^```/p' $filename > booklet/$filename
 done
@@ -18,7 +18,7 @@ do
   pandoc $filename -o $to
 done
 
-all_pdfs=`ls *.pdf | egrep -v "Booklet\.pdf" | egrep -v "Book\.pdf"`
+all_pdfs=$(ls *.pdf | grep -Ev "Booklet\.pdf" | grep -Ev "Book\.pdf")
 pdfunite $all_pdfs Book.pdf
 
 # Make booklet
