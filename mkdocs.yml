@@ -5,7 +5,7 @@ edit_uri: blob/main/docs/
 nav:
   - Start: README.md
   - Books: books/README.md
-  - Songs: cds.md
+  - CDs: cds.md
   - Songs: songs/README.md
   - Bands: bands.md
 
