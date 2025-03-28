@@ -12,11 +12,11 @@ mv music2.md music.md
 
 pandoc music.md -o music.tex
 
-cat music.tex | sed 's/\\label{discography}//' > music2.tex
+(sed 's/\\label{discography}//' < music.tex) > music2.tex
 mv music2.tex music.tex
 
 
-cat music.tex | sed 's/\\tightlist//' > music2.tex
+(sed 's/\\tightlist//' < music.tex) > music2.tex
 mv music2.tex music.tex
 
 {
