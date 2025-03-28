@@ -8,6 +8,13 @@ on February 14th 2015. Melody is from 'Pianoman' by Billy Joel.
 
 ## [Lyrics](62_pjanoman.txt)
 
+```text
+C  G  Am C
+F  C  D7 G
+C  G  Am C
+F  G  C
+```
+
 See [here](62_pjanoman.txt).
 
 ## Background
