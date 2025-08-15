@@ -96,5 +96,6 @@ Nr |Date        |Name
 .  | 20??-??-?? | [Stars](xx_stars.md)
 .  | 202?-??-?? | [Your Smile](xx_your_smile.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
+.  | 2024-??-?? | [Vandraren](xx_vandraren.md)
 
 <!-- markdownlint-enable MD013 -->
