@@ -1,5 +1,5 @@
 matrix:
-- name: markdown
+- name: English Markdown
   dictionary:
     wordlists:
     - .wordlist.txt
@@ -24,4 +24,68 @@ matrix:
   exclude:
   - docs/songs/19_het_leven_is_een_vuile_kolerelijer.md
   - docs/songs/66_ljum.md
+  - docs/cds.md
+  - docs/README.md
+  - docs/songs/01_maanliedje.md
+  - docs/songs/02_grote_gele_sinaasappel.md
+  - docs/songs/03_ode_aan_masculiniteit.md
+  - docs/songs/04_het_koffielied.md
+  - docs/songs/05_hendrik.md
+  - docs/songs/06_leontien.md
+  - docs/songs/07_kinderliefde.md
+  - docs/songs/08_vroeger.md
+  - docs/songs/09_hendriklied_1.md
+  - docs/songs/10_hendriklied_2.md
+  - docs/songs/11_rood_geluk.md
+  - docs/songs/12_o_mooie_geluidsvrouw.md
+  - docs/songs/13_hendriklied_3.md
+  - docs/songs/15_het_neukmenslied.md
+  - docs/songs/16_het_mentorkindjeslied.md
+  - docs/songs/17_hoggamus_higgamus.md
+  - docs/songs/18_het_leven_is_naar.md
+  - docs/songs/19_het_leven_is_een_vuile_kolerelijer.md
+  - docs/songs/20_al_heb_je_blauw_haar.md
+  - docs/songs/21_wooloo_mooloo.md
+  - docs/songs/22_mannen.md
+  - docs/songs/23_slaapliedje.md
+  - docs/songs/24_de_lul.md
+  - docs/songs/25_blauw.md
+  - docs/songs/26_morgenvroeg.md
+  - docs/songs/27_zonder_jou_weg.md
+  - docs/songs/28_klavierstueckchen.md
+  - docs/songs/29_dortmund.md
+  - docs/songs/30_die_rolltreppe_und_ich.md
+  - docs/songs/31_blau.md
+  - docs/songs/32_kaesemond.md
+  - docs/songs/33_wooloo_mooloo_de.md
+  - docs/songs/34_morgensfrueh.md
+  - docs/songs/35_wenn_du_haettest_blaue_haare.md
+  - docs/songs/36_der_schwanz.md
+  - docs/songs/38_das_leben_ist_mist.md
+  - docs/songs/39_das_kaffeelied.md
+  - docs/songs/46_koud_bloed_in_mijn_hart.md
+  - docs/songs/47_mijn_date_van_vrijdagavond.md
+  - docs/songs/48_achter_mijn_raam.md
+  - docs/songs/49_ben_ik_een_spin.md
+  - docs/songs/50_organellenwals.md
+  - docs/songs/51_stuk_eiwit.md
+  - docs/songs/52_heejaa_mama.md
+  - docs/songs/53_voor_de_klas.md
+  - docs/songs/55_vrouwen_van_je_dromen.md
+  - docs/songs/56_groningen_danst.md
+  - docs/songs/58_hee_ga_je_mee.md
+  - docs/songs/60_liefdeskapitein.md
+  - docs/songs/62_pjanoman.md
+  - docs/songs/63_monsieur_pannetier.md
+  - docs/songs/64_16777216_kleuren.md
+  - docs/songs/65_dino.md
+  - docs/songs/66_ljum.md
+  - docs/songs/geert_rare_stoel.md
+  - docs/songs/joost_uit_de_sleur.md
+  - docs/songs/unrecorded_das_leben_ist_ein_grosser_mistkerl.md
+  - docs/songs/xx_ah_les_crocodiles.md
+  - docs/songs/xx_banan.md
+  - docs/songs/xx_moordenaars.md
+  - docs/songs/xx_vaar_julskinka_har_rymt.md
+  - docs/songs/xx_vandraren.md
   default_encoding: utf-8
