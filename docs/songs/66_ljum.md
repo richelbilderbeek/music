@@ -2,7 +2,7 @@
 
 - Song title: 'Ljum'
 - Artist name: Tom10
-- Sheet music [here (pdf)](66_ljum.pdf),
+- [Ljum sheet music](66_ljum.pdf),
   by [Theddy Keys](https://www.fiverr.com/theddykeys)
 
 ## [Lyrics](66_ljum.txt)

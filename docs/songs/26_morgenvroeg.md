@@ -11,4 +11,4 @@ on June 3rd of 2004.
 
 ## [Lyrics](26_morgenvroeg.txt)
 
-See [here](26_morgenvroeg.txt).
+See [26_morgenvroeg.txt](26_morgenvroeg.txt).
