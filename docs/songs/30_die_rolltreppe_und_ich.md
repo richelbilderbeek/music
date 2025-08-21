@@ -9,4 +9,4 @@ by Richel Bilderbeek on January 29th 2005.
 
 ## [Lyrics](30_die_rolltreppe_und_ich.txt)
 
-See [here](30_die_rolltreppe_und_ich.txt).
+See [30_die_rolltreppe_und_ich.txt](30_die_rolltreppe_und_ich.txt).

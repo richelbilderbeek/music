@@ -15,7 +15,7 @@ It is a parody of 'Margarita' by Marco Borsato.
 
 ## [Lyrics](15_het_neukmenslied.txt)
 
-See [here](15_het_neukmenslied.txt).
+See [15_het_neukmenslied.txt](15_het_neukmenslied.txt).
 
 ## Background
 

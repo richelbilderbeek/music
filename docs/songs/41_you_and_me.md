@@ -16,7 +16,7 @@ seperated before its first performance.
 
 ## [Lyrics](41_you_and_me.txt)
 
-See [here](41_you_and_me.txt).
+See [41_you_and_me.txt](41_you_and_me.txt).
 
 ## Background
 

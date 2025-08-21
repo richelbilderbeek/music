@@ -10,4 +10,4 @@ at August 4th 2012. The title refers to the ballroom dancing school
 
 ## [Lyrics](56_groningen_danst.txt)
 
-See [here](56_groningen_danst.txt).
+See [56_groningen_danst.txt](56_groningen_danst.txt).

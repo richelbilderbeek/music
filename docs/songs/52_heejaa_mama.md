@@ -11,4 +11,4 @@ It is a parody on 'Heyah Mama' from K3.
 
 ## [Lyrics](52_heejaa_mama.txt)
 
-See [here](52_heejaa_mama.txt).
+See [52_heejaa_mama.txt](52_heejaa_mama.txt).

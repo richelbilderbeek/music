@@ -12,7 +12,7 @@ written by me on the 14th September 2002.
 
 ## [Lyrics](16_het_mentorkindjeslied.txt)
 
-See [here](16_het_mentorkindjeslied.txt).
+See [16_het_mentorkindjeslied.txt](16_het_mentorkindjeslied.txt).
 
 ```text
 Het Mentorkindjeslied

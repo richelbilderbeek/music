@@ -10,4 +10,4 @@ Melody used from 'Plank op wieltjes'.
 
 ## [Lyrics](51_stuk_eiwit.txt)
 
-See [here](51_stuk_eiwit.txt).
+See [51_stuk_eiwit.txt](51_stuk_eiwit.txt).

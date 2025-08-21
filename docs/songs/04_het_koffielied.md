@@ -20,7 +20,7 @@
 
 ## [Lyrics](04_het_koffielied.txt)
 
-See [here](04_het_koffielied.txt).
+See [04_het_koffielied.txt](04_het_koffielied.txt).
 
 ## Background
 

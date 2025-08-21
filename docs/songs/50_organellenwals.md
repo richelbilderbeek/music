@@ -11,4 +11,4 @@ on the 29th of September 2007.
 
 ## [Lyrics](50_organellenwals.txt)
 
-See [here](50_organellenwals.txt).
+See [50_organellenwals.txt](50_organellenwals.txt).

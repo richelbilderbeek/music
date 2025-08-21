@@ -9,7 +9,7 @@ Richel Bilderbeek in 2003. It is a parody on 'De Vlieger' of Andre Hazes.
 
 ## [Lyrics](19_het_leven_is_een_vuile_kolerelijer.txt)
 
-See [here](19_het_leven_is_een_vuile_kolerelijer.txt)
+See [19_het_leven_is_een_vuile_kolerelijer.txt](19_het_leven_is_een_vuile_kolerelijer.txt)
 
 ## Background
 

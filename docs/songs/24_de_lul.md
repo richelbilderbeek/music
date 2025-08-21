@@ -13,4 +13,4 @@
 
 ## [Lyrics](24_de_lul.txt)
 
-See [here](24_de_lul.txt).
+See [24_de_lul.txt](24_de_lul.txt).

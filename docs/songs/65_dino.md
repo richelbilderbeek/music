@@ -8,7 +8,7 @@
 
 ## [Lyrics](65_dino.txt)
 
-See [here](65_dino.txt)
+See [65_dino.txt](65_dino.txt)
 
 ## Translation
 

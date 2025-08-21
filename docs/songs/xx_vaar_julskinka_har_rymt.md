@@ -7,4 +7,4 @@
 
 ## [Lyrics](xx_vaar_julskinka_har_rymt.txt)
 
-See [here](xx_vaar_julskinka_har_rymt.txt).
+See [xx_vaar_julskinka_har_rymt.txt](xx_vaar_julskinka_har_rymt.txt).

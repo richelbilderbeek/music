@@ -8,4 +8,4 @@
 
 ## [Lyrics](xx_moordenaars.txt)
 
-See [here](xx_moordenaars.txt)
+See [xx_moordenaars.txt](xx_moordenaars.txt)

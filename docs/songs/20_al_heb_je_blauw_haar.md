@@ -16,7 +16,7 @@ by Richel Bilderbeek on April 5th 2003.
 
 ## [Lyrics](20_al_heb_je_blauw_haar.txt)
 
-See [here](20_al_heb_je_blauw_haar.txt).
+See [20_al_heb_je_blauw_haar.txt](20_al_heb_je_blauw_haar.txt).
 
 ## Background
 

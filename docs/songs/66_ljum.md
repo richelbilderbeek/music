@@ -7,7 +7,7 @@
 
 ## [Lyrics](66_ljum.txt)
 
-See [here](66_ljum.txt).
+See [66_ljum.txt](66_ljum.txt).
 
 ## Backstory
 

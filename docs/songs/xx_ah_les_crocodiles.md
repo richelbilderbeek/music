@@ -8,4 +8,4 @@
 
 ## [Lyrics](xx_ah_les_crocodiles.txt)
 
-See [here](xx_ah_les_crocodiles.txt).
+See [xx_ah_les_crocodiles.txt](xx_ah_les_crocodiles.txt).

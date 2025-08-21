@@ -9,4 +9,4 @@ translated around April 2005.
 
 ## [Lyrics](36_der_schwanz.txt)
 
-See [here](36_der_schwanz.txt).
+See [36_der_schwanz.txt](36_der_schwanz.txt).

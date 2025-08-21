@@ -18,4 +18,4 @@ December 2002 by Richel Bilderbeek.
 
 ## [Lyrics](18_het_leven_is_naar.txt)
 
-See [here](18_het_leven_is_naar.txt).
+See [18_het_leven_is_naar.txt](18_het_leven_is_naar.txt).

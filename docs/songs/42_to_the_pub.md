@@ -11,4 +11,4 @@ It is a parody of 'Postman Pat'.
 
 ## [Lyrics](42_to_the_pub.txt)
 
-See [here](42_to_the_pub.txt).
+See [42_to_the_pub.txt](42_to_the_pub.txt).

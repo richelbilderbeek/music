@@ -9,4 +9,4 @@ translated around April 2005.
 
 ## [Lyrics](38_das_leben_ist_mist.txt)
 
-See [here](38_das_leben_ist_mist.txt).
+See [38_das_leben_ist_mist.txt](38_das_leben_ist_mist.txt).

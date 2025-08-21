@@ -5,4 +5,4 @@ written around April 2005.
 
 ## [Lyrics](39_das_kaffeelied.txt)
 
-See [here](39_das_kaffeelied.txt)
+See [39_das_kaffeelied.txt](39_das_kaffeelied.txt)

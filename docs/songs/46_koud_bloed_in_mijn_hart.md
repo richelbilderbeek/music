@@ -9,4 +9,4 @@ and a parody on 'Schnappi'
 
 ## [Lyrics](46_koud_bloed_in_mijn_hart.txt)
 
-See [here](46_koud_bloed_in_mijn_hart.txt).
+See [46_koud_bloed_in_mijn_hart.txt](46_koud_bloed_in_mijn_hart.txt).

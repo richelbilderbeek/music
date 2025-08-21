@@ -8,7 +8,7 @@ German translation of [Blauw](25_blauw.md), around April 2005.
 
 ## [Lyrics](31_blau.txt)
 
-See [here](31_blau.txt).
+See [31_blau.txt](31_blau.txt).
 
 ## Background
 

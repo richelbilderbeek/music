@@ -9,7 +9,7 @@ written around April 2005.
 
 ## [Lyrics](37_das_fickmenschlied.txt]
 
-See [here](37_das_fickmenschlied.txt].
+See [37_das_fickmenschlied.txt](37_das_fickmenschlied.txt].
 
 ## Background
 

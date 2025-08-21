@@ -6,4 +6,4 @@
 
 ## [Lyrics](47_mijn_date_van_vrijdagavond.txt)
 
-See [here](47_mijn_date_van_vrijdagavond.txt).
+See [47_mijn_date_van_vrijdagavond.txt](47_mijn_date_van_vrijdagavond.txt).

@@ -15,7 +15,7 @@ Added minor changes on the 27th of May 2007. It is a parody of
 
 ## [Lyrics](49_ben_ik_een_spin.txt)
 
-See [here](49_ben_ik_een_spin.txt).
+See [49_ben_ik_een_spin.txt](49_ben_ik_een_spin.txt).
 
 ## Background
 

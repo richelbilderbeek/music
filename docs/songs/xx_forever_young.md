@@ -7,4 +7,4 @@
 
 ## [Lyrics](xx_forever_young.txt)
 
-See [here](xx_forever_young.txt).
+See [xx_forever_young.txt](xx_forever_young.txt).

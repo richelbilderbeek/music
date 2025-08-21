@@ -15,7 +15,7 @@ written by Richel Bilderbeek on April 5th 2002.
 
 ## [Lyrics](06_leontien.txt)
 
-See [here](06_leontien.txt).
+See [06_leontien.txt](06_leontien.txt).
 
 ## Background
 

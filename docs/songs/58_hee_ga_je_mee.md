@@ -17,4 +17,4 @@ Gerard van Maasakkers. The lyrics written by me on the 21st of June
 
 ## [Lyrics](58_hee_ga_je_mee.txt)
 
-See [here](58_hee_ga_je_mee.txt).
+See [58_hee_ga_je_mee.txt](58_hee_ga_je_mee.txt).

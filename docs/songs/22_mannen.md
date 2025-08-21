@@ -6,4 +6,4 @@
 
 ## [Lyrics](22_mannen.txt)
 
-See [here](22_mannen.txt).
+See [22_mannen.txt](22_mannen.txt).

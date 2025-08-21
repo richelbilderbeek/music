@@ -5,7 +5,7 @@ Melody from 'Schnappi' by Iris Gruttmann.
 
 ## [Lyrics](59_een.txt)
 
-See [here](59_een.txt).
+See [59_een.txt](59_een.txt).
 
 ## Background
 

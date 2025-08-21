@@ -18,7 +18,7 @@ September of 2000
 
 ## [Lyrics](01_maanliedje.txt)
 
-See [here](01_maanliedje.txt).
+See [01_maanliedje.txt](01_maanliedje.txt).
 
 ## Background
 

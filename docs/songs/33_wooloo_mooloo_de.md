@@ -6,4 +6,4 @@
 
 ## [Lyrics](33_wooloo_mooloo_de.txt)
 
-See [here](33_wooloo_mooloo_de.txt).
+See [33_wooloo_mooloo_de.txt](33_wooloo_mooloo_de.txt).

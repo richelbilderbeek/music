@@ -7,4 +7,4 @@
 
 ## [Lyrics](12_o_mooie_geluidsvrouw.txt)
 
-See [here](12_o_mooie_geluidsvrouw.txt).
+See [12_o_mooie_geluidsvrouw.txt](12_o_mooie_geluidsvrouw.txt).

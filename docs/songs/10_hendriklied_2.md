@@ -9,4 +9,4 @@ Annie M.G. Schmidt.
 
 ## [Lyrics](10_hendriklied_2.txt)
 
-See [here](10_hendriklied_2.txt).
+See [10_hendriklied_2.txt](10_hendriklied_2.txt).

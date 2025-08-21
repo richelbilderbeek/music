@@ -6,4 +6,4 @@ translated around April 2005.
 
 ## [Lyrics](unrecorded_das_leben_ist_ein_grosser_mistkerl.txt)
 
-See [here](unrecorded_das_leben_ist_ein_grosser_mistkerl.txt).
+See [unrecorded_das_leben_ist_ein_grosser_mistkerl.txt](unrecorded_das_leben_ist_ein_grosser_mistkerl.txt).

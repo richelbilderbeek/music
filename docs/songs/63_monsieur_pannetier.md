@@ -7,7 +7,7 @@
 
 ## [Lyrics](63_monsieur_pannetier.txt)
 
-See [here](63_monsieur_pannetier.txt).
+See [63_monsieur_pannetier.txt](63_monsieur_pannetier.txt).
 
 ## Lyrics with translation
 

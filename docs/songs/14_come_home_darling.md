@@ -17,7 +17,7 @@ on the 22nd June 2002.
 
 ## [Lyrics](14_come_home_darling.txt)
 
-See [here](14_come_home_darling.txt).
+See [14_come_home_darling.txt](14_come_home_darling.txt).
 
 ## Background
 

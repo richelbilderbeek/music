@@ -11,7 +11,7 @@ Parody on 'Friar Jacob'.
 
 ## [Lyrics](05_hendrik.txt)
 
-See [here](05_hendrik.txt)
+See [05_hendrik.txt](05_hendrik.txt)
 
 ## Background
 

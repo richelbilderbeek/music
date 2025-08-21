@@ -14,4 +14,4 @@ written on January 15th 2014. It is a parody on 'Liefdeskapitein' by K3.
 
 ## [Lyrics](60_liefdeskapitein.txt)
 
-See [here](60_liefdeskapitein.txt).
+See [60_liefdeskapitein.txt](60_liefdeskapitein.txt).

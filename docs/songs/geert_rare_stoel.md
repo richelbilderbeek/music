@@ -6,4 +6,4 @@ Bogaart Bogaart Quartet.
 
 ## [Lyrics](geert_rare_stoel.txt)
 
-See [here](geert_rare_stoel.txt).
+See [geert_rare_stoel.txt](geert_rare_stoel.txt).

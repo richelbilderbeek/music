@@ -9,4 +9,4 @@ Parody on 'Oh My Darling Clementine'.
 
 ## [Lyrics](09_hendriklied_1.txt)
 
-See [here](09_hendriklied_1.txt).
+See [09_hendriklied_1.txt](09_hendriklied_1.txt).

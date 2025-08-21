@@ -17,7 +17,7 @@ implemented those.
 
 ## [Lyrics](54_friday.txt)
 
-See [here](54_friday.txt).
+See [54_friday.txt](54_friday.txt).
 
 ## Explanation of the lyrics
 

@@ -9,4 +9,4 @@ and lyrics written by Richel Bilderbeek on November 2nd 2004.
 
 ## [Lyrics](28_klavierstueckchen.txt)
 
-See [here](28_klavierstueckchen.txt).
+See [28_klavierstueckchen.txt](28_klavierstueckchen.txt).

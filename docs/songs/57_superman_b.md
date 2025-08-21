@@ -13,7 +13,7 @@ on the 30th of April 2013
 
 ## [Lyrics](57_superman_b.txt)
 
-See [here](57_superman_b.txt).
+See [57_superman_b.txt](57_superman_b.txt).
 
 ## Cut-out lyrics
 

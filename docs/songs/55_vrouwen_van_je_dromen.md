@@ -11,7 +11,7 @@ and its current title was given to the song.
 
 ## [Lyrics](55_vrouwen_van_je_dromen.txt)
 
-See [here](55_vrouwen_van_je_dromen.txt).
+See [55_vrouwen_van_je_dromen.txt](55_vrouwen_van_je_dromen.txt).
 
 ## Background
 

@@ -8,7 +8,7 @@
 
 ## [Lyrics](44_life_is_a_bitch.txt)
 
-See [here](44_life_is_a_bitch.txt).
+See [44_life_is_a_bitch.txt](44_life_is_a_bitch.txt).
 
 ## Removed lyrics
 

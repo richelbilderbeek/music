@@ -10,4 +10,4 @@ on the 20th of April 2002.
 
 ## [Lyrics](11_rood_geluk.txt)
 
-See [here](11_rood_geluk.txt).
+See [11_rood_geluk.txt](11_rood_geluk.txt).

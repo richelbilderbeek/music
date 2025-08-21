@@ -7,4 +7,4 @@
 
 ## [Lyrics](45_plank_op_wieltjes.txt)
 
-See [here](45_plank_op_wieltjes.txt).
+See [45_plank_op_wieltjes.txt](45_plank_op_wieltjes.txt).

@@ -8,4 +8,4 @@
 
 ## [Lyrics](34_morgensfrueh.txt)
 
-See [here](34_morgensfrueh.txt)
+See [34_morgensfrueh.txt](34_morgensfrueh.txt)

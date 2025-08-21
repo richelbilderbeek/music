@@ -10,7 +10,7 @@ Veldhuis & Kemper.
 
 ## [Lyrics](53_voor_de_klas.txt)
 
-See [here](53_voor_de_klas.txt).
+See [53_voor_de_klas.txt](53_voor_de_klas.txt).
 
 ## Background
 

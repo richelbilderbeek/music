@@ -9,4 +9,4 @@ It is a parody on 'Mars' by K3.
 
 ## [Lyrics](61_mars.txt)
 
-See [here](61_mars.txt).
+See [61_mars.txt](61_mars.txt).

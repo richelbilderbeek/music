@@ -14,4 +14,4 @@
 
 ## [Lyrics](13_hendriklied_3.txt)
 
-See [here](13_hendriklied_3.txt).
+See [13_hendriklied_3.txt](13_hendriklied_3.txt).

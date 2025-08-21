@@ -16,7 +16,7 @@ Joost van den Bogaart on April 18th 2002.
 
 ## [Lyrics](08_vroeger.txt)
 
-See [here](08_vroeger.txt).
+See [08_vroeger.txt](08_vroeger.txt).
 
 ## Background
 

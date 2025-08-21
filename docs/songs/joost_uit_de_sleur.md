@@ -5,4 +5,4 @@ are written by Joost van den Bogaart on the 21st of April 2002.
 
 ## [Lyrics](joost_uit_de_sleur.txt)
 
-See [here](joost_uit_de_sleur.txt).
+See [joost_uit_de_sleur.txt](joost_uit_de_sleur.txt).

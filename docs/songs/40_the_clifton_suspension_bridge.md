@@ -9,7 +9,7 @@ by Richel Bilderbeek on May 24th to 27th May 2005.
 
 ## [Lyrics](40_the_clifton_suspension_bridge.txt)
 
-See [here](40_the_clifton_suspension_bridge.txt).
+See [40_the_clifton_suspension_bridge.txt](40_the_clifton_suspension_bridge.txt).
 
 ## Background
 

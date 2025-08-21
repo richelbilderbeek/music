@@ -9,7 +9,7 @@ on March 7th 2004.
 
 ## [Lyrics](25_blauw.txt)
 
-See [here](25_blauw.txt).
+See [25_blauw.txt](25_blauw.txt).
 
 ## Background
 

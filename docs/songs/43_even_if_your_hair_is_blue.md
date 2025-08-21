@@ -8,4 +8,4 @@
 
 ## [Lyrics](43_even_if_your_hair_is_blue.txt)
 
-See [here](43_even_if_your_hair_is_blue.txt).
+See [43_even_if_your_hair_is_blue.txt](43_even_if_your_hair_is_blue.txt).

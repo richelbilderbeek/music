@@ -8,4 +8,4 @@ German translation of [Al Heb Je Blauw Haar](20_al_heb_je_blauw_haar.md).
 
 ## [Lyrics](35_wenn_du_haettest_blaue_haare.txt)
 
-See [here](35_wenn_du_haettest_blaue_haare.txt).
+See [35_wenn_du_haettest_blaue_haare.txt](35_wenn_du_haettest_blaue_haare.txt).

@@ -6,4 +6,4 @@
 
 ## [Lyrics](23_slaapliedje.txt)
 
-See [here](23_slaapliedje.txt).
+See [23_slaapliedje.txt](23_slaapliedje.txt).

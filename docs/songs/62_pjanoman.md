@@ -15,7 +15,7 @@ C  G  Am C
 F  G  C
 ```
 
-See [here](62_pjanoman.txt).
+See [62_pjanoman.txt](62_pjanoman.txt).
 
 ## Background
 

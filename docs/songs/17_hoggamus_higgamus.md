@@ -5,7 +5,7 @@ The music is written by me on the 5th October of 2002.
 
 ## [Lyrics](17_hoggamus_higgamus.txt)
 
-See [here](17_hoggamus_higgamus.txt).
+See [17_hoggamus_higgamus.txt](17_hoggamus_higgamus.txt).
 
 ## Background
 

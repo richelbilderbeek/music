@@ -12,4 +12,4 @@
 
 ## [Lyrics](07_kinderliefde.txt)
 
-See [here](07_kinderliefde.txt).
+See [07_kinderliefde.txt](07_kinderliefde.txt).

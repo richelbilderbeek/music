@@ -10,7 +10,7 @@ Bilderbeek on the 20th and 21st May 2006
 
 ## [Lyrics](48_achter_mijn_raam.txt)
 
-See [here](48_achter_mijn_raam.txt).
+See [48_achter_mijn_raam.txt](48_achter_mijn_raam.txt).
 
 ## Background
 

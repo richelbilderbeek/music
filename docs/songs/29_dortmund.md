@@ -9,7 +9,7 @@ November 25th 2004.
 
 ## [Lyrics](29_dortmund.txt)
 
-See [here](29_dortmund.txt).
+See [29_dortmund.txt](29_dortmund.txt).
 
 ## Background
 

@@ -15,4 +15,4 @@ Nr |Title
 <!-- markdownlint-enable MD013 -->
 
 [Reviews of Richel Bilderbeek's songs](https://github.com/richelbilderbeek/RichelBilderbeekReviews)
-can be found [here](https://github.com/richelbilderbeek/RichelBilderbeekReviews).
+can be found [at his RichelBilderbeekReviews GitHub repository](https://github.com/richelbilderbeek/RichelBilderbeekReviews).

@@ -8,7 +8,7 @@ on June 7th 2004.
 
 ## [Lyrics](27_zonder_jou_weg.txt)
 
-See [here](27_zonder_jou_weg.txt).
+See [27_zonder_jou_weg.txt](27_zonder_jou_weg.txt).
 
 ## Background
 

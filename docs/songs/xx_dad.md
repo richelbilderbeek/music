@@ -7,4 +7,4 @@
 
 ## [Lyrics](xx_dad.txt)
 
-See [here](xx_dad.txt).
+See [xx_dad.txt](xx_dad.txt).

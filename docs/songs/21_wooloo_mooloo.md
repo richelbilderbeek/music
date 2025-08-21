@@ -24,7 +24,7 @@ Richel Bilderbeek, on the 12th of August 2003.
 
 ## [Lyrics](21_wooloo_mooloo.txt)
 
-See [here](21_wooloo_mooloo.txt)
+See [21_wooloo_mooloo.txt](21_wooloo_mooloo.txt)
 
 ## Background
 

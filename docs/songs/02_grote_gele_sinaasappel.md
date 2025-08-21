@@ -15,7 +15,7 @@ March 2001.
 
 ## [Lyrics](02_grote_gele_sinaasappel.txt)
 
-See [here](02_grote_gele_sinaasappel.txt).
+See [02_grote_gele_sinaasappel.txt](02_grote_gele_sinaasappel.txt).
 
 ## Background
 

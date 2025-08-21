@@ -23,7 +23,7 @@ written somewhere between 2000-09-21 and 2-12-2001.
 
 ## [Lyrics](03_ode_aan_masculiniteit.txt)
 
-See [here](03_ode_aan_masculiniteit.txt).
+See [03_ode_aan_masculiniteit.txt](03_ode_aan_masculiniteit.txt).
 
 ## Background
 
