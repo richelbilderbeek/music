@@ -21,6 +21,7 @@ matrix:
   sources:
   - 'docs/**/*.md'
   - 'README.md'
-  - !'docs/songs/19_het_leven_is_een_vuile_kolerelijer.md'
-  - !'docs/songs/66_ljum.md'
+  exclude:
+  - docs/songs/19_het_leven_is_een_vuile_kolerelijer.md
+  - docs/songs/66_ljum.md
   default_encoding: utf-8
