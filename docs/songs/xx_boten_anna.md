@@ -118,3 +118,13 @@ Hon gör sig av med alla som spam - mar
    C            G/B         Am
 Ja ingen kan slå   våran bot
 ```
+
+
+```text
+Hon var för kåt
+hon het Carola och hon van min bästa bot
+även att jag programmerad' hon så hårt
+ingen debugger som kan förklara
+och nu är hon raderat
+```
+
