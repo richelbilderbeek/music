@@ -1,0 +1,29 @@
+X:1
+T:Morgenvroeg
+C:Richel Bilderbeek
+L:1/4
+Q:1/4=168
+M:4/4
+K:B
+%
+V:V1 clef=treble
+V:V2 clef=bass
+%
+%
+[V:V1] "G#"zzzB     | "E"B ^A   G  ^A | "C#"B4     | "D#"zzzz     |
+w:           Ik     | zit  weer in de | kroeg      |              |
+[V:V2] zzzz         | zzzz            | zzzz       | zzzz         |
+%
+[V:V1] "G#"zzzB     | "E"B ^A   G   ^A   | "C#"B4     | "D#"zzzz     |
+w:           En~er  | is   geen weg meer | terug      |              |
+[V:V2] zzzz         | zzzz               | zzzz       | zzzz         |
+%
+[V:V1] "G#"zzzB     | "E"B ^A   G    ^A    | "C#"B4 | "D#"zzzz     |
+w:           De     | man  van  van- ocht- | end    |              |
+[V:V2] zzzz         | zzzz            | zzzz        | zzzz         |
+%
+[V:V1] "G#"zzzB     | "E"B ^A    G    ^A   | "C#"B4     | "D#"zzzz     |
+w:           ben~ik | pas   weer mor- gen- | vroeg      |              |
+[V:V2] zzzz         | zzzz                 | zzzz       | zzzz         |
+
+
