@@ -90,12 +90,15 @@ Nr |Date        |Name
 .  | 2025-03-06 | [Boten Anna](xx_boten_anna.md)
 .  | 20??-??-?? | [Dad](xx_dad.md)
 .  | 202?-??-?? | [Fakten](xx_fakten.md)
-.  | 202?-??-?? | [Forever Young](xx_forever_young.md)
 .  | 201?-??-?? | [Education Sentimentale](xx_education_sentimentale.md)
 .  | 2015-??-?? | [Moordenaars](xx_moordenaars.md)
-.  | 20??-??-?? | [Stars](xx_stars.md)
-.  | 202?-??-?? | [Your Smile](xx_your_smile.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
 .  | 2024-??-?? | [Vandraren](xx_vandraren.md)
+
+## Arrangements by others
+
+- [Forever Young](https://github.com/richelbilderbeek/forever_young_sheet_music)
+- [Stars](https://github.com/richelbilderbeek/stars_sheet_music)
+- [Your Smile](https://github.com/richelbilderbeek/your_smile_sheet_music)
 
 <!-- markdownlint-enable MD013 -->
