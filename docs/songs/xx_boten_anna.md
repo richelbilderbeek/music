@@ -1,5 +1,23 @@
 # Boten Anna
 
+Chord and progression:
+
+Scale|Chords
+-----|---------------------------
+C    |Am  -  F  G   C   G/B   Am
+G    |Em  -  C  D   G   D/F#  Em
+D    |Bm  -  G  A   D   A/C#  Bm
+A    |F#m -  D  E   A   E/G#  F#m
+E    |C#m -  A  B   E   B/D#  C#m
+B    |G#m -  E  F#  B   F#/A# G#m
+F#   |D#m -  B  C#  F#  C#/E# D#m
+Db   |Bbm -  Gb Ab  Db  Ab/C  Bbm
+Ab   |Fm  -  Db Eb  Ab  Eb/G  Fm
+Eb   |Cm  -  Ab Bb  Eb  Bb/D  Cm
+Bb   |Gm  -  Eb F   Bb  F/A   Gm
+F    |Dm  -  Bb C   F   C/E   Dm
+C    |Am  -  F  G   C   G/B   Am
+
 - Chords from [https://tabs.ultimate-guitar.com](https://tabs.ultimate-guitar.com/tab/basshunter/boten-anna-chords-1832652)
 
 ```text
