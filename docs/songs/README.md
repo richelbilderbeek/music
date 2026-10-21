@@ -94,6 +94,7 @@ Nr |Date        |Name
 .  | 2015-??-?? | [Moordenaars](xx_moordenaars.md)
 .  | 2022-??-?? | [Vaar Julskinka Har Rymt](xx_vaar_julskinka_har_rymt.md)
 .  | 2024-??-?? | [Vandraren](xx_vandraren.md)
+.  | 1998-??-?? | [Free](xx_free.md)
 
 ## Arrangements by others
 
