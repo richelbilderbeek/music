@@ -1,0 +1,40 @@
+X:1
+T:Vroeger
+C:Richel Bilderbeek, Geert van den Bogaart, Joost van den Bogaart
+%Melody composed by Richel Bilderbeek
+%Lyrics by Richel Bilderbeek, Geert van den Bogaart and Joost van den Bogaart
+%On the 18th April 2002
+%From http://www.richelbilderbeek.nl/SongVroeger.htm
+L:1/4
+Q:1/4=240
+M:4/4
+K:Bb
+V:V1 clef=treble
+V:V2 clef=bass
+%
+%E (shallow): E,, B,, E, B,,
+%F (shallow): F,, C,  F, C,
+%G (shallow): G,, D,  G, D,
+%
+%
+[V:V1] "Eb"[EG]2 A    B   | "F"A2  G2    | "G"A4        | "G"z4        |
+w:     Soms      denk ik  | bij    me-   | zelf         |              |
+[V:V2] E,, B,,   E,   B,, | F,, C, F, C, | G,, D, G, D, | F,, C, F, C, |
+%
+%
+%
+[V:V1] "Eb"[EG]2 A    B   | "F"A2  G2     | "G"D4        | "F"z4        |
+w:     Waar      gaat het | alle-   maal  | heen?        |              |
+[V:V2] E,, B,,   E,   B,, | F,, C,  F, C, | G,, D, G, D, | F,, C, F, C, |
+%
+%
+%
+[V:V1] "Eb"[EG]2 A  B    | "F"A2  G2    | "G"A4        | "F"z4        |
+w:     Vroe- ger    ging | alles  van-  | zelf         |              |
+[V:V2] E,, B,, E,   B,,  | F,, C, F, C, | G,, D, G, D, | F,, C, F, C, |
+%
+%
+%
+[V:V1] "Eb"[EG]2 A      B   | "F"c2  d2    | "G"[Gc]4     | "F"z4        |
+w:     Wever-    vallen in  | an-    ar    | chie         |              |
+[V:V2] E,, B,,   E,     B,, | F,, C, F, C, | G,, D, G, D, | F,, C, F, C, |
